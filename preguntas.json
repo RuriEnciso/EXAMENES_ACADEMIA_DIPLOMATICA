@@ -1,0 +1,295 @@
+{
+    "GEOGRAFIA": {
+        "2019": [
+            {
+                "pregunta": "Pregunta 1 de Geografía 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "a",
+                "explicacion": "Explicación para Geografía 2019, pregunta 1."
+            },
+            {
+                "pregunta": "Pregunta 2 de Geografía 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "b",
+                "explicacion": "Explicación para Geografía 2019, pregunta 2."
+            }
+        ],
+        "2020": [
+            {
+                "pregunta": "Pregunta 1 de Geografía 2020",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "c",
+                "explicacion": "Explicación para Geografía 2020, pregunta 1."
+            }
+        ],
+        "2021": [
+            {
+                "pregunta": "Pregunta 1 de Geografía 2021",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Geografía 2021, pregunta 1."
+            }
+        ],
+        "2022": [
+            {
+                "pregunta": "Pregunta 1 de Geografía 2022",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "a",
+                "explicacion": "Explicación para Geografía 2022, pregunta 1."
+            }
+        ],
+        "2023": [
+
+            {
+                "pregunta": "La ocurrencia alternada del día y la noche con una duración total de 24 horas en el planeta Tierra, es consecuencia de:",
+                "opciones": [
+                    "a) El movimiento de traslación.",
+                    "b) La alta circulación atmosférica.",
+                    "c) El movimiento de rotación sobre su eje.", 
+                    "d) La deriva continental.",
+                    "e) El movimiento de inclinación de la Tierra sobre su propio eje."
+                ],
+                "respuesta": "c",
+                "explicacion": "La Tierra realiza dos movimientos principales en su desplazamiento a través del espacio: \n- El movimiento de traslación (alrededor del Sol). \n- El movimiento de rotación (sobre su propio eje). \n\nEl movimiento de rotación de la Tierra es aquel por el cual el planeta gira sobre un eje imaginario llamado eje terrestre. Este eje es una línea recta que pasa por los polos Norte y Sur. \n\nLa Tierra completa una rotación completa en aproximadamente 24 horas. Este movimiento es la causa principal de la sucesión de días y noches en nuestro planeta. Mientras una mitad de la Tierra está expuesta a la luz solar y experimenta el día, la otra mitad está en sombra y experimenta la noche. \n\nEs importante señalar que el día y la noche no siempre duran exactamente 12 horas cada uno. Dependiendo de la ubicación geográfica y la época del año (debido a la inclinación del eje terrestre), la duración del día y la noche puede variar."
+            },
+            {
+                "pregunta": "La Geopolítica es una rama de la Geografía Humana que:",
+                "opciones": [
+                    "a) Estudia los efectos de la geografía humana y la geografía física sobre la política y las relaciones internacionales.",
+                    "b) Es un método de estudio de la política exterior para entender, explicar y predecir el comportamiento político internacional a través de variables geográficas.",
+                    "c) Estudia las consecuencias espaciales del proceso político. Hay geopolítica externa y otra interna.",
+                    "d) Designa todo lo relacionado con las rivalidades políticas por el poder o la influencia sobre determinados territorios y sus poblaciones",
+                    "e) Todas las definiciones anteriores son válidas y complementarias."
+                ],
+                "respuesta": "e",
+                "explicacion": "La Geopolítica estudia los efectos de la geografía humana y física sobre la política y las relaciones internacionales."
+            },
+            {
+                "pregunta": "Los factores geográficos claves que explican la gran variedad climática y diversidad de ecosistemas del Perú, son cuatro:",
+                "opciones": [
+                    "a) La corriente peruana o de Humboldt-la Contracorriente Ecuatorial (El Niño) - la Cordillera de los Andes - el bosque tropical amazónico.",
+                    "b) La Contracorriente Ecuatorial (El Niño) el piso andino Quechua – los caudalosos ríos amazónicos - el bosque tropical amazónico",
+                    "c) El bosque tropical seco (Bosque Tumbesino) la costa desértica - el altiplano en el entorno del Lago Titicaca - La actividad volcánica del pasado en el sur del país",
+                    "d) La masividad y altitud promedio de la Cordillera de los Andes - los manglares de Tumbes el desierto de Sechura - los profundos cañones andinos como los de Colca y Cotahuasi",
+                    "e) Las cumbres nevadas de la Cordillera de los Andes - el afloramiento de aguas frías en el mar del sur del país - el bosque tropical amazónico - el bosque de neblinas."
+                ],
+                "respuesta": "a",
+                "explicacion": "Los factores geográficos claves que explican la gran variedad climática y diversidad de ecosistemas del Perú son la corriente peruana, la Contracorriente Ecuatorial, la Cordillera de los Andes y el bosque tropical amazónico."
+            },
+            {
+                "pregunta": "El \"bosque seco tumbesino\" comprende ecosistemas de bosque seco tropical en la región costera del Pacífico al sur de la línea ecuatorial. En el Perú está presente en los departamentos de:",
+                "opciones": [
+                    "a) Tumbes, Piura y La Libertad",
+                    "b) Tumbes, Piura, Lambayeque y el norte de la Libertad",
+                    "c) Lambayeque y Cajamarca",
+                    "d) Sólo en Piura",
+                    "e) Lambayeque y La Libertad"
+                ],
+                "respuesta": "b",
+                "explicacion": "El bosque seco tumbesino está presente en los departamentos de Tumbes, Piura, Lambayeque y el norte de La Libertad."
+            },
+            {
+                "pregunta": "El Lago Titicaca en la frontera altiplánica entre el Perú y Bolivia está formado por dos cuerpos de agua separados por el estrecho de Tiquina, el lago ...... y el lago ..., siendo que pierde el 9 % de su masa anual a través del rio:",
+                "opciones": [
+                    "a) Mayor - Poopó - Desaguadero",
+                    "b) Chucuito Coipasa – Coata",
+                    "c) Arapa Huiñaymarca Ramis",
+                    "d) Chucuito Huiñaymarca - Desaguadero",
+                    "e) Parinacochas - Umayo - Suches"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Lago Titicaca está formado por dos cuerpos de agua separados por el estrecho de Tiquina: el lago Chucuito y el lago Huiñaymarca. Pierde el 9% de su masa anual a través del río Desaguadero."
+            },
+            {
+                "pregunta": "Según Javier Pulgar Vidal, se trata de una región caracterizada por sus pisos escarpados cubiertos de glaciares o de nieve. Lo difícil de su geografía impide la presencia continuada del hombre. El geógrafo se refiere a la región:",
+                "opciones": [
+                    "a) Quechua",
+                    "b) Yunga",
+                    "c) Janca",
+                    "d) Suni",
+                    "e) Puna"
+                ],
+                "respuesta": "c",
+                "explicacion": "La región Janca se caracteriza por sus pisos escarpados cubiertos de glaciares o de nieve, lo que impide la presencia continuada del hombre."
+            },
+            {
+                "pregunta": "En relación a un metal altamente apreciado, el Perú cuenta con las principales reservas mundiales por explotar que, de darse las condiciones políticas y económicas que respalden la inversión minera, podrá llevarnos a ser el principal país productor mundial. Ese metal es:",
+                "opciones": [
+                    "a) El cobre",
+                    "b) El oro",
+                    "c) La plata",
+                    "d) El estaño",
+                    "e) El aluminio (bauxita)"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Perú cuenta con las principales reservas mundiales de oro por explotar, lo que podría convertirlo en el principal país productor mundial."
+            },
+            {
+                "pregunta": "En el Perú, la contribución de los recursos energéticos renovables no convencionales (RER) para reducir las emisiones de CO2 (dióxido de carbono) y mitigar el cambio climático apenas bordea el 5% del total de las fuentes de generación de energía eléctrica. Entre ellas, la principal fuente es:",
+                "opciones": [
+                    "a) Plantas a biogás",
+                    "b) Centrales solares",
+                    "c) Parques eólicos",
+                    "d) Pequeñas centrales hidroeléctricas",
+                    "e) Plantas de biomasa"
+                ],
+                "respuesta": "d",
+                "explicacion": "La principal fuente de recursos energéticos renovables no convencionales en el Perú son las pequeñas centrales hidroeléctricas."
+            },
+            {
+                "pregunta": "En el Perú, mientras que la agricultura............ cada vez es más......... y se orienta la agricultura............ sigue basada en el.......... y destina su producción:",
+                "opciones": [
+                    "a) andina - diversificada a los mercados urbanos / costera - monocultivo – a proveer de insumos a la agroindustria nacional",
+                    "b) costera - estancada - al mercado nacional / andina - policultivo - al autoconsumo y las ferias agrarias locales",
+                    "c) andina de plantación a la exportación / costera- algodón y la caña de azúcar - a satisfacer la demanda nacional de alimentos",
+                    "d) costera- diversificada al autoconsumo / andina - el cultivo de productos nativos a los mercados mundiales",
+                    "e) costera-tecnificada-crecientemente a la exportación / andina-minifundio - tanto al autoconsumo como al mercado interno"
+                ],
+                "respuesta": "e",
+                "explicacion": "La agricultura costera en el Perú es tecnificada y se orienta crecientemente a la exportación, mientras que la agricultura andina sigue basada en el minifundio y destina su producción tanto al autoconsumo como al mercado interno."
+            },
+            {
+                "pregunta": "Las irrigaciones en la costa peruana, tienen, salvo uno de los enunciados, los siguientes propósitos. Marcar el que no corresponde:",
+                "opciones": [
+                    "a) Suplir, en parte, las tierras fértiles de los valles tomadas por la creciente urbanización",
+                    "b) Utilizar racionalmente el agua que baja del flanco oeste de la Cordillera Occidental Andina que llega en abundancia estacionalmente, antes de que se pierda en el mar",
+                    "c) Evitar la pérdida de las especies de flora nativa propias de la región costera",
+                    "d) Incrementar la extensión de sembríos de productos para la agro-exportación dada la cercanía de los puertos",
+                    "e) Mejorar los estándares técnicos con los que se desarrolla la actividad agrícola, lo que contribuye a incrementar su productividad"
+                ],
+                "respuesta": "c",
+                "explicacion": "Las irrigaciones en la costa peruana no tienen como propósito evitar la pérdida de las especies de flora nativa propias de la región costera."
+            },
+            {
+                "pregunta": "Estimulada por el aumento constante de su precio, debido a la creciente demanda mundial y especialmente de la China, la soya es un commodity que se está convirtiendo en el principal producto agrícola de exportación de los siguientes países sudamericanos:",
+                "opciones": [
+                    "a) Argentina, Colombia Venezuela y Brasil",
+                    "b) Brasil, Perú, Bolivia y Chile",
+                    "c) Ecuador, Paraguay, Bolivia y Uruguay",
+                    "d) Colombia, Chile, Argentina y Perú",
+                    "e) Brasil, Argentina, Bolivia y Paraguay"
+                ],
+                "respuesta": "e",
+                "explicacion": "La soya es el principal producto agrícola de exportación de Brasil, Argentina, Bolivia y Paraguay debido a la creciente demanda mundial."
+            },
+            {
+                "pregunta": "Colombia es un país caracterizado por su vigoroso sistema de ciudades multifuncionales, muchas de ellas millonarias en población. Después de Bogotá, la capital del pais, las tres ciudades más importantes desde el punto de vista demográfico son:",
+                "opciones": [
+                    "a) Cartagena Santa Marta – Cúcuta",
+                    "b) Medellín - Cali – Barranquilla",
+                    "c) Cali Manizales – Bucaramanga",
+                    "d) Pasto Medellín Villavicencio",
+                    "e) Pereira Cúcuta - Ibagué"
+                ],
+                "respuesta": "b",
+                "explicacion": "Después de Bogotá, las tres ciudades más importantes de Colombia desde el punto de vista demográfico son Medellín, Cali y Barranquilla."
+            },
+            {
+                "pregunta": "Los países de América del Sur que hacen parte de la Cuenca del Plata son:",
+                "opciones": [
+                    "a) Argentina, Uruguay y Chile",
+                    "b) Brasil, Paraguay, Bolivia, Argentina y Uruguay",
+                    "c) Bolivia, Paraguay y Argentina",
+                    "d) Brasil, Paraguay, Argentina y Uruguay",
+                    "e) Argentina y Uruguay"
+                ],
+                "respuesta": "b",
+                "explicacion": "Los países de América del Sur que hacen parte de la Cuenca del Plata son Brasil, Paraguay, Bolivia, Argentina y Uruguay."
+            },
+            {
+                "pregunta": "Entre los países centroamericanos, dos de ellos destacan por su crecimiento y diversificación económica, que los convierte, incluso, en proveedores de bienes manufacturados, algunos de ellos con alto contenido tecnológico, así como en ofertantes de servicios de educación superior de posgrado, financieros, y otros, para la región de América Latina. Esos países son:",
+                "opciones": [
+                    "a) Honduras y Nicaragua",
+                    "b) Guatemala y Costa Rica",
+                    "c) El Salvador y Panamá",
+                    "d) Costa Rica y Panamá",
+                    "e) Nicaragua y Guatemala"
+                ],
+                "respuesta": "d",
+                "explicacion": "Costa Rica y Panamá destacan por su crecimiento y diversificación económica, convirtiéndose en proveedores de bienes manufacturados y servicios de educación superior de posgrado, financieros y otros."
+            },
+            {
+                "pregunta": "Los grandes lagos de Norteamérica que en número de cinco comparten Canadá y los Estados Unidos (salvo el Lago Michigan que se encuentra íntegramente en Estados Unidos) son el mayor grupo de lagos de agua dulce del mundo formados al final de la última glaciación, y están conectados con el Atlántico Norte a través de:",
+                "opciones": [
+                    "a) El río Hudson",
+                    "b) El río Misisipi-Misuri",
+                    "c) El río Columbia",
+                    "d) El sistema fluvial del San Lorenzo",
+                    "e) No están conectados con el Océano Atlántico. Configuran una gran cuenca endorreica"
+                ],
+                "respuesta": "d",
+                "explicacion": "Los grandes lagos de Norteamérica están conectados con el Atlántico Norte a través del sistema fluvial del San Lorenzo."
+            },
+            {
+                "pregunta": "La profunda crisis política y económica que afecta al Reino Unido, en el contexto de su retiro de la Unión Europea (Brexit), la pandemia del Covid 19 y la Guerra entre Rusia y Ucrania, ha vuelto a traer a la actualidad las corrientes independentistas en uno de los países que lo conforman. Dicho país es:",
+                "opciones": [
+                    "a) Escocia",
+                    "b) Irlanda del Norte",
+                    "c) En ningún país miembro del Reino Unido hay una corriente de opinión importante que considere su retiro",
+                    "d) Gales",
+                    "e) Por el contrario, las Islas Feroe, ubicadas al norte de la isla de Gran Bretaña, están considerando solicitar su incorporación al Reino Unido"
+                ],
+                "respuesta": "a",
+                "explicacion": "La profunda crisis política y económica en el Reino Unido ha vuelto a traer a la actualidad las corrientes independentistas en Escocia."
+            },
+            {
+                "pregunta": "El río más importante de Europa, desde el punto de vista de la integración social, cultural y económica que promueve entre diez países europeos por los que pasa o hace parte de sus límites con otro Estado, es el:",
+                "opciones": [
+                    "a) Volga",
+                    "b) Danubio",
+                    "c) Sena",
+                    "d) Támesis",
+                    "e) Rin"
+                ],
+                "respuesta": "b",
+                "explicacion": "El río Danubio es el más importante de Europa desde el punto de vista de la integración social, cultural y económica que promueve entre diez países europeos."
+            },
+            {
+                "pregunta": "El Mar Báltico, que baña las costas de nueve países europeos, conecta con el Mar del Norte y luego con el Océano Atlántico y no se congela durante el invierno del hemisferio norte en más del 55% de su extensión, lo que se debe a:",
+                "opciones": [
+                    "a) El abrigo que representa la península de Jutlandia (Dinamarca)",
+                    "b) El efecto de la corriente cálida del Golfo (Gulf Stream) que atraviesa el Océano Atlántico, y es conocida en Europa como la Corriente del Atlántico Norte",
+                    "c) El enfriamiento con sus aguas de la energía calorífica que generan las plantas nucleares que producen electricidad cerca a ciudades próximas a las riberas de dicho mar",
+                    "d) Los sistemas montañosos de algunos países ribereños que impiden el ingreso de masas de aire polar",
+                    "e) El importante aporte de agua dulce que realizan los ríos de los países ribereños que entregan sus aguas a dicho mar"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Mar Báltico no se congela durante el invierno en más del 55% de su extensión debido al efecto de la corriente cálida del Golfo (Gulf Stream)."
+            },
+            {
+                "pregunta": "En el juego de la geopolítica mundial que representa la guerra entre Rusia y Ucrania, solamente uno de los enunciados que se listan a continuación no es cierto. Señálelo:",
+                "opciones": [
+                    "a) Después de anexarse la península de Crimea en 2014, como consecuencia de la actual guerra Rusia se ha anexado las regiones de Donetsk y Lugansk, en el este, y Jersón y Zaporiyia, en el sur, que suman casi 15% del territorio de Ucrania",
+                    "b) Los Estados Unidos, en pleno invierno del hemisferio norte, ha flexibilizado su pedido a sus socios europeos en la OTAN de no comprar crudo a Rusia, pero sin pagarle más de € 60 por barril",
+                    "c) Suiza, país europeo que no hace parte de la Unión Europea, está considerando solicitar su ingreso a la Unión para fortalecer la respuesta del bloque a la agresión rusa",
+                    "d) Hungría, país miembro de la Unión Europea desde 2004, ha explicitado su apoyo a Rusia en este conflicto bélico",
+                    "e) Polonia se ha convertido en el principal puente de apoyo de la OTAN y  Occidente a Ucrania, con la provisión, a través de la frontera común, de armas,  alimentos y otras  provisiones, además de convertirse en la principal ruta de salida  de refugiados ucranianos"
+                ],
+                "respuesta": "c",
+                "explicacion": "Suiza no está considerando solicitar su ingreso a la Unión Europea para fortalecer la respuesta del bloque a la agresión rusa."
+            },
+            {
+                "pregunta": "Algunos hitos de las tensas relaciones entre la República Popular China y Taiwán, varios de ellos con el involucramiento de los Estados Unidos, son los siguientes excepto uno. Marcar el que no es correcto:",
+                "opciones": [
+                    "a) La República Popular China considera a Taiwán como una \"provincia rebelde\"",
+                    "b) La presidenta de la Cámara de Representantes de los Estados Unidos visitó Taiwán el año 2022, generando la ira de los lideres politicos de la República Popular China",
+                    "c) Taiwán sigue siendo reconocida oficialmente por las Naciones Unidas como un Estado miembro",
+                    "d) En 1979 los Estados Unidos reconocieron a la República Popular China como el único gobierno legítimo de dicho país asiático",
+                    "e) Desde 1982, las relaciones entre Estados Unidos y Taiwán se basan en \"seis garantias\" una de las cuales es que el primer país no ha acordado fijar una fecha para poner fin a la venta de armas a Taiwán"
+                ],
+                "respuesta": "c",
+                "explicacion": "Taiwán no es reconocida oficialmente por las Naciones Unidas como un Estado miembro."
+            }
+        ]
+    },
+    "HISTORIA_PERU": {
+        "2019": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ]
+    }
+}
