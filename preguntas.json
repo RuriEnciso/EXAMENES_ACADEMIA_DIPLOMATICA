@@ -8,34 +8,1007 @@
                 "explicacion": "Explicación para Geografía 2019, pregunta 1."
             },
             {
-                "pregunta": "Pregunta 2 de Geografía 2019",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "La Geografía es la disciplina que estudia:",
+                "opciones": [
+                    "a) Los procesos sociales que ocurren en los diversos territorios y que explican la distribución espacial de las poblaciones",
+                    "b) Los procesos que resultan de las interacciones entre la sociedad y la naturaleza, destacando el uso y manejo de los recursos naturales y su distribución espacial",
+                    "c) La distribución de los procesos biológicos característicos de los diferentes pisos ecológicos de un determinado espacio territorial",
+                    "d) Los procesos socioeconómicos y políticos que ocurren en el espacio geográfico con consecuencias en la división administrativa de los territorios",
+                    "e) La Tierra como planeta y los cambios que se producen en ella como consecuencia del cambio climático"
+                ],
                 "respuesta": "b",
-                "explicacion": "Explicación para Geografía 2019, pregunta 2."
+                "explicacion": "La Geografía es una ciencia multidisciplinaria que estudia la relación entre las sociedades humanas y su entorno físico, examinando tanto el ambiente natural como las sociedades que se ubican y desarrollan en él."
+            },
+            {
+                "pregunta": "En la distribución de las zonas climáticas mundiales se toman como referencia las variaciones medias de temperaturas anuales que se distribuyen latitudinalmente. De acuerdo a ello, el Perú se ubica en las siguientes zonas climáticas:",
+                "opciones": [
+                    "a) Tropical, subtropical",
+                    "b) Tropical, subtropical, templada, fría",
+                    "c) Ecuatorial, subtropical",
+                    "d) Ecuatorial, tropical, templada, fría",
+                    "e) Ecuatorial, tropical, subtropical"
+                ],
+                "respuesta": "a",
+                "explicacion": "El Perú, al encontrarse cerca del ecuador, se halla primordialmente en la zona climática tropical y subtropical. Aunque cuenta con zonas templadas y frías en las alturas andinas, estas se deben a la altitud y no a la latitud."
+            },
+            {
+                "pregunta": "La delimitación del territorio del Perú, incluyendo su dominio marítimo:",
+                "opciones": [
+                    "a) Se encuentra concluida",
+                    "b) No ha concluido, pues falta determinar la extensión del dominio marítimo desde las líneas de base hacia el Océano Pacifico",
+                    "c) Concluirá cuando se ejecute el acuerdo sobre límites marítimos con Ecuador",
+                    "d) No ha concluido, pues se encuentra pendiente la colocación de hitos en la frontera con Brasil",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "La delimitación territorial del Perú está concluida, habiendo firmado y ratificado tratados de límites con todos sus países vecinos, incluyendo la resolución del litigio marítimo con Chile en 2014 por la Corte Internacional de Justicia."
+            },
+            {
+                "pregunta": "La Constitución Política del Perú de 1993 no establece que el Estado:",
+                "opciones": [
+                    "a) Determina la política nacional del ambiente",
+                    "b) Promueve el desarrollo sostenible de la Amazonía a través de una legislación adecuada",
+                    "c) Otorga subvenciones para promover el uso sostenible de sus recursos naturales",
+                    "d) Está obligado a promover la conservación de la diversidad biológica",
+                    "e) Está obligado a promover las áreas naturales protegidas"
+                ],
+                "respuesta": "c",
+                "explicacion": "La Constitución Política del Perú de 1993 no especifica directamente que el Estado otorgue subvenciones para promover el uso sostenible de sus recursos naturales. Las subvenciones y otros incentivos económicos son establecidos por leyes o políticas específicas."
+            },
+            {
+                "pregunta": "Antonio Brack Egg, ecologista oxapampino que fuera el primer Ministro del Ambiente, propuso la definición de once ecorregiones en el Perú. No forma parte de las ecorregiones propuestas:",
+                "opciones": [
+                    "a) El mar frío del ecosistema marítimo",
+                    "b) El desierto del Pacifico",
+                    "c) La selva media",
+                    "d) La puna",
+                    "e) El páramo"
+                ],
+                "respuesta": "c",
+                "explicacion": "La 'selva media' no figura en la clasificación de Brack Egg, que divide la región amazónica en 'Selva alta' y 'Selva baja'. Las 11 ecorregiones son: Mar frío de la Corriente Peruana, Mar tropical, Desierto del Pacífico, Bosque seco ecuatorial, Bosque húmedo tropical del Pacífico, Serranía esteparia, Puna, Selva alta, Selva baja, Sabana de palmeras y Páramo."
+            },
+            {
+                "pregunta": "Sobre los ríos del Perú, es correcto afirmar que:",
+                "opciones": [
+                    "a) La mayoría de los ríos se han formado como consecuencia de los deshielos de los glaciares ubicados en la Cordillera de los Andes",
+                    "b) Treintaidos ríos desembocan en el Océano Pacifico",
+                    "c) La mayoría de los ríos de la costa son navegables",
+                    "d) El río Amazonas es considerado el segundo río más largo del mundo, con cerca de 1,000 kilómetros de extensión",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "Los ríos del Perú se originan principalmente del deshielo de los glaciares en la Cordillera de los Andes, proporcionando agua para consumo humano, riego agrícola y generación de energía hidroeléctrica."
+            },
+            {
+                "pregunta": "Con respecto de la anchoveta en el dominio marítimo del Perú es correcto afirmar que:",
+                "opciones": [
+                    "a) Su consumo masivo en los pobladores de la costa ha representado un aporte importante en la lucha contra la anemia infantil",
+                    "b) Su extracción no está sujeta a vedas debido a su abundancia",
+                    "c) Su extracción es regulada por el Estado, debido a que es clave en la cadena trófica del mar peruano",
+                    "d) Su extracción es realizada principalmente por los pescadores artesanales",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "c",
+                "explicacion": "La anchoveta es un eslabón clave en la cadena trófica del mar peruano, alimentándose de plancton y sirviendo de alimento a otros organismos. Por su importancia ecológica y económica, su extracción está regulada por el Estado mediante vedas y cuotas de captura."
+            },
+            {
+                "pregunta": "Sobre la minería en el Perú, indique la opción correcta:",
+                "opciones": [
+                    "a) Fueron dos las culturas preincaicas que desarrollaron la metalurgia (Chavín y Nazca)",
+                    "b) El Perú es el mayor productor de oro en América Latina",
+                    "c) Representa más del 80% del PBI nacional",
+                    "d) Por diversas razones, hasta la fecha el canon producto de la minería no ha podido ser empleado en obras sociales",
+                    "e) Las respuestas b) y c) son correctas"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Perú ha mantenido una posición destacada en la producción de oro en América Latina, superando a otros países de la región en términos de volumen de producción, gracias a sus ricas regiones auríferas y la inversión en tecnología y exploración."
+            },
+            {
+                "pregunta": "La propiedad de los recursos genéticos del Perú corresponde a:",
+                "opciones": [
+                    "a) Quien los descubre",
+                    "b) El Estado",
+                    "c) Los empresarios que los explotan",
+                    "d) Los pueblos originarios del lugar donde se encuentran",
+                    "e) Los investigadores"
+                ],
+                "respuesta": "b",
+                "explicacion": "Los recursos genéticos ubicados en territorio nacional son patrimonio de la nación, y es el Estado el encargado de su gestión, protección y regulación. Esto busca protegerlos de la biopiratería y garantizar que los beneficios de su utilización sean compartidos de manera justa."
+            },
+            {
+                "pregunta": "Con respecto de la agroexportación peruana, indique la opción correcta:",
+                "opciones": [
+                    "a) Las uvas son el primer producto de exportación tradicional",
+                    "b) Luego de un importante impulso, la exportación de quinua peruana ha experimentado un constante decrecimiento a partir de 2016, debido a la competencia boliviana",
+                    "c) El Perú se encuentra entre los principales exportadores mundiales de espárragos frescos y paltas",
+                    "d) Solamente las respuestas a) y c) son correctas",
+                    "e) Las respuestas a), b) y c) son correctas"
+                ],
+                "respuesta": "c",
+                "explicacion": "Perú es líder mundial en la exportación de espárragos frescos y uno de los principales exportadores de paltas, especialmente la variedad Hass, gracias a sus condiciones climáticas favorables y la inversión en el sector agrícola."
+            },
+            {
+                "pregunta": "Sobre el Pisco:",
+                "opciones": [
+                    "a) Solo I es correcta: Es un destilado de uva, un licor elaborado exclusivamente en el Perú con 'uvas pisqueras'",
+                    "b) II, III y IV son correctas",
+                    "c) II y IV son correctas",
+                    "d) Todas son correctas",
+                    "e) Todas son incorrectas"
+                ],
+                "respuesta": "a",
+                "explicacion": "El Pisco es un destilado de uva producido exclusivamente en Perú con uvas específicas denominadas 'uvas pisqueras'. Las otras afirmaciones sobre disputas territoriales y derechos exclusivos basados en exportaciones son incorrectas."
+            },
+            {
+                "pregunta": "A consecuencia del Fenómeno El Niño en el Perú:",
+                "opciones": [
+                    "a) Se producen lluvias intensas",
+                    "b) Se incrementa la temperatura de las aguas de la Corriente de Humboldt",
+                    "c) Aumenta la producción de moluscos",
+                    "d) Se produce un impacto negativo en la agricultura",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "El Fenómeno El Niño produce múltiples efectos en el Perú: lluvias intensas por el aumento de la evaporación, calentamiento de las aguas de la Corriente de Humboldt, cambios en la producción marina incluyendo moluscos, y efectos negativos en la agricultura debido a las alteraciones en los patrones climáticos."
+            },
+            {
+                "pregunta": "Son importantes problemas ambientales del Perú:",
+                "opciones": [
+                    "a) La contaminación por evacuación de las aguas servidas al mar, ríos y lagunas",
+                    "b) La contaminación del aire por malas prácticas industriales",
+                    "c) La contaminación de ríos por la minería ilegal",
+                    "d) Insuficientes rellenos sanitarios",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "El Perú enfrenta múltiples problemas ambientales, incluyendo la contaminación de aguas por aguas servidas, contaminación del aire por industrias, contaminación de ríos por minería ilegal y la falta de rellenos sanitarios adecuados para la disposición de residuos."
+            },
+            {
+                "pregunta": "Basados en el último censo del Instituto Nacional de Estadística e Informática (INEI), realizado en 2017, es correcto afirmar que:",
+                "opciones": [
+                    "a) En el Perú el número de hombres es superior al número de mujeres",
+                    "b) La costa concentra más del 50% de la población del Perú",
+                    "c) La población del Perú supera los 35 millones de habitantes",
+                    "d) El Perú es el segundo país más poblado de América del Sur, después de Brasil",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "b",
+                "explicacion": "Según el censo de 2017, la costa peruana concentra más del 50% de la población total del país, debido a la presencia de principales ciudades, centros económicos y mejor infraestructura de servicios."
+            },
+            {
+                "pregunta": "Con respecto de la Antártida, es falso que el Perú:",
+                "opciones": [
+                    "a) Tiene 30 años de presencia, a lo largo de los cuales ha desarrollado 25 expediciones científicas",
+                    "b) Posee con exclusividad una base denominada 'Machu Picchu'",
+                    "c) Comparte la base chilena 'General Bernardo O'Higgins' en virtud del Convenio de Cooperación ANTAR Perú-Chile",
+                    "d) Es influenciado por los procesos de interacción océano - atmósfera de gran escala que se originan en la región antártica",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "c",
+                "explicacion": "Es falso que Perú comparta la base chilena 'General Bernardo O'Higgins'. Perú tiene su propia base llamada 'Machu Picchu' establecida en 1989 en la isla Rey Jorge. Aunque existe cooperación entre ambos países en investigación antártica, no comparten bases."
+            },
+            {
+                "pregunta": "El Rally Dakar 2019 fue realizado íntegramente en el Perú. Al respecto, es correcto afirmar que:",
+                "opciones": [
+                    "a) El Perú fue elegido por tener desiertos de mayor extensión que cualquier país africano",
+                    "b) El recorrido se realizó, en su mayor parte, en las arenas del desierto costero, con abundancia de dunas",
+                    "c) El paisaje peruano de la competencia fue comparado al de Mauritania, país ubicado en el sur del África",
+                    "d) Todas son correctas",
+                    "e) Solamente la b) y la d) son correctas"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Rally Dakar 2019 se desarrolló principalmente en el desierto costero peruano, aprovechando sus vastas dunas y variada topografía, que proporcionaron los desafíos necesarios para esta competencia."
+            },
+            {
+                "pregunta": "Con respecto del satélite peruano PerúSAT-1 es correcto afirmar que:",
+                "opciones": [
+                    "a) Es de utilidad para medir la deforestación y el deshielo de glaciares",
+                    "b) Permite al Perú detectar la presencia de embarcaciones extranjeras en su dominio marítimo",
+                    "c) Puede ser utilizado para la elaboración de la cartografía nacional",
+                    "d) Nunca llegó a ser utilizado debido a las fallas técnicas que presentó desde su adquisición",
+                    "e) Las respuestas a), b) y c) son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "El PerúSAT-1, lanzado en 2016, es utilizado para múltiples propósitos: monitoreo de deforestación y glaciares, vigilancia marítima, y elaboración de cartografía nacional, gracias a su capacidad de obtener imágenes de alta resolución."
+            },
+            {
+                "pregunta": "El 'cambio climático':",
+                "opciones": [
+                    "a) Es la modificación del clima como consecuencia, directa o indirecta, de la actividad humana, que altera la composición de la atmósfera mundial",
+                    "b) Representa para el Perú un gran reto, al poseer una gran diversidad de climas que requieren un amplio sistema de observación y monitoreo",
+                    "c) Muy probablemente favorable para el Perú, pues, al poseer gran variedad de climas, estos mutarán a otros tantos, ampliando más la diversidad",
+                    "d) La a) y la b) son correctas",
+                    "e) La a) y la c) son correctas"
+                ],
+                "respuesta": "d",
+                "explicacion": "El cambio climático es una modificación del clima causada por actividades humanas que alteran la atmósfera, y representa un gran desafío para el Perú debido a su diversidad climática y ecosistemas vulnerables."
+            },
+            {
+                "pregunta": "En la XXI Conferencia sobre el Cambio Climático (COP21), se estableció un plan de acción mundial que pone el límite del calentamiento global por debajo de:",
+                "opciones": [
+                    "a) Katowice-2018-3 C°",
+                    "b) Lima 2014-1.5 C°",
+                    "c) Marrakesh - 2017-2 C°",
+                    "d) Varsovia-2013-1.5 C°",
+                    "e) Paris-2015-2 C°"
+                ],
+                "respuesta": "e",
+                "explicacion": "En la COP21 de París (2015), se acordó mantener el aumento de la temperatura global por debajo de 2°C respecto a niveles preindustriales, con esfuerzos para limitarlo a 1.5°C."
+            },
+            {
+                "pregunta": "Con relación a las siguientes entidades del Estado, indique la relación incorrecta:",
+                "opciones": [
+                    "a) SENASA-vigilancia fitosanitaria y zoosanitaria",
+                    "b) ANA- gestión nacional de alimentos",
+                    "c) IGN elaboración y actualización de la cartografía oficial nacional",
+                    "d) SENACE certificación ambiental para proyectos de inversión",
+                    "e) IPEN-desarrollo de actividades aplicativas de la energía nuclear"
+                ],
+                "respuesta": "b",
+                "explicacion": "La relación incorrecta es ANA (Autoridad Nacional del Agua) con la gestión nacional de alimentos, ya que la ANA es el ente rector de los recursos hídricos en el Perú, no de alimentos."
             }
+                
         ],
         "2020": [
             {
-                "pregunta": "Pregunta 1 de Geografía 2020",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "El territorio del Perú se ubica:",
+                "opciones": [
+                    "a) Una parte en latitudes tropicales y otra en latitudes medias",
+                    "b) Una parte en el hemisferio sur y otra en el hemisferio norte de la Tierra",
+                    "c) Íntegramente en latitudes medias",
+                    "d) Íntegramente en el hemisferio sur y en latitudes tropicales",
+                    "e) Casi todo en el hemisferio sur; sólo una pequeña parte se ubica en el hemisferio norte"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Perú se encuentra en la costa oeste de América del Sur. Está situado íntegramente en el hemisferio sur del planeta, es decir, al sur del ecuador terrestre. La ubicación de Perú se extiende entre las latitudes 0° y 18°S, lo que significa que el país se encuentra completamente dentro de la zona tropical. En particular, está ubicado en la región denominada trópico de Capricornio. No se extiende hasta las latitudes medias y tampoco tiene territorio en el hemisferio norte."
+            },
+            {
+                "pregunta": "La Cordillera de los Andes en el Perú:",
+                "opciones": [
+                    "a) Genera pisos altitudinales que explican las permanentes bajas temperaturas y su escasa biodiversidad",
+                    "b) Constituye una barrera climática que impide el paso de los vientos húmedos de la Amazonía hacia la costa, así como el avance de la desertificación al interior del territorio",
+                    "c) Sus ramales occidental y central constituyen la divisoria de aguas de los ríos que drenan al Océano Pacífico y al Océano Atlántico",
+                    "d) Cuenta con glaciares que constituyen importante reserva de agua a lo largo de todo el año para la agricultura y otras actividades",
+                    "e) Es en promedio baja y poco abrupta comparativamente con sus características de relieve en los otros países andinos"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Cordillera de los Andes actúa como una barrera natural que divide el territorio peruano en diferentes regiones climáticas y ecológicas. Por un lado, tenemos la selva amazónica, caracterizada por su clima húmedo y tropical. Por otro lado, está la costa peruana, que es principalmente árida y desértica. La cordillera impide que los vientos húmedos de la Amazonía crucen hacia la costa. Si no fuera por esta barrera natural, el clima en la costa podría ser más húmedo y menos árido de lo que es. De manera similar, la Cordillera de los Andes también actúa como un escudo contra el avance de la desertificación desde la costa hacia el interior del país. Esto es especialmente importante para la preservación de los ecosistemas de la sierra y la selva."
+            },
+            {
+                "pregunta": "Una de las ocho regiones en las que divide al Perú Javier Pulgar Vidal se eleva entre los 2.300 y los 3.500 metros sobre el nivel del mar, con valles cuyos fondos planos son relativamente estrechos, y con un clima templado, agradable, con notable diferencia de temperatura entre el día y la noche. Esa región es la:",
+                "opciones": [
+                    "a) Quechua",
+                    "b) Selva alta o rupa-rupa",
+                    "c) Yunga",
+                    "d) Janca",
+                    "e) Puna"
+                ],
+                "respuesta": "a",
+                "explicacion": "La región Quechua es una de las ocho regiones naturales del Perú según la clasificación de Javier Pulgar Vidal. Se caracteriza por ubicarse entre los 2,300 y 3,500 metros sobre el nivel del mar, presentando valles con fondos planos relativamente estrechos y un clima templado agradable. Una característica distintiva es la notable diferencia de temperatura entre el día y la noche."
+            },
+            {
+                "pregunta": "El sistema urbano de un país requiere para ser equilibrado que, además de la capital nacional, existan algunas metrópolis regionales. En el caso del Perú, y de acuerdo al último censo de 2017, las dos ciudades que se aproximan a convertirse en metrópolis regionales, son:",
+                "opciones": [
+                    "a) Arequipa y Huancayo",
+                    "b) Piura y Cusco",
+                    "c) Trujillo y Chiclayo",
+                    "d) Iquitos y Piura",
+                    "e) Arequipa y Trujillo"
+                ],
+                "respuesta": "e",
+                "explicacion": "Arequipa y Trujillo son las dos ciudades que más se aproximan a convertirse en metrópolis regionales según el censo de 2017. Arequipa, conocida como 'La Ciudad Blanca', es la segunda ciudad más poblada del Perú y tiene una economía diversa con sectores fuertes en minería, industria, agricultura y servicios. Trujillo, ubicada en la costa norte, es una de las ciudades más grandes y pobladas del país, con una economía basada en agricultura, pesca, industria y turismo. Ambas ciudades tienen aeropuertos, universidades, centros culturales y una infraestructura en desarrollo que las posiciona como metrópolis regionales potenciales."
+            },
+            {
+                "pregunta": "La Corriente Peruana, conocida también como Corriente de Humboldt, es una corriente oceánica de aguas relativamente frias, que circula frente a nuestras costas y que explica:",
+                "opciones": [
+                    "a) La desertificación con alta humedad relativa en la atmósfera de la región costera",
+                    "b) La formación de los 52 valles costeños",
+                    "c) Las lluvias torrenciales estacionales en el norte del Perú que acarrean cuantiosas pérdidas económicas e incluso también pérdida de vidas humanas",
+                    "d) La escasez de especies de flora y fauna en la región costera",
+                    "e) La cada vez más rápida disminución de los organismos bentónicos y pelágicos en el mar peruano"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Corriente Peruana o Corriente de Humboldt trae aguas frías desde el océano Antártico hasta la costa peruana. La presencia de estas aguas frías reduce la temperatura del aire adyacente, llevando a una condensación que produce una capa de nubes estratiformes de baja altitud. Aunque esto genera alta humedad relativa en el ambiente y produce una 'garúa' o llovizna muy fina, raramente lleva a precipitaciones significativas. Como resultado, la costa peruana es desértica pero mantiene una alta humedad atmosférica."
+            },
+            {
+                "pregunta": "El acelerado deterioro ambiental en la selva baja del Perú es ocasionado por diversos factores, pero no por:",
+                "opciones": [
+                    "a) La creciente tala del bosque primario",
+                    "b) El cambio de uso del suelo: de bosque de protección a la agricultura o ganadería extensiva",
+                    "c) La contaminación de los cuerpos de agua, tanto por los elementos químicos que se arrojan en ellos por gente que practica actividades ilegales, como por la falta de tratamiento de las aguas servidas de las ciudades que crecen a ritmo acelerado",
+                    "d) La alteración del escurrimiento superficial de las aguas, consecuencia de la tala indiscriminada que deja grandes claros en el bosque propiciando la formación de lagunas y pantanos donde prosperan los vectores que transmiten enfermedades como la malaria",
+                    "e) La caza, pesca y agricultura migratoria que realizan las comunidades nativas con técnica heredadas ancestralmente"
+                ],
+                "respuesta": "e",
+                "explicacion": "Las comunidades nativas han desarrollado técnicas sostenibles de manejo de recursos naturales a lo largo de milenios. Sus prácticas de caza y pesca son principalmente para subsistencia y utilizan técnicas que evitan la sobreexplotación. La agricultura migratoria tradicional permite la regeneración natural del bosque. Estas prácticas ancestrales están en armonía con el ecosistema, a diferencia de las actividades industriales o comerciales que buscan la máxima explotación de los recursos."
+            },
+            {
+                "pregunta": "El Perú es un país con abundantes y variados recursos naturales. Sin embargo, entre los que se mencionan a continuación, proporcionalmente es el recurso más escaso:",
+                "opciones": [
+                    "a) Suelo agrícola",
+                    "b) Minero metálico",
+                    "c) Forestal",
+                    "d) Hídrico",
+                    "e) Hidrocarburifero"
+                ],
+                "respuesta": "a",
+                "explicacion": "A pesar de su vasta extensión territorial, el Perú tiene un porcentaje relativamente pequeño de tierra adecuada para la agricultura. La costa es predominantemente desértica aunque fértil con irrigación. La sierra es montañosa con valles interandinos limitados. La selva tiene suelos con nutrientes rápidamente agotables. En contraste, el país tiene abundantes recursos minerales, forestales, hídricos e hidrocarburíferos."
+            },
+            {
+                "pregunta": "Indique cuál es la afirmación incorrecta sobre los Santuarios Nacionales:",
+                "opciones": [
+                    "a) Tienen una o varias comunidades bióticas",
+                    "b) Tienen especies endémicas o de distribución restringida",
+                    "c) Pueden ser intervenidas para el uso de recursos",
+                    "d) Pueden albergar formaciones geológicas únicas",
+                    "e) En ellas pueden realizarse actividades de investigación, educación, turismo y recreación"
+                ],
                 "respuesta": "c",
-                "explicacion": "Explicación para Geografía 2020, pregunta 1."
+                "explicacion": "Los Santuarios Nacionales están destinados principalmente a la protección de especies o comunidades bióticas endémicas o de distribución restringida. Las actividades extractivas o que puedan causar impacto negativo generalmente no están permitidas. Solo se permiten actividades de investigación, educación, turismo y recreación que no dañen el ecosistema o la biodiversidad del santuario."
+            },
+            {
+            "pregunta": "Indique la relación correcta respecto de los siguientes Parques Nacionales: A. Del Manu, B. De Cutervo, C. Tingo María, D. Otishi. I. Junín y Cusco, II. Huánuco, III. Cajamarca, IV. Madre de Dios.",
+                "opciones": [
+                    "a) A-IV/ B-I/C-III/D-I",
+                    "b) A-II/B-II/C-IV D-l",
+                    "c) A-IV/B-III/C-II/D-I",
+                    "d) A-IV B-1/ C-II/D-lll",
+                    "e) A-III/B-II/ C-IV/ D-I"
+                ],
+                "respuesta": "c",
+                "explicacion": "A. Del Manu - IV. Madre de Dios.\nEl Parque Nacional del Manu está ubicado en la región suroriental del Perú, abarcando territorios tanto de Madre de Dios como de Cusco. Es una de las áreas protegidas con mayor biodiversidad en el mundo y es también Patrimonio Natural de la Humanidad, designado por la UNESCO.\nB. De Cutervo - III. Cajamarca.\nEl Parque Nacional de Cutervo fue el primer parque nacional establecido en el Perú, en 1961. Está ubicado en la región de Cajamarca. \nC. Tingo María - II. Huánuco.\nEl Parque Nacional Tingo María está situado en la región de Huánuco. Es conocido por la 'Bella Durmiente', una formación montañosa que recuerda la silueta de una mujer durmiendo, y por la Cueva de las Lechuzas, una formación geológica característica.\nD. Otishi - I. Junin y Cuzco.\nEl Parque Nacional Otishi se ubica en las regiones de Junín y Cusco. Se estableció para proteger una parte de la selva alta, con maravillosos paisajes, cascadas, y cañones."
+            },
+            {
+                "pregunta": "Con respecto de la pesquería en el Perú, marque la afirmación falsa:",
+                "opciones": [
+                    "a) Es principalmente marítima y se distribuye esencialmente en pesca de anchoveta y de atún, en proporciones similares",
+                    "b) Solo un pequeño porcentaje de la pesca se destina al consumo humano directo, pues más del 90% se emplea en la producción de harina y aceite",
+                    "c) El Perú es el primer país productor en el mundo de harina y aceite pescado",
+                    "d) La pesca artesanal en el Perú representa alrededor del 90% de las embarcaciones pesqueras y es la principal generadora de empleo en el sector",
+                    "e) El Perú se encuentra entre los diez principales países pesqueros del mundo"
+                ],
+                "respuesta": "a",
+                "explicacion": "La pesquería en el Perú es predominantemente marítima, pero la afirmación de que la pesca se distribuye en proporciones similares entre anchoveta y atún es falsa. La anchoveta representa una cantidad significativamente mayor en términos de volumen de captura que el atún en el Perú. La anchoveta es el recurso pesquero más importante y se destina principalmente a la producción de harina y aceite de pescado."
+            },
+            {
+                "pregunta": "El Perú propicia y participa activamente en la integración fronteriza. Al respecto, señale cuál de las siguientes afirmaciones resulta incorrecta:",
+                "opciones": [
+                    "a) La integración fronteriza espontánea existe desde siempre, estimulada por las carencias en servicios para las poblaciones fronterizas del Perú o del país limítrofe",
+                    "b) La integración fronteriza con Chile no se ha iniciado formalmente en tanto ese país privilegia los programas de cooperación fronteriza con Bolivia",
+                    "c) La firma de la paz con el Ecuador en 1998 propició un proceso de integración fronteriza de lo más dinámico y positivo, que sigue vigente",
+                    "d) En el altiplano peruano-boliviano la integración espontánea es sumamente intensa y de larga data",
+                    "e) En las márgenes del rio Putumayo, el Perú y Colombia están llevando a cabo la implementación del Plan de Desarrollo de la Zona de Integración Fronteriza"
+                ],
+                "respuesta": "b",
+                "explicacion": "Es incorrecto afirmar que la integración fronteriza con Chile no se ha iniciado formalmente. Perú y Chile han establecido acuerdos y mecanismos de cooperación para promover la integración fronteriza y el desarrollo de zonas comunes. El hecho de que Chile mantenga conversaciones con Bolivia sobre el acceso al mar no significa que priorice la integración fronteriza con Bolivia por sobre su relación con Perú."
+            },
+            {
+                "pregunta": "Con respecto de la Antártida, indique la afirmación correcta:",
+                "opciones": [
+                    "a) Es el único país en el mundo cuyo gobierno es ejercido por una comunidad de Estados (los Estados parte del Tratado Antártico), lo que ha permitido que se use exclusivamente para fines pacíficos",
+                    "b) A pesar de la gran distancia que la separa del Perú, la Antártida tiene gran influencia en la riqueza marina nacional",
+                    "c) El krill de aguas antárticas carece de interés para el Perú debido a que se trata de un producto escaso",
+                    "d) Desde 1989 el Perú cuenta con la Base Machu Picchu para el desarrollo de diversos proyectos de investigación científica; sin embargo, hasta el momento no posee ningún buque oceanográfico apropiado para zonas polares",
+                    "e) El Perú aspira a llegar a ser miembro consultivo del Tratado Antártico"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Antártida juega un papel crucial en la regulación de los sistemas oceánicos y climáticos del mundo. Las aguas frías y ricas en nutrientes que se originan en la Antártida influyen en el Océano Pacífico y la Corriente de Humboldt, que contribuye significativamente a la riqueza marina del Perú. El krill antártico es esencial en la cadena alimenticia oceánica y afecta a especies que migran por el Pacífico Sur. Cualquier cambio en la Antártida puede afectar indirectamente la biodiversidad y salud de los ecosistemas marinos peruanos."
+            },
+            {
+                "pregunta": "Entre los países de América del Sur están vigentes varias iniciativas de integración subregional. Señale aquella que incorpora a algún país que no es parte de Sudamérica.",
+                "opciones": [
+                    "a) Comunidad Andina",
+                    "b) Alianza del Pacifico",
+                    "c) MERCOSUR",
+                    "d) IIRSA",
+                    "e) UNASUR"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Alianza del Pacífico es una iniciativa de integración regional fundada en 2011 que está compuesta por cuatro países: Chile, Colombia, México y Perú. A diferencia de las otras opciones proporcionadas, la Alianza del Pacífico incluye a México, que es un país de América del Norte y no de Sudamérica. Esta característica la diferencia de las demás iniciativas mencionadas, que están compuestas exclusivamente por países sudamericanos. La Alianza del Pacífico se centra en la libre circulación de bienes, servicios, capitales y personas entre los países miembros. A lo largo de los años, la Alianza ha llevado a cabo diversas medidas para profundizar la integración económica y comercial, incluyendo la eliminación de aranceles para numerosos productos y la promoción conjunta de inversiones y turismo. Además de los países miembros, la Alianza del Pacífico tiene una serie de estados observadores que han mostrado interés en acercarse o incluso integrarse en este bloque, demostrando la relevancia de esta plataforma de integración en el contexto latinoamericano y mundial."
+            },
+            {
+                "pregunta": "Indique las tres ciudades más grandes de América Latina en términos poblacionales, incluyendo sus áreas metropolitanas:",
+                "opciones": [
+                    "a) México D.F. - Sao Paulo - Buenos Aires",
+                    "b) Brasilia-Santiago de Chile - México D.F.",
+                    "c) Rio de Janeiro - Lima – Bogotá",
+                    "d) Sao Paulo - Caracas – Guayaquil",
+                    "e) Buenos Aires - Monterrey – Medellín"
+                ],
+                "respuesta": "a",
+                "explicacion": "Las tres ciudades más grandes de América Latina en términos poblacionales son: México D.F. (Ciudad de México), una de las zonas urbanas más grandes y pobladas del mundo; Sao Paulo, la ciudad más poblada de Brasil y de todo el hemisferio sur; y Buenos Aires, la capital argentina, que junto con su área metropolitana se cuenta entre las más grandes de América Latina."
+            },
+            {
+                "pregunta": "En el marco de una economía muy importante pero endeudada, de acuerdo a datos estimados para 2019 por el Fondo Monetario Internacional (FMI), el Producto Bruto Interno (PBI) de los Estados Unidos:",
+                "opciones": [
+                    "a) Ha sido prácticamente igualado por el de China",
+                    "b) Es 20% mayor que el del conjunto de países que integran la Unión Europea",
+                    "c) Determina que Estados Unidos siga siendo la primera economía mundial, a nivel de países",
+                    "d) Representa la quinta parte de la economía mundial",
+                    "e) Decae año a año y, además de China, hay otros dos países que se le están aproximando"
+                ],
+                "respuesta": "c",
+                "explicacion": "Según el Fondo Monetario Internacional (FMI), para el año 2019, la economía de Estados Unidos seguía siendo la más grande del mundo en términos de Producto Bruto Interno (PBI) nominal, aunque China lidera en términos de PBI medido por Paridad de Poder Adquisitivo (PPA)."
+            },
+            {
+                "pregunta": "La Sierra ha sido históricamente para el Perú una región de primera importancia cultural, social, económica y demográfica. Respecto de esto último, la evolución o 'peso' demográfico de esta región entre el censo de 1940 y el de 2017, demuestra que:",
+                "opciones": [
+                    "a) Ha mantenido su secular importancia poblacional",
+                    "b) Ha pasado de contener las dos terceras partes de la población del país, a apenas poco más de la cuarta parte",
+                    "c) Los grandes proyectos mineros y la introducción de la agricultura tecnificada están permitiendo desde años recientes que incremente gradualmente su importancia demográfica",
+                    "d) Es tan marcada la disminución de su 'peso' demográfico, que, de seguir la tendencia de las últimas décadas, la sierra se convertirá en el lapso de una década en una región de tránsito entre la costa y la selva",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Sierra ha experimentado un cambio demográfico significativo, pasando de contener dos tercios de la población del país a apenas más de un cuarto. Esta disminución se debe a factores como la migración hacia zonas urbanas en busca de mejores oportunidades económicas, la violencia política de los años 80 y 90, y el desarrollo de infraestructuras en la región costera."
+            },
+            {
+                "pregunta": "El 'Espacio Schengen,' hace referencia a un espacio en el que 26 países europeos reconocieron desde 1995 la abolición recíproca de sus fronteras para la libre circulación de personas. Dos países que, siendo miembros de la Unión Europea nunca formaron parte del espacio Schengen son:",
+                "opciones": [
+                    "a) Alemania y Bulgaria",
+                    "b) Austria y Suecia",
+                    "c) Finlandia y Portugal",
+                    "d) Croacia y Polonia",
+                    "e) Irlanda y Reino Unido"
+                ],
+                "respuesta": "e",
+                "explicacion": "Irlanda y Reino Unido optaron por no participar en el Acuerdo de Schengen debido a su situación geográfica como islas, su deseo de mantener el control sobre la inmigración, y la existencia de una frontera común en la isla de Irlanda."
+            },
+            {
+                "pregunta": "Para la flota naval rusa estacionada en el Mar Negro es imprescindible utilizar el Estrecho de los Dardanelos para acceder a la estratégica región de:",
+                "opciones": [
+                    "a) El Océano Ártico",
+                    "b) El Golfo Pérsico",
+                    "c) El Mar Mediterráneo",
+                    "d) El Océano Pacifico",
+                    "e) El Mar de la China Meridional"
+                ],
+                "respuesta": "c",
+                "explicacion": "El Estrecho de los Dardanelos es vital para la flota rusa del Mar Negro porque proporciona la única salida al Mar Mediterráneo, permitiendo acceso a bases navales aliadas, realización de ejercicios conjuntos y despliegues en el norte de África y Medio Oriente."
+            },
+            {
+                "pregunta": "A pesar del impresionante crecimiento económico contemporáneo de China, este país mantiene pendiente de solución varias cuestiones geopolíticas:",
+                "opciones": [
+                    "a) La reincorporación de Taiwán",
+                    "b) La soberanía sobre los archipiélagos del Mar de China meridional",
+                    "c) El problema del Tibet",
+                    "d) A, B y C son correctas",
+                    "e) ninguna de las opciones es correcta"
+                ],
+                "respuesta": "d",
+                "explicacion": "China, a pesar de su rápido crecimiento económico y su creciente influencia en el ámbito global, enfrenta una serie de desafíos geopolíticos: La reincorporación de Taiwán: Taiwán se ha gobernado como una entidad separada desde 1949, cuando las fuerzas nacionalistas se retiraron a la isla después de perder la guerra civil contra los comunistas. Aunque China considera a Taiwán como una provincia renegada que debe ser reincorporada, ya sea mediante la diplomacia o por la fuerza, Taiwán se ve a sí mismo como un Estado soberano. Las tensiones entre China y Taiwán han sido una constante, especialmente cuando Taiwán busca un reconocimiento internacional más amplio. La soberanía sobre los archipiélagos del Mar de China Meridional: El Mar de China Meridional es una región rica en recursos y estratégicamente importante. China reclama la mayoría de este mar, incluyendo varios archipiélagos que también son reclamados por otros países como Filipinas, Vietnam, Malasia y Brunei. Estas disputas han llevado a tensiones militares y diplomáticas en la región. El problema del Tíbet: El Tíbet fue anexado por China en 1950. Desde entonces, ha habido un movimiento constante en el Tíbet que busca una mayor autonomía o independencia de China. Beijing considera al Tíbet como parte integral de su territorio y ha reprimido cualquier movimiento separatista. La presencia del Dalai Lama en el exilio y su campaña global para el reconocimiento de los derechos tibetanos también ha sido una fuente de tensión entre China y otros países."
+            },
+            {
+                "pregunta": "Los tres países del Medio Oriente actualmente más importantes en materia de exportación de petróleo y gas natural, son:",
+                "opciones": [
+                    "a) Irán-Arabia Saudita – Kuwait",
+                    "b) Azerbaiyán - Irán- Uzbekistán",
+                    "c) Kuwait - Irak – Libia",
+                    "d) Arabia Saudita - Irak-Emiratos Árabes Unidos",
+                    "e) Qatar - Emiratos Árabes Unidos – Irán"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Medio Oriente ha sido tradicionalmente el centro del comercio mundial de petróleo y gas debido a sus vastas reservas de petróleo y su capacidad para influir en los precios del crudo a través de la OPEP (Organización de Países Exportadores de Petróleo). Tres de los principales productores y exportadores en esta región son: Arabia Saudita: Es el mayor exportador de petróleo del mundo y posee las segundas reservas probadas más grandes, solo superadas por Venezuela. El reino tiene una influencia significativa en la OPEP y juega un papel fundamental en la determinación de los precios del petróleo. Irak: Desde la caída de Saddam Hussein y, especialmente, después de la retirada de las tropas estadounidenses en 2011, Irak ha incrementado significativamente su producción y exportación de petróleo, convirtiéndose en uno de los principales productores de la OPEP. Emiratos Árabes Unidos (EAU): Aunque no es tan grande como Arabia Saudita en términos de producción, los EAU tienen significativas reservas de petróleo y son uno de los principales exportadores mundiales. Su infraestructura avanzada y su posición estratégica lo convierten en un importante jugador en el mercado global de energía. Estos tres países juntos representan una proporción significativa de la producción total de petróleo en el mundo y tienen un papel crucial en la estabilidad de los mercados energéticos globales."
             }
         ],
         "2021": [
             {
-                "pregunta": "Pregunta 1 de Geografía 2021",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "Una de las ramas más activas de la Geografía actualmente, coherente con el modo de vida de la mayor parte de la sociedad contemporánea, es la:",
+                "opciones": [
+                    "a) Geografía del Paisaje",
+                    "b) Geografía Urbana",
+                    "c) Geografía del Subdesarrollo",
+                    "d) Geografía del Consumo",
+                    "e) Geografía de la Energía"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Geografía Urbana se ha consolidado como una de las ramas más activas y relevantes de la Geografía en el mundo contemporáneo debido al aumento constante de la urbanización global. A medida que más personas se mudan a las ciudades en busca de oportunidades económicas, educación y mejores servicios, las áreas urbanas han crecido y se han vuelto más complejas. Esta tendencia ha llevado a un interés intensificado en estudiar cómo se desarrollan las ciudades, cómo se estructuran espacialmente y cómo los habitantes interactúan con su entorno urbano. Además, la Geografía Urbana no solo examina las características físicas de las ciudades, sino también sus aspectos socioeconómicos, culturales y políticos. Estos estudios ayudan a comprender las dinámicas del crecimiento urbano, los patrones de migración, la distribución espacial de los recursos y servicios, y la forma en que las políticas urbanas influyen en la vida diaria de las personas. La creciente importancia de las ciudades en la economía global, así como los desafíos asociados con la congestión, la contaminación, la desigualdad social y otros problemas urbanos, hacen que la Geografía Urbana sea esencial para planificar y gestionar el futuro de nuestras áreas urbanas."
+            },
+            {
+                "pregunta": "La extensión territorial del Perú, de 1'285,216 km² es muy similar en América del Sur a la superficie de:",
+                "opciones": [
+                    "a) Colombia y Bolivia",
+                    "b) Argentina y Chile",
+                    "c) Venezuela y Ecuador",
+                    "d) Paraguay y Colombia",
+                    "e) Chile y Venezuela"
+                ],
+                "respuesta": "a",
+                "explicacion": "El Perú cuenta con una extensión territorial de 1'285,216 km². Si se compara individualmente con otros países sudamericanos: Colombia tiene una extensión aproximada de 1'141,748 km². Bolivia tiene una extensión aproximada de 1'098,581 km². La superficie de ambos países, aunque no idéntica a la del Perú, está en un rango similar y es más cercana a la extensión del Perú que la superficie de los otros países listados en las otras opciones. Por otro lado, Argentina y Chile combinados superan ampliamente la extensión del Perú. Venezuela y Ecuador, así como Paraguay y Colombia juntos, tienen superficies combinadas que no coinciden tan estrechamente con la extensión del Perú como lo hacen Colombia y Bolivia por separado."
+            },
+            {
+                "pregunta": "El río Putumayo establece, en la mayor parte de su recorrido, la frontera entre el Perú y:",
+                "opciones": [
+                    "a) Brasil",
+                    "b) Bolivia",
+                    "c) Ecuador",
+                    "d) Colombia",
+                    "e) No establece la frontera con ningún país. Es un río de curso sucesivo que ingresa al Perú desde un país limítrofe"
+                ],
                 "respuesta": "d",
-                "explicacion": "Explicación para Geografía 2021, pregunta 1."
+                "explicacion": "El río Putumayo, también conocido en algunas partes como río Içá, es un importante río sudamericano que fluye principalmente a través de Colombia, Perú y Brasil. Durante gran parte de su recorrido, actúa como frontera natural entre Colombia y Perú. El Putumayo nace en la cordillera de los Andes en el sur de Colombia y fluye hacia el este a través de la selva tropical, marcando la frontera entre Colombia y Perú durante cientos de kilómetros. Finalmente, el río entra en Brasil y desemboca en el río Amazonas. Debido a su posición geográfica, el río ha sido históricamente significativo en términos de navegación y comercio en la región, así como en las disputas territoriales entre las naciones colindantes. Sin embargo, ha funcionado como una frontera pacífica entre Colombia y Perú durante más de un siglo, con ambos países colaborando en diversos esfuerzos para la gestión y conservación del río y su cuenca."
+            },
+            {
+                "pregunta": "Con relación a las localidades o distritos peruanos ubicados en zonas fronterizas indique la alternativa incorrecta:",
+                "opciones": [
+                    "a) Santa Rosa del Yavari - zona de frontera tripartipa Perú, Colombia y Brasil",
+                    "b) Guepí - zona de frontera tripartipa Perú, Ecuador y Colombia",
+                    "c) Aguas Verdes-zona de frontera Perú y Ecuador",
+                    "d) Iñapari-zona de frontera tripartipa Perú, Brasil y Bolivia",
+                    "e) Chacalluta - zona de frontera Perú y Chile"
+                ],
+                "respuesta": "e",
+                "explicacion": "Chacalluta no es una localidad peruana. En realidad, el Complejo Fronterizo Chacalluta es el principal punto de control fronterizo entre Perú y Chile, pero está ubicado en el lado chileno de la frontera. La contraparte peruana a este punto de control es el Complejo Fronterizo Santa Rosa. La ubicación de Chacalluta en el territorio chileno, y no en el peruano, hace que la afirmación de la alternativa 'e' sea incorrecta. Ambos puntos de control, Chacalluta en Chile y Santa Rosa en Perú, gestionan la mayoría del tráfico terrestre entre los dos países y se encuentran cerca de la ciudad de Tacna en Perú y Arica en Chile. La carretera que conecta estas dos ciudades es una arteria vital en las relaciones comerciales y turísticas entre ambos países."
+            },
+            {
+                "pregunta": "El fenómeno de la inversión térmica, característico en la costa peruana durante los meses de invierno, y por el cual las capas de la atmósfera por encima de los 500 metros tienen una temperatura mayor que al nivel del suelo, se explica por:",
+                "opciones": [
+                    "a) El ingreso repentino y ocasional de aguas cálidas desde el Pacífico Ecuatorial",
+                    "b) El alejamiento de la Corriente Peruana (o de Humboldt) de las costas del país",
+                    "c) La actividad de las manchas solares que afectan las temperaturas en nuestro planeta",
+                    "d) El denso manto de neblinas producidas como resultado del contacto de las aguas relativamente frías del océano con las masas de aire cálidas de latitudes subtropicales",
+                    "e) Se ha comprobado científicamente que la inversión térmica no existe"
+                ],
+                "respuesta": "e",
+                "explicacion": "La inversión térmica es un fenómeno atmosférico en el que la temperatura del aire no disminuye con la altura como normalmente sucede en la troposfera. En lugar de eso, la temperatura aumenta con la altura. En la costa peruana, durante los meses de invierno, este fenómeno es común debido a la combinación de las frías aguas de la Corriente de Humboldt (también conocida como Corriente Peruana) y las masas de aire cálido que provienen de latitudes más bajas. Bajo condiciones normales, el aire cerca del suelo es más cálido que el aire en altitudes más altas. Este aire cálido, siendo menos denso, asciende. Sin embargo, durante una inversión térmica, una capa de aire cálido atrapa al aire frío en el suelo, impidiendo que ascienda. En la costa peruana, la combinación de las frías corrientes marinas y el aire cálido subtropical da lugar a densas neblinas o garúas, que son características de los inviernos en esta región. Este fenómeno tiene importantes repercusiones en la calidad del aire, ya que los contaminantes quedan atrapados cerca del suelo, dificultando su dispersión."
+            },
+            {
+                "pregunta": "La deforestación en nuestra amazonia, que en los últimos años fluctúa entre las 120 a 150 mil hectáreas/año, es consecuencia de:",
+                "opciones": [
+                    "a) El cambio de uso del suelo: se deforesta para instalar ganado y luego desarrollar agricultura a gran escala (agricultura de plantación)",
+                    "b) El avance de madereros en el bosque primario que extraen sin control especies arbóreas de valor comercial",
+                    "c) La construcción de carreteras de penetración que favorecen el acceso al bosque de madereros y colonos, lo que acarrea su depredación",
+                    "d) El crecimiento de las ciudades amazónicas que necesitan cada vez mayores áreas para la expansión urbana y la provisión de alimentos y productos del bosque para sus habitantes",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "La deforestación en la Amazonía es un tema complejo y multifacético que resulta de una combinación de factores sociales, económicos y políticos. Cada una de las alternativas mencionadas contribuye en diversos grados a la deforestación: a) Cambio de uso del suelo: Es común que áreas de la Amazonía sean despejadas para dar paso a actividades ganaderas, que más tarde podrían convertirse en tierras agrícolas a gran escala. Esta transformación lleva a la pérdida permanente del bosque y altera los ecosistemas naturales. b) Madereros y deforestación selectiva: La extracción no regulada de árboles valiosos por madereros contribuye significativamente a la deforestación. Aunque a menudo solo se extraen ciertas especies, el proceso de extracción puede dañar o destruir árboles circundantes y fragmentar el bosque. c) Construcción de carreteras: Las carreteras que se construyen en la Amazonía a menudo abren áreas previamente inaccesibles a la actividad humana. Esto facilita el acceso de madereros, agricultores y colonos, lo que lleva a un aumento en la deforestación. d) Expansión de las ciudades amazónicas: A medida que crecen las poblaciones urbanas en la región amazónica, también lo hace la demanda de tierra para la expansión urbana, alimentos y otros recursos. Esto puede llevar a la deforestación en las áreas circundantes. La combinación de estos factores hace que la deforestación en la Amazonía sea un desafío persistente y requiere un enfoque multifacético para abordar y mitigar sus causas subyacentes."
+            },
+            {
+                "pregunta": "Con relación al Sistema de Áreas Naturales Protegidas del Perú, indique la relación incorrecta:",
+                "opciones": [
+                    "a) Parque Nacional Alto Purús - Ucayali y Madre de Dios",
+                    "b) Reserva Paisajística Subcuenca del Cotahuasi - Moquegua",
+                    "c) Parque Nacional Huascarán - Ancash",
+                    "d) Santuario Nacional Lagunas de Mejía -- Arequipa",
+                    "e) Reserva Nacional de Paracas - Ica"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Reserva Paisajística Subcuenca del Cotahuasi está ubicada en el departamento de Arequipa, no en Moquegua. Esta área protegida fue creada en el año 2005 y su principal objetivo es conservar los paisajes naturales y culturales que la conforman, especialmente el Cañón de Cotahuasi, que es uno de los cañones más profundos del mundo. Esta área también resguarda diversos ecosistemas que albergan a varias especies de flora y fauna en peligro de extinción. Dentro de las actividades económicas y tradicionales de la zona están la agricultura en terrazas y la ganadería, que coexisten con la preservación del entorno natural. La Reserva Paisajística Subcuenca del Cotahuasi también es un destino turístico que ofrece diversas actividades como el trekking, avistamiento de aves, y visitas a sitios arqueológicos."
+            },
+            {
+                "pregunta": "Entre las 8 regiones naturales en las que Javier Pulgar Vidal divide al país se encuentra una, ubicada entre los 1,000 a 2,500 metros sobre el nivel del mar (msnm) de la parte oriental del país, con relieve montañoso, valles estrechos y clima subtropical húmedo, con lluvias todo el año, especialmente durante el verano. Esa región es la:",
+                "opciones": [
+                    "a) Yunga marítima",
+                    "b) Chala",
+                    "c) Yunga fluvial",
+                    "d) Janca",
+                    "e) Rupa-rupa"
+                ],
+                "respuesta": "c",
+                "explicacion": "La clasificación de las regiones naturales del Perú propuesta por Javier Pulgar Vidal ha sido ampliamente aceptada y utilizada para entender la complejidad geográfica del país. Según esta división, el Perú se segmenta en ocho regiones naturales en función de altitud, clima, flora y fauna. La Yunga fluvial es una de estas regiones y se sitúa en las vertientes orientales de los Andes, entre los 1,000 y 2,500 metros sobre el nivel del mar (msnm). Esta región se caracteriza por: Clima subtropical húmedo: Las Yungas fluviales tienen un clima cálido y húmedo, con precipitaciones constantes a lo largo del año. Estas precipitaciones son más intensas durante el verano. Relieve montañoso con valles estrechos: Debido a su ubicación en las estribaciones de los Andes, esta región tiene un relieve caracterizado por montañas y valles fluviales estrechos. Biodiversidad: Las Yungas fluviales son hogar de una amplia diversidad biológica, tanto en flora como en fauna. Estas zonas actúan como una especie de \"puente\" entre las zonas altas andinas y la selva baja, por lo que combinan especies de ambos ecosistemas. La Yunga fluvial se diferencia de la Yunga marítima principalmente en la dirección (la marítima se ubica en la vertiente occidental de los Andes) y en sus características climáticas y de biodiversidad."
+            },
+            {
+                "pregunta": "La mayor contribución de la región andina al PBI del país, independientemente del sector servicios, se da a través de las siguientes dos actividades:",
+                "opciones": [
+                    "a) La agricultura y la explotación forestal",
+                    "b) La piscicultura y la producción de tubérculos andinos",
+                    "c) La minería y la generación de energías sostenibles",
+                    "d) La minería y la generación de energía hidroeléctrica",
+                    "e) La ganadería de camélidos sudamericanos y de bovinos"
+                ],
+                "respuesta": "d",
+                "explicacion": "La región andina del Perú, que comprende gran parte de la cordillera de los Andes, es rica en recursos naturales, y dos de sus actividades más relevantes con impacto en el Producto Bruto Interno (PBI) del país son: La minería: El Perú es uno de los principales productores de minerales a nivel mundial, ocupando puestos destacados en la producción de oro, plata, cobre, entre otros. Las zonas andinas albergan importantes yacimientos mineros y la actividad minera representa una de las principales fuentes de ingreso para el país, generando miles de empleos, tanto directos como indirectos. Además, esta actividad tiene un impacto significativo en las exportaciones peruanas. Generación de energía hidroeléctrica: Las características geográficas de la región andina, con sus elevadas montañas y cuencas fluviales, hacen que sea un lugar propicio para el desarrollo de proyectos hidroeléctricos. Estas centrales aprovechan el caudal y el desnivel de los ríos para generar electricidad. La energía hidroeléctrica es una fuente importante de electricidad en el país, y su desarrollo ha sido fundamental para satisfacer la creciente demanda de energía de la población y la industria. Aunque hay otras actividades económicas en la región andina, como la agricultura o la ganadería, la minería y la hidroelectricidad tienen un peso considerable en la economía nacional debido a su contribución al PBI y al sector exportador."
+            },
+            {
+                "pregunta": "En cuanto a las geoformas presentes en el litoral peruano:",
+                "opciones": [
+                    "a) Predomina un litoral muy accidentado, con abundancia de bahías, puntas, penínsulas e islas",
+                    "b) Es predominantemente lineal. Sólo destaca la Bahía de Paracas",
+                    "c) Es básicamente lineal, con la excepción de La Punta, en El Callao y la isla San Lorenzo al frente",
+                    "d) Predominan las islas, que, relacionadas a un mar rico en recursos hidrobiológicos, sostuvieron el auge del guano durante parte del siglo XIX",
+                    "e) Es predominantemente lineal, con pocas puntas y bahías e islas de pequeña superficie"
+                ],
+                "respuesta": "e",
+                "explicacion": "El litoral peruano, que se extiende a lo largo de aproximadamente 3,000 km, presenta características particulares que lo diferencian de otros litorales de América del Sur. Predominantemente lineal: A diferencia de otros litorales en el mundo que pueden tener abundantes bahías, penínsulas o islas, el litoral peruano es en su mayoría recto. Pocas puntas y bahías: Si bien hay algunas puntas y bahías en el litoral, como la Bahía de Paracas o la Punta Sal, estas no son predominantes en la geografía de la costa peruana. Islas de pequeña superficie: Aunque hay islas a lo largo del litoral, como las Islas Ballestas o la Isla San Lorenzo, son generalmente pequeñas en términos de superficie. Durante el siglo XIX, algunas de estas islas, particularmente las ubicadas cerca de la capital, Lima, tuvieron un papel crucial en la economía debido a la explotación del guano, pero esta actividad no estuvo relacionada con la predominancia de islas en la costa. Por lo tanto, la alternativa 'e' refleja adecuadamente las características del litoral peruano, que es en su mayoría lineal con pocos rasgos geográficos distintivos en términos de bahías, puntas o islas grandes."
+            },
+            {
+                "pregunta": "Con relación a las comunidades campesinas y nativas, indique la alternativa correcta:",
+                "opciones": [
+                    "a) Son autónomas en su organización, en lo económico y administrativo",
+                    "b) El Estado respeta su identidad cultural",
+                    "c) Tienen existencia legal y son personas jurídicas",
+                    "d) La propiedad de sus tierras es imprescriptible, salvo en el caso de abandono",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "Las comunidades campesinas y nativas en el Perú tienen una serie de derechos y características reconocidas y protegidas por la legislación nacional:\\n\\n- Son autónomas en su organización, en lo económico y administrativo: Las comunidades campesinas y nativas tienen el derecho de autogobernarse y de tomar decisiones relacionadas con su economía y administración interna de acuerdo con sus costumbres y tradiciones.\\n\\n- El Estado respeta su identidad cultural: La identidad cultural de las comunidades campesinas y nativas es un aspecto fundamental para su existencia y desarrollo. Por ello, el Estado peruano reconoce y respeta esta identidad, garantizando su preservación y promoción.\\n\\n- Tienen existencia legal y son personas jurídicas: Las comunidades campesinas y nativas son reconocidas legalmente en el Perú, lo que significa que pueden realizar actos jurídicos, poseer bienes y participar en litigios, entre otras acciones, bajo esta figura legal.\\n\\n- La propiedad de sus tierras es imprescriptible, salvo en el caso de abandono: Las tierras que pertenecen a las comunidades campesinas y nativas no pueden ser objeto de prescripción, es decir, no pueden perderse a favor de terceros por el simple paso del tiempo. Sin embargo, si las tierras son abandonadas, pueden ser susceptibles a procesos de prescripción."
+            },
+            {
+                "pregunta": "En la perspectiva de su proyección comercial global y especialmente con la Cuenca del Pacífico, el Perú viene construyendo un Complejo Portuario y Logístico con las características de un mega puerto. Éste se ubica en la localidad de:",
+                "opciones": [
+                    "a) Chancay",
+                    "b) IIo",
+                    "c) Paita",
+                    "d) Chimbote",
+                    "e) Salaverry"
+                ],
+                "respuesta": "a",
+                "explicacion": "El proyecto del mega puerto en Chancay ha sido concebido como una pieza clave en la estrategia de desarrollo logístico y portuario del Perú, con miras a consolidar su posición en el ámbito comercial, especialmente en relación con la Cuenca del Pacífico. Chancay está situado a unos 58 km al norte de Lima, lo que le proporciona acceso directo al mercado más grande del país."
+            },
+            {
+                "pregunta": "De acuerdo con el artículo 54 de la Constitución Política del Perú sobre el territorio, soberanía y jurisdicción, el territorio del Estado comprende:",
+                "opciones": [
+                    "a) El suelo, el mar hasta la zona económica exclusiva y el espacio aéreo que los cubre",
+                    "b) El suelo, el mar hasta la zona contigua y el espacio aéreo que los cubre",
+                    "c) El suelo, el subsuelo, el dominio marítimo y el espacio aéreo que los cubre",
+                    "d) El suelo, el dominio marítimo y el espacio aéreo que los cubre",
+                    "e) El suelo, el subsuelo, el dominio marítimo, el espacio aéreo que los cubre y el espacio ultraterrestre"
+                ],
+                "respuesta": "c",
+                "explicacion": "De acuerdo con el artículo 54 de la Constitución Política del Perú: \n- El suelo y el subsuelo: La Constitución establece que el territorio peruano comprende no solo la superficie del país sino también lo que está bajo ella. Esto significa que todos los recursos minerales, hidrocarburos y cualquier otro recurso natural que pueda encontrarse bajo la superficie terrestre pertenecen al dominio del Estado peruano. \n\n- Dominio marítimo: El dominio marítimo de la República del Perú comprende el mar adyacente a sus costas, así como su lecho y subsuelo, hasta el límite de las 200 millas marinas medidas desde las líneas de base que establece la ley. También es importante mencionar que, más allá de estas 200 millas, el Perú ejerce derechos de soberanía y jurisdicción para la investigación y explotación de los recursos del fondo y subsuelo del mar. \n\n- Espacio aéreo: El espacio que cubre y sobrepasa el territorio peruano también está bajo la soberanía del país. Esto incluye la regulación y control del tráfico aéreo, así como la explotación de cualquier recurso que pueda existir en dicho espacio. \n\nEl concepto de territorio en la Constitución no solo se refiere a la tierra física, sino que abarca una visión multidimensional que incluye desde las profundidades del subsuelo hasta las alturas del espacio aéreo."
+            },
+            {
+                "pregunta": "La Cordillera de los Andes, es la espina dorsal de siete países sudamericanos y tiene una decisiva importancia climática, ecológica, demográfica y económica para ellos. Sin embargo, sólo tres países tienen localizadas la ciudad capital en pisos altitudinales propiamente andinos. Estos son:",
+                "opciones": [
+                    "a) Bolivia, Colombia y Argentina",
+                    "b) Ecuador, Venezuela y Chile",
+                    "c) Ecuador, Colombia y Bolivia",
+                    "d) Perú, Chile y Colombia",
+                    "e) Colombia, Venezuela y Bolivia"
+                ],
+                "respuesta": "c",
+                "explicacion": "Las capitales de varios países de América del Sur están ubicadas en la Cordillera de los Andes, pero solo tres de ellas se encuentran en altitudes que se pueden considerar propiamente andinas: Ecuador - Quito: Ubicada a aproximadamente 2,850 metros sobre el nivel del mar (msnm), Quito es la capital de Ecuador. Está situada en las estribaciones de la Cordillera de los Andes, y su ubicación en estas altitudes le otorga un clima templado durante todo el año. Colombia - Bogotá: Bogotá, la capital de Colombia, está situada a 2,640 msnm en un altiplano de la cordillera oriental de los Andes. Al igual que Quito, su altura le confiere un clima fresco y templado. Bolivia - Sucre (capital constitucional) y La Paz (sede de gobierno): Sucre, la capital constitucional, está ubicada a una altitud de 2,800 msnm. La Paz, que es la sede del gobierno y la capital administrativa, está incluso más alta, ubicada a unos 3,650 msnm en un profundo cañón entre altas montañas andinas. La Paz es conocida por ser la capital más alta del mundo. Los otros países mencionados en las opciones, como Argentina, Venezuela, Perú y Chile, tienen sus capitales ubicadas fuera de las altitudes propiamente andinas, aunque también están influenciados por la Cordillera de los Andes en diversos aspectos."
+            },
+            {
+                "pregunta": "La agricultura industrial, del modelo plantación en el interior del subcontinente sudamericano, se ha incrementado sustancialmente en los últimos años, avanzando sobre ecosistemas como los del bioma amazónico o de la pampa húmeda, gracias a la creciente demanda y precios internacionales en alza del siguiente commodity.",
+                "opciones": [
+                    "a) El arroz",
+                    "b) La soya",
+                    "c) El algodón",
+                    "d) El maíz",
+                    "e) La avena"
+                ],
+                "respuesta": "b",
+                "explicacion": "La soya (o soja) ha experimentado un crecimiento exponencial en su demanda y  producción en las últimas décadas, particularmente en América del Sur. Varios  factores han impulsado este auge: \n- Demanda Global: La demanda mundial de soya ha aumentado debido a su  versatilidad como fuente de proteínas y aceite. Es utilizada en una amplia  variedad de productos alimenticios, forrajes para animales y, más recientemente,  en la producción de biodiesel. \n- Avances Tecnológicos: Los avances en la biotecnología agrícola han permitido  el desarrollo de variedades de soya genéticamente modificadas que son más  resistentes a plagas y herbicidas, lo que ha incrementado la eficiencia y  rentabilidad de su cultivo. \n- Economías Emergentes: Países como China e India, con poblaciones en rápido  crecimiento y economías en expansión, han aumentado significativamente su  demanda de soya, ya sea para el consumo directo o para la producción de  alimentos para animales. \nEl resultado de esta demanda creciente ha sido una expansión acelerada de los  cultivos de soya en América del Sur, especialmente en países como Brasil, Argentina  y Paraguay. Esto, a su vez, ha llevado a la conversión de vastas extensiones de  ecosistemas naturales, como el bioma amazónico y las pampas, en tierras agrícolas  dedicadas a la soya. La deforestación y el cambio de uso del suelo asociados con  esta expansión agrícola han generado preocupaciones ambientales significativas."
+            },
+            {
+                "pregunta": "Las tres cuencas hidrográficas que, en conjunto, drenan gran parte del territorio de los países sudamericanos, excepto Chile, son:",
+                "opciones": [
+                    "a) La del Amazonas, el Caquetá y el San Francisco",
+                    "b) La del Paraguay, el Mamoré y el Magdalena",
+                    "c) La del Madeira, la cuenca del Plata y la del Napo",
+                    "d) La cuenca del Plata, la del Amazonas y la del Orinoco",
+                    "e) La del Marañón, la del Ucayali y la del Madre de Dios"
+                ],
+                "respuesta": "d",
+                "explicacion": "Sudamérica cuenta con algunos de los ríos más extensos y caudalosos del mundo, y tres de las cuencas hidrográficas más importantes que drenan la mayoría del subcontinente, con la excepción de Chile, son:\n\nCuenca del Amazonas:\n- Es la cuenca fluvial más grande del mundo, cubriendo aproximadamente 7 millones de km².\n- Drena territorios de Brasil, Perú, Bolivia, Ecuador, Colombia, Venezuela, Guyana, Surinam y la Guayana Francesa.\n- El río Amazonas, que da nombre a la cuenca, es el río más caudaloso del mundo.\n\nCuenca del Plata:\n- Esta cuenca cubre alrededor de 3,2 millones de km² y está formada principalmente por los ríos Paraná, Paraguay y Uruguay.\n- Drena territorios de Argentina, Brasil, Bolivia, Paraguay y Uruguay.\n- Esta cuenca es de vital importancia económica para los países que comparten sus aguas, especialmente para la agricultura y la navegación.\n\nCuenca del Orinoco:\n- Se extiende por aproximadamente 880,000 km².\n- Principalmente drena territorios de Venezuela y Colombia.\n- Es un sistema fluvial crucial para la biodiversidad y las comunidades indígenas que habitan la región.\n\nEstas tres cuencas son fundamentales no solo por su tamaño y volumen de agua, sino también por su impacto en la biodiversidad, la economía y las culturas de la región."
+            },
+            {
+                "pregunta": "América Central o Centroamérica, es la región geográfica del continente americano ubicado entre América del Sur y América del Norte. Señale la afirmación incorrecta:",
+                "opciones": [
+                    "a) Está integrada por 7 países: Guatemala, Belice, Honduras, El Salvador, Nicaragua, Costa Rica y Panamá",
+                    "b) Predomina en ellos el clima tropical, acentuado por la presencia en sus costas orientales de la Corriente del Golfo",
+                    "c) Entre 1824 y 1840, Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica, estuvieron integradas en la República Federal de Centroamérica",
+                    "d) Panamá y Costa Rica son los países centroamericanos que presentan, largamente, el más alto PIB per cápita de la región",
+                    "e) Todos los países centroamericanos son bioceánicos: limitan con el Mar Caribe al este y con el Océano Pacífico al oeste"
+                ],
+                "respuesta": "e",
+                "explicacion": "La afirmación (e) es incorrecta porque no todos los países de América Central son bioceánicos. Un país bioceánico es aquel que tiene costas en dos océanos diferentes. Mientras que la mayoría de los países de América Central tienen costas tanto en el Mar Caribe (o Mar de las Antillas) como en el Océano Pacífico, Belice es una excepción. Belice tiene costas únicamente en el Mar Caribe, por lo que no es un país bioceánico. En resumen, la alternativa 'e' es incorrecta porque Belice, un país de América Central, no limita con el Océano Pacífico, solo con el Mar Caribe."
+            },
+            {
+                "pregunta": "Cuál de los siguientes países no participa en los reclamos territoriales del mar del sur de China o mar meridional de la China:",
+                "opciones": [
+                    "a) Vietnam",
+                    "b) China",
+                    "c) Filipinas",
+                    "d) Japón",
+                    "e) Malasia"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Mar del Sur de China es una región de aguas estratégicas y rica en recursos naturales que ha sido objeto de disputas territoriales entre varios países de Asia. Las naciones que han reclamado partes de este mar incluyen China, Vietnam, Filipinas, Malasia, Brunei y Taiwán. Japón, por otro lado, no está directamente involucrado en las disputas territoriales en el Mar del Sur de China. Sin embargo, Japón tiene sus propias disputas con China en otro frente: las Islas Senkaku (conocidas en China como las Islas Diaoyu) en el Mar de China Oriental. Estas islas son objeto de una disputa territorial entre China y Japón, pero están geográficamente separadas de las áreas en conflicto en el Mar del Sur de China. Por lo tanto, aunque Japón tiene tensiones marítimas con China, no está directamente involucrado en los reclamos territoriales del Mar del Sur de China."
+            },
+            {
+                "pregunta": "Rusia y Japón mantienen un conflicto diplomático por la posesión por parte de la primera potencia, desde la conclusión de la II Guerra Mundial, de un archipiélago que se extiende a lo largo de 1,300 km, en dirección nordeste desde la isla de Hokkaido (Japón) hasta la Península de Kamchatka (Rusia). Este archipiélago se denomina:",
+                "opciones": [
+                    "a) Islas Aleutianas",
+                    "b) Islas Kuriles",
+                    "c) Islas Marianas",
+                    "d) Islas Ryukyu",
+                    "e) Islas Andamán"
+                ],
+                "respuesta": "b",
+                "explicacion": "Las Islas Kuriles son un archipiélago que se extiende desde el norte de Hokkaido en Japón, hasta el sur de la península de Kamchatka en Rusia. Esta cadena de islas ha sido objeto de una larga disputa territorial entre Rusia (anteriormente la Unión Soviética) y Japón. La disputa comenzó al finalizar la Segunda Guerra Mundial. En 1945, las fuerzas soviéticas ocuparon las islas Kuriles, y tras la guerra, la Unión Soviética las anexó formalmente. Aunque Japón renunció a todos sus derechos sobre las islas Kuriles en el Tratado de Paz de San Francisco en 1951, no reconoció la soberanía soviética sobre ellas. El principal problema radica en la interpretación de qué islas específicas constituyen las 'Kuriles' mencionadas en el tratado. Hasta la fecha, Rusia y Japón no han firmado un tratado de paz para poner fin formalmente a las hostilidades de la Segunda Guerra Mundial, principalmente debido a esta disputa territorial."
+            },
+            {
+                "pregunta": "La cuenca del río Mekong es la más densamente poblada y fuente de vida del sudeste asiático. Está compartida por seis países, entre ellos los siguientes tres:",
+                "opciones": [
+                    "a) Tailandia, Laos y Vietnam",
+                    "b) India, Bangladesh y Birmania",
+                    "c) China, Camboya e Indonesia",
+                    "d) Nepal, China y Tailandia",
+                    "e) Vietnam, Camboya y Filipinas"
+                ],
+                "respuesta": "a",
+                "explicacion": "El río Mekong es uno de los ríos más largos del mundo y es fundamental para la vida y la economía del sudeste asiático. Su cuenca fluvial abarca varios países y es esencial para la vida de millones de personas que dependen de él para la agricultura, la pesca y el transporte. Tailandia: El Mekong sirve como frontera natural entre Tailandia y Laos en gran parte de su curso. Las personas que viven a lo largo del Mekong en Tailandia dependen del río para la agricultura, en especial para el cultivo de arroz, y para la pesca. Laos: El Mekong atraviesa Laos de norte a sur y es vital para el país, no solo para la agricultura y la pesca, sino también para la generación de energía hidroeléctrica, que es una fuente significativa de ingresos para Laos. Vietnam: El Mekong desemboca en el mar a través del Delta del Mekong en Vietnam. Esta región es conocida como \"el tazón de arroz\" de Vietnam debido a su enorme producción de arroz. El delta es una red de distribución y es fundamental para la economía vietnamita. Además de estos tres países, la cuenca del Mekong también se extiende por China, Birmania (Myanmar) y Camboya."
+            },
+            {
+                "pregunta": "Dentro del sistema mundial de ciudades, las 'ciudades globales' son aquellas que tienen un efecto directo y tangible en los asuntos mundiales a través de algo más que el medio socioeconómico, con influencia en términos de la cultura o la política. En la clasificación hecha por el 'Grupo de Estudios sobre Globalización y Ciudades Mundiales' (GaWC), las cuatro principales ciudades globales, o ciudades alfa, son:",
+                "opciones": [
+                    "a) Chicago Sao Paulo - Francfort - Sidney",
+                    "b) Los Angeles-Bruselas - Moscú - Shanghai",
+                    "c) Nueva York - Londres - Paris - Tokio",
+                    "d) Toronto Berlin - Bombay - Ciudad de México",
+                    "e) Hong Kong - Milán - San Francisco - Zúrich"
+                ],
+                "respuesta": "c",
+                "explicacion": "El término 'ciudad global' o 'ciudad mundial' se refiere a las ciudades que juegan un papel crucial en la economía global debido a su alta concentración de empresas, servicios financieros, medios de comunicación, arte y cultura. De acuerdo con el Grupo de Estudios sobre Globalización y Ciudades Mundiales (GaWC), las ciudades mencionadas en la alternativa c se destacan por diversas razones: Nueva York es el principal centro financiero de Estados Unidos y uno de los más relevantes a nivel mundial. Londres es un centro financiero dominante en el mundo. París es una potencia en términos de cultura, moda, arte y política. Tokio es un centro neurálgico para las finanzas, la tecnología y la cultura en Asia. Estas cuatro ciudades desempeñan funciones clave en la economía global."
+            },
+            {
+                "pregunta": "La fe musulmana se encuentra muy extendida en África del Norte, Medio Oriente y el Sudeste Asiático. En ese contexto, el país con la mayor cantidad absoluta de población musulmana es:",
+                "opciones": [
+                    "a) Argelia",
+                    "b) Irán",
+                    "c) Irak",
+                    "d) Indonesia",
+                    "e) Pakistán"
+                ],
+                "respuesta": "d",
+                "explicacion": "Aunque muchas personas asocian el islam principalmente con el Medio Oriente, el país con la mayor cantidad absoluta de musulmanes no se encuentra en esta región, sino en el sudeste asiático: Indonesia. Indonesia, un archipiélago compuesto por miles de islas, es el país con la mayor cantidad de musulmanes en términos absolutos del mundo. Según estimaciones, más del 87% de su población (que supera los 260 millones de habitantes) practica el islam."
+            },
+            {
+                "pregunta": "Entre los siguientes indique el país con menor ingreso nacional bruto per cápita, de acuerdo con las cifras del Banco Mundial del año 2019 (pre pandemia):",
+                "opciones": [
+                    "a) Perú",
+                    "b) Chile",
+                    "c) Panamá",
+                    "d) Costa Rica",
+                    "e) Argentina"
+                ],
+                "respuesta": "a",
+                "explicacion": "El Ingreso Nacional Bruto (INB) per cápita se utiliza para comparar la prosperidad económica de los países. Para 2019, de acuerdo con las cifras del Banco Mundial, Perú, a pesar de haber experimentado un considerable crecimiento económico en las últimas décadas gracias a factores como la minería, el turismo y la agroexportación, todavía tiene desafíos pendientes en términos de distribución equitativa de la riqueza. Esto ha resultado en un INB per cápita más bajo en comparación con los otros países mencionados en las opciones."
             }
         ],
         "2022": [
             {
-                "pregunta": "Pregunta 1 de Geografía 2022",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "Los puntos extremos en longitud (es decir, de este/oriente a oeste/occidente) del territorio peruano, son:",
+                "opciones": [
+                    "a) Confluencia del río Heath con el Madre de Dios - Punta Pariñas, en Talara, Piura",
+                    "b) El río Purús, 50 km aguas abajo de Puerto Esperanza - Punta de Chérrepe el límite entre La Libertad y Lambayeque",
+                    "c) Confluencia del río Yavarí con el Amazonas en Loreto - Punta Aguja en Bayóvar, Piura",
+                    "d) Naciente del río Desaguadero, en el límite altiplánico con Bolivia – Punta Herada, en Paita, Piura",
+                    "e) El vértice formado entre el límite con Bolivia y el río Acre, a cientos de metros al este de Iñapari, en Madre de Dios - la localidad de Punta Sal, en Tumbes"
+                ],
                 "respuesta": "a",
-                "explicacion": "Explicación para Geografía 2022, pregunta 1."
+                "explicacion": "La alternativa 'a' es la correcta por cuanto indica que los puntos extremos en longitud del territorio peruano son la 'Confluencia del río Heath con el Madre de Dios' y 'Punta Pariñas, en Talara, Piura'. La Confluencia del río Heath con el Madre de Dios se ubica en la región de Madre de Dios, en la selva sur del Perú, siendo el punto más oriental del territorio peruano. Punta Pariñas, en Talara, Piura, está ubicado en la costa norte del Perú y es el punto más occidental del país."
+            },
+            {
+                "pregunta": "En la Amazonía peruana, uno de los ecosistemas más ricos en biodiversidad e importancia hidrológica del mundo, ubicado aproximadamente entre los 2.500 y 1.000 msnm, es el denominado:",
+                "opciones": [
+                    "a) Selva alta",
+                    "b) Omagua",
+                    "c) Selva baja",
+                    "d) Bosque de neblinas",
+                    "e) Región de los pongos"
+                ],
+                "respuesta": "d",
+                "explicacion": "El bosque de neblinas es un ecosistema ubicado en las zonas de transición entre las regiones montañosas y las bajas de la Amazonía. Se caracteriza por su elevada humedad debido a la constante presencia de neblina, ubicándose generalmente entre los 1.000 y 2.500 msnm. Son considerados puntos calientes de biodiversidad, albergando una gran variedad de especies de flora y fauna, muchas de ellas endémicas."
+            },
+            {
+                "pregunta": "La baja temperatura de las aguas del mar peruano, a la largo de la mayor parte de nuestro litoral se debe a:",
+                "opciones": [
+                    "a) El efecto de la Contracorriente Ecuatorial",
+                    "b) El afloramiento de aguas frías desde la plataforma y el talud continental",
+                    "c) El cada vez más evidente debilitamiento del efecto atemperante de la corriente de 'El Niño'",
+                    "d) El funcionamiento del circuito oceánico del Pacífico Sur que acarrea aguas desde latitudes circunpolares",
+                    "e) Las bajas temperaturas están asociadas al cambio de las estaciones del año; así, en el verano las aguas son atemperadas"
+                ],
+                "respuesta": "d",
+                "explicacion": "El circuito oceánico del Pacífico Sur, también conocido como el Giro del Pacífico Sur, es un sistema de corrientes marinas que opera en el hemisferio sur y que se alimenta de aguas provenientes de latitudes circunpolares. Estas aguas circunpolares son notablemente frías debido a su origen cercano a la Antártida y se mueven hacia el norte a lo largo de la costa occidental de Sudamérica como parte de la Corriente de Humboldt."
+            },
+            {
+                "pregunta": "La mejora en la gestión de los recursos hídricos y la conservación de suelos en el Perú andino requiere de:",
+                "opciones": [
+                    "a) La regulación de las lagunas altoandinas",
+                    "b) La recarga de los acuíferos y bofedales, durante la temporada de lluvias, cuando el agua abunda",
+                    "c) Programas de reforestación de laderas",
+                    "d) Programas de siembra y cosecha de agua",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "La gestión adecuada de los recursos hídricos y la conservación de los suelos en el Perú andino requiere un enfoque integral que incluye la regulación de lagunas altoandinas como reservorios naturales, la recarga de acuíferos y bofedales durante la temporada de lluvias, programas de reforestación de laderas para prevenir la erosión, y programas de siembra y cosecha de agua para la recolección y uso eficiente del recurso hídrico."
+            },
+            {
+                "pregunta": "Como resultado de las diferencias en la tasa de crecimiento poblacional vegetativo y de los intensos procesos migratorios internos, según el Censo Poblacional de 2017, el segundo departamento más poblado del Perú, luego de Lima, es:",
+                "opciones": [
+                    "a) Puno",
+                    "b) Piura",
+                    "c) Arequipa",
+                    "d) Cajamarca",
+                    "e) La Libertad"
+                ],
+                "respuesta": "b",
+                "explicacion": "Piura es el segundo departamento más poblado del Perú después de Lima debido a factores como su larga historia de ocupación prehispánica, desarrollo económico importante en sectores como agricultura y pesca, migración interna en busca de oportunidades laborales, y una significativa tasa de natalidad."
+            },
+            {
+                "pregunta": "El Perú es un país con una red de carreteras incompleta y deficientemente desarrollada, al punto que incluso una capital departamental todavía no está integrada a la red vial nacional. Dicha ciudad es:",
+                "opciones": [
+                    "a) Chachapoyas en Amazonas",
+                    "b) Abancay en Apurimac",
+                    "c) Puerto Maldonado en Madre de Dios",
+                    "d) Iquitos en Loreto",
+                    "e) Cerro de Pasco en Pasco"
+                ],
+                "respuesta": "d",
+                "explicacion": "Iquitos, situada en el corazón de la Amazonía peruana, es la ciudad más grande del mundo que no es accesible por carretera desde el resto de su país. Esto se debe a la densa selva amazónica, consideraciones medioambientales, altos costos de construcción y la existencia de conexiones fluviales y aéreas alternativas."
+            },
+            {
+                "pregunta": "Indique la relación incorrecta:",
+                "opciones": [
+                    "a) Huaca Pucllana – Lima",
+                    "b) Fortaleza de Kuelap – Amazonas",
+                    "c) Tumbas Reales de Sipán – Lambayeque",
+                    "d) Baños del Inca – Piura",
+                    "e) Chavín de Huantar – Ancash"
+                ],
+                "respuesta": "d",
+                "explicacion": "La relación incorrecta se refiere a los 'Baños del Inca' ubicados en Piura, cuando en realidad, los 'Baños del Inca' se encuentran en Cajamarca. Es un complejo termal histórico que, según las crónicas, era utilizado por el Inca Atahualpa para sus baños rituales y relajación."
+            },
+            {
+                "pregunta": "Las fronteras peruanas enfrentan una serie problemas, entre ellos la falta de conectividad. Sin embargo, algunas de ellas mantenían hasta antes de la pandemia y el cierre de fronteras, relaciones de tipo social, cultural y comercial de cierta importancia con sus contrapartes de los países limítrofes. Entre ellas, la más activa es la que vincula:",
+                "opciones": [
+                    "a) Mediadora Rosa (Perú) con Leticia (Colombia)",
+                    "b) Tumbes (Perú) con Huaquillas-Machala (Ecuador)",
+                    "c) Tacna (Perú) con Arica (Chile)",
+                    "d) Iñapari (Perú) con Assís Brasil (Brasil)",
+                    "e) Desaguadero, peruano y boliviano"
+                ],
+                "respuesta": "c",
+                "explicacion": "La relación entre Tacna (Perú) y Arica (Chile) es una de las más dinámicas y activas entre las fronteras peruanas, con un flujo constante de personas y mercancías. Esto se debe a su historia compartida, intenso comercio bilateral y la búsqueda mutua de servicios y productos entre ambas poblaciones."
+            },
+            {
+                "pregunta": "No pertenece a la lista de pueblos indígenas u originarios del Perú:",
+                "opciones": [
+                    "a) Ashaninka",
+                    "b) Shipibo-Konibo",
+                    "c) Awajún",
+                    "d) Jibaro",
+                    "e) Pemón"
+                ],
+                "respuesta": "e",
+                "explicacion": "Los Pemón son un grupo indígena que no pertenece al Perú, sino que es originario de la región del Gran Sabana en el sureste de Venezuela, así como partes de Brasil y Guyana. Son reconocidos por su profunda conexión con el Parque Nacional Canaima y las majestuosas mesetas conocidas como tepuyes."
+            },
+            {
+                "pregunta": "La Reserva Nacional Pampa Galeras Barbara D'Achille que tiene como objetivo proteger la especie de fauna vicuña, se encuentra en la región:",
+                "opciones": [
+                    "a) Arequipa",
+                    "b) Ayacucho",
+                    "c) Puno",
+                    "d) Ancash",
+                    "e) La Libertad"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Reserva Nacional Pampa Galeras Barbara D'Achille se encuentra en la región de Ayacucho, específicamente en el distrito de Lucanas, provincia de Lucanas. Fue establecida en 1967 con el objetivo principal de proteger y conservar la vicuña, un camélido sudamericano conocido por su lujosa fibra."
+            },
+            {
+                "pregunta": "Considerando la Constitución Política del Perú, indique cuál de los siguientes elementos no forma parte del territorio del Estado:",
+                "opciones": [
+                    "a) El suelo",
+                    "b) El dominio marítimo",
+                    "c) El espacio aéreo sobre el suelo y el dominio marítimo",
+                    "d) El espacio ultraterrestre",
+                    "e) El subsuelo"
+                ],
+                "respuesta": "d",
+                "explicacion": "De acuerdo con la Constitución Política del Perú, el territorio del Estado es inviolable e incluye el suelo, el subsuelo, el dominio marítimo y el espacio aéreo que se extiende sobre ellos. El espacio ultraterrestre no forma parte del territorio del Estado peruano, ni de ningún otro Estado, según lo establecido por tratados internacionales."
+            },
+            {
+                "pregunta": "De acuerdo con las cifras presentadas por el INEI, la pobreza monetaria, que mide la capacidad de adquirir una canasta básica de alimentos y no alimentos, en el año 2020 ésta se elevó al ....de la población del país, lo que significa un retroceso de 10 años:",
+                "opciones": [
+                    "a) 15%",
+                    "b) 30.1%",
+                    "c) 25.1%",
+                    "d) 20%",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "b",
+                "explicacion": "Según el INEI, la pobreza monetaria en Perú aumentó al 30.1% en 2020, principalmente debido al impacto económico de la pandemia de COVID-19, que condujo a una reducción significativa de la actividad económica, el cierre de empresas y la pérdida de empleos."
+            },
+            {
+                "pregunta": "No obstante que el Tratado Antártico de 1959, congela las demandas de soberanía territorial sobre el continente helado, reconoce las reclamaciones territoriales hechas por algunos Estados previas a su suscripción. Un país firmante original del Tratado, que explicita sus expectativas de soberanía territorial mediante mapas oficiales que incluyen como parte de su territorio un segmento de la Antártida, y que cuenta con algunas pocas personas, hijos de sus ciudadanos, nacidos en ese continente, es:",
+                "opciones": [
+                    "a) Chile",
+                    "b) Noruega",
+                    "c) Australia",
+                    "d) República Sudafricana",
+                    "e) Nueva Zelanda"
+                ],
+                "respuesta": "a",
+                "explicacion": "Chile es uno de los países firmantes originales del Tratado Antártico que mantiene reclamaciones territoriales previas al tratado. El país reclama el Territorio Chileno Antártico entre los meridianos 53°W y 90°W, y ha tenido ciudadanos nacidos en la Antártida, como Juan Pablo Camacho Martino, nacido en la Base Frei Montalva en 1984."
+            },
+            {
+                "pregunta": "En América del Sur, el país que detenta una ubicación geográfica altamente estratégica, clave para consolidar la integración física del interior del subcontinente a través del transporte vial (carreteras), ferroviario y fluvial, es:",
+                "opciones": [
+                    "a) Bolivia",
+                    "b) Colombia",
+                    "c) Perú",
+                    "d) Brasil",
+                    "e) Argentina"
+                ],
+                "respuesta": "a",
+                "explicacion": "Bolivia tiene una ubicación geográfica central en Sudamérica, limitando con cinco países: Argentina, Brasil, Chile, Paraguay y Perú. Esta posición estratégica la convierte en un punto clave para la integración física del continente, tanto por vía terrestre como fluvial."
+            },
+            {
+                "pregunta": "La Unión Europea tiene una amplia dependencia energética del gas que le llega desde la Federación Rusa, a través de una red de gasoductos que en buena parte atraviesan Ucrania, país con el que Rusia tienen más de una diferencia. Por esa razón uno de los más importantes países demandantes del gas ruso decidió junto con ese país, construir un gasoducto submarino, el Nordstream 2 que lo conecta a través del Mar Báltico directamente las costas rusas con el país de destino, se trata de:",
+                "opciones": [
+                    "a) Francia",
+                    "b) Suecia",
+                    "c) Holanda",
+                    "d) Inglaterra",
+                    "e) Alemania"
+                ],
+                "respuesta": "e",
+                "explicacion": "El gasoducto Nord Stream 2 conecta directamente Rusia y Alemania a través del Mar Báltico. Para Alemania, es estratégico ya que asegura el suministro de gas necesario para su economía altamente industrializada, especialmente considerando su compromiso de abandonar la energía nuclear y reducir emisiones de carbono."
+            },
+            {
+                "pregunta": "Desde una perspectiva geográfica y cultural (y principalmente idiomática), los países escandinavos del norte de Europa son cuatro, no haciendo parte de ellos:",
+                "opciones": [
+                    "a) Noruega",
+                    "b) Finlandia",
+                    "c) Islandia",
+                    "d) Suecia",
+                    "e) Dinamarca"
+                ],
+                "respuesta": "b",
+                "explicacion": "Finlandia, aunque está geográficamente ubicada en la península escandinava, se diferencia principalmente por su idioma. Mientras que Noruega, Suecia, Dinamarca e Islandia tienen lenguas germánicas del norte, el finlandés pertenece a la familia de lenguas finoúgricas, estando más relacionado con el estonio que con las lenguas escandinavas."
+            },
+            {
+                "pregunta": "Concluida la política de descolonización de los países europeos a mediados de la década de 1970, existe un país que supo conservar territorios insulares y enclaves continentales de la mayor importancia estratégica (denominados 'territorios de ultramar') con una distribución a lo largo del planeta, otorgándoles un estatus político-administrativo similar al que rige en la metrópoli y reconociendo la ciudadanía del país colonizador a la población nativa. Ese país es:",
+                "opciones": [
+                    "a) Francia",
+                    "b) Reino Unido",
+                    "c) Portugal",
+                    "d) Bélgica",
+                    "e) Países Bajos"
+                ],
+                "respuesta": "a",
+                "explicacion": "Francia mantiene vínculos estrechos con varios de sus antiguos territorios transformándolos en 'territoires d'outre-mer' o territorios de ultramar. Estos territorios tienen un estatus político-administrativo similar al de las regiones continentales de Francia, y sus habitantes tienen derechos como ciudadanos franceses y representación en el Parlamento francés."
+            },
+            {
+                "pregunta": "No obstante, los auspiciosos compromisos adoptados por la comunidad mundial en la Cumbre del Cambio Climático de Glasgow, Escocia, en noviembre de 2021, existe un país con enormes reservas de carbón que sólo ha ofrecido una 'reducción progresiva' en la utilización de esta fuente energética altamente contaminante por las emanaciones de dióxido de carbono (CO2). Ese país es:",
+                "opciones": [
+                    "a) Turquía",
+                    "b) China",
+                    "c) India",
+                    "d) Australia",
+                    "e) Brasil"
+                ],
+                "respuesta": "b",
+                "explicacion": "China es el mayor consumidor y productor de carbón del mundo. Durante la COP26 en 2021, en lugar de comprometerse a un cese inmediato o a una fecha específica para eliminar el uso del carbón, China optó por una 'reducción progresiva' debido a su dependencia de esta fuente de energía para su industrialización y consideraciones sobre seguridad energética."
+            },
+            {
+                "pregunta": "De acuerdo con las cifras de ACNUR, indique cual es el país latinoamericano que ha acogido a la mayor cantidad migrantes venezolanos:",
+                "opciones": [
+                    "a) Perú",
+                    "b) Chile",
+                    "c) Brasil",
+                    "d) Colombia",
+                    "e) México"
+                ],
+                "respuesta": "d",
+                "explicacion": "Colombia, siendo vecina de Venezuela y compartiendo una extensa frontera terrestre, se ha convertido en el principal destino de migrantes venezolanos. El gobierno colombiano ha adoptado medidas para regularizar a estos migrantes, permitiéndoles acceder a servicios básicos y oportunidades laborales."
+            },
+            {
+                "pregunta": "Los países con mayor población cristiana y musulmana, respectivamente, son:",
+                "opciones": [
+                    "a) Estados Unidos – Indonesia",
+                    "b) Brasil – Pakistán",
+                    "c) México – India",
+                    "d) Estados Unidos – India",
+                    "e) Rusia – Indonesia"
+                ],
+                "respuesta": "a",
+                "explicacion": "Estados Unidos alberga la mayor población de cristianos en un solo país debido a su historia de colonización europea y su alta población total. Indonesia, por su parte, tiene la distinción de ser el país con la mayor población musulmana en el mundo, siendo un país de mayoría musulmana sunní."
             }
         ],
         "2023": [
@@ -62,7 +1035,7 @@
                     "e) Todas las definiciones anteriores son válidas y complementarias."
                 ],
                 "respuesta": "e",
-                "explicacion": "La Geopolítica estudia los efectos de la geografía humana y física sobre la política y las relaciones internacionales."
+                "explicacion": "La geopolítica es un campo complejo y multidisciplinario que combina el estudio de la geografía, la política, y las relaciones internacionales. Veamos cómo cada una de las opciones aporta a una comprensión integral de la geopolítica:\na) Estudia los efectos de la geografía humana y la geografía física sobre la política y las relaciones internacionales. Esta afirmación reconoce que la ubicación geográfica de un país, sus recursos naturales, su demografía y su historia, todos influencian su comportamiento político y sus interacciones con otros países.\nb) Es un método de estudio de la política exterior para entender, explicar y predecir el comportamiento político internacional a través de variables geográficas. Esto destaca la función práctica y predictiva de la geopolítica. Por ejemplo, el acceso a rutas marítimas estratégicas puede influir en las alianzas y conflictos internacionales.\nc) Estudia las consecuencias espaciales del proceso político. Hay geopolítica externa y otra interna."
             },
             {
                 "pregunta": "Los factores geográficos claves que explican la gran variedad climática y diversidad de ecosistemas del Perú, son cuatro:",
@@ -74,7 +1047,7 @@
                     "e) Las cumbres nevadas de la Cordillera de los Andes - el afloramiento de aguas frías en el mar del sur del país - el bosque tropical amazónico - el bosque de neblinas."
                 ],
                 "respuesta": "a",
-                "explicacion": "Los factores geográficos claves que explican la gran variedad climática y diversidad de ecosistemas del Perú son la corriente peruana, la Contracorriente Ecuatorial, la Cordillera de los Andes y el bosque tropical amazónico."
+                "explicacion": "La corriente peruana o de Humboldt: Esta corriente fría que viene del Antártico hacia el norte a lo largo de la costa occidental de Sudamérica tiene un fuerte impacto en el clima de la costa peruana. Provoca condiciones más frías en el mar y en la atmósfera circundante. Además, es responsable del clima árido y desértico de la costa del Perú, ya que inhibe la formación de nubes de lluvia. A su vez, esta corriente es rica en nutrientes y sustenta una de las pesquerías más ricas del mundo.\n\nContracorriente Ecuatorial (El Niño): Es un fenómeno episódico que provoca el calentamiento de las aguas superficiales en el Pacífico central y oriental. Cuando se produce este fenómeno, la corriente peruana se debilita, llevando a un aumento de la temperatura del mar, lo que puede causar fuertes lluvias en la costa peruana y afectar drásticamente los ecosistemas marinos y terrestres del país.\n\nLa Cordillera de los Andes: Es una cadena montañosa masiva que se extiende de norte a sur a lo largo de la columna vertebral de Sudamérica. En el Perú, esta cordillera tiene un impacto significativo en el clima y la biodiversidad, ya que divide el país en tres regiones geográficas distintas: la costa, la sierra y la selva. Esta barrera geográfica también genera diferentes microclimas a lo largo de sus valles, mesetas y picos.\n\nEl bosque tropical amazónico: Representa una vasta región del Perú y es uno de los lugares con mayor biodiversidad en el mundo. Con su clima húmedo y cálido, este ecosistema contrasta fuertemente con las condiciones áridas de la costa y las frías altitudes andinas.\n\nEstos cuatro factores, en conjunto, dan lugar a la extraordinaria diversidad climática y ecológica del Perú, donde en distancias relativamente cortas uno puede pasar por desiertos, montañas nevadas y selvas tropicales."
             },
             {
                 "pregunta": "El \"bosque seco tumbesino\" comprende ecosistemas de bosque seco tropical en la región costera del Pacífico al sur de la línea ecuatorial. En el Perú está presente en los departamentos de:",
@@ -86,7 +1059,7 @@
                     "e) Lambayeque y La Libertad"
                 ],
                 "respuesta": "b",
-                "explicacion": "El bosque seco tumbesino está presente en los departamentos de Tumbes, Piura, Lambayeque y el norte de La Libertad."
+                "explicacion": "El bosque seco tumbesino es una ecorregión ubicada en la costa norte del Perú y se extiende hacia el sur de Ecuador. Esta ecorregión está caracterizada por tener condiciones áridas o semiáridas con una estacionalidad marcada, donde existe una época húmeda breve y una larga época seca.\n\nTumbes: Este departamento se encuentra en el extremo norte del Perú y es la puerta de entrada de este ecosistema desde el sur de Ecuador. Aquí, los bosques secos muestran una alta biodiversidad y tienen especies endémicas de fauna y flora.\n\nPiura: Continuando hacia el sur, este departamento alberga extensas áreas de bosque seco, especialmente en sus zonas bajas y en las laderas occidentales de las montañas.\n\nLambayeque: Aunque este departamento es conocido por sus zonas agrícolas, también alberga fragmentos del bosque seco tumbesino, principalmente en sus áreas occidentales.\n\nNorte de la Libertad: La ecorregión del bosque seco tumbesino se extiende hasta las zonas más septentrionales de este departamento, donde el ecosistema comienza a dar paso a otros tipos de paisajes, como los desiertos costeros.\n\nEsta distribución geográfica del bosque seco tumbesino refleja la transición de los ecosistemas húmedos del Ecuador hacia los desiertos del sur del Perú, y es el hogar de una variedad de especies adaptadas a la vida en condiciones estacionales y áridas."
             },
             {
                 "pregunta": "El Lago Titicaca en la frontera altiplánica entre el Perú y Bolivia está formado por dos cuerpos de agua separados por el estrecho de Tiquina, el lago ...... y el lago ..., siendo que pierde el 9 % de su masa anual a través del rio:",
@@ -98,7 +1071,7 @@
                     "e) Parinacochas - Umayo - Suches"
                 ],
                 "respuesta": "d",
-                "explicacion": "El Lago Titicaca está formado por dos cuerpos de agua separados por el estrecho de Tiquina: el lago Chucuito y el lago Huiñaymarca. Pierde el 9% de su masa anual a través del río Desaguadero."
+                "explicacion": "El Lago Titicaca es el lago navegable más alto del mundo, ubicado en el Altiplano de los Andes, entre Perú y Bolivia. Este lago se divide en dos partes principales, separadas por el estrecho de Tiquina.\n\nLago Chucuito: Es el lago más grande y se encuentra al norte del estrecho de Tiquina. Es también la porción más profunda y amplia del Lago Titicaca, ubicada principalmente en territorio peruano.\n\nLago Huiñaymarca: Se encuentra al sur del estrecho de Tiquina y, aunque es más pequeño en comparación con el lago Chucuito, es una parte importante del sistema del Lago Titicaca y está ubicado principalmente en territorio boliviano.\n\nRío Desaguadero: Este río es el principal emisario del Lago Titicaca y es responsable de drenar alrededor del 9% del volumen total de agua del lago. Fluye desde el extremo sur del Lago Titicaca y desemboca en el Lago Poopó, en Bolivia. Es esencial para el equilibrio hídrico del sistema del Lago Titicaca."
             },
             {
                 "pregunta": "Según Javier Pulgar Vidal, se trata de una región caracterizada por sus pisos escarpados cubiertos de glaciares o de nieve. Lo difícil de su geografía impide la presencia continuada del hombre. El geógrafo se refiere a la región:",
@@ -110,7 +1083,7 @@
                     "e) Puna"
                 ],
                 "respuesta": "c",
-                "explicacion": "La región Janca se caracteriza por sus pisos escarpados cubiertos de glaciares o de nieve, lo que impide la presencia continuada del hombre."
+                "explicacion": "Javier Pulgar Vidal, un geógrafo peruano renombrado, propuso una división del territorio peruano en ocho regiones naturales basadas en las características altitudinales y los pisos ecológicos. Entre estas regiones, la 'Janca' es la más alta y se encuentra por encima de los 4,800 metros sobre el nivel del mar.\n\nCaracterísticas de la Janca:\n- Altitud: Esta región se sitúa por encima de los 4,800 m.s.n.m.\n- Geografía: Como Pulgar Vidal mencionó, es una región con pisos escarpados y cumbres cubiertas de nieve o glaciares, y debido a su altitud extrema, las condiciones son muy duras y hostiles.\n- Presencia Humana: La Janca es una región inhóspita y, por lo tanto, no es adecuada para una ocupación humana permanente. Sin embargo, puede ser visitada temporalmente, por ejemplo, por montañistas o para propósitos rituales por las comunidades cercanas.\n- Clima: Tiene un clima frío y helado, con temperaturas que frecuentemente caen por debajo del punto de congelación.\n- Vegetación y fauna: Debido a las duras condiciones, la vegetación es escasa y está compuesta principalmente por hierbas y pastos de montaña adaptados al frío. La fauna, aunque limitada, puede incluir especies adaptadas a altitudes extremas."
             },
             {
                 "pregunta": "En relación a un metal altamente apreciado, el Perú cuenta con las principales reservas mundiales por explotar que, de darse las condiciones políticas y económicas que respalden la inversión minera, podrá llevarnos a ser el principal país productor mundial. Ese metal es:",
@@ -122,7 +1095,7 @@
                     "e) El aluminio (bauxita)"
                 ],
                 "respuesta": "b",
-                "explicacion": "El Perú cuenta con las principales reservas mundiales de oro por explotar, lo que podría convertirlo en el principal país productor mundial."
+                "explicacion": "El Perú tiene una historia rica y profunda en la minería de plata, que se remonta a tiempos precolombinos. Durante el virreinato español, las minas peruanas, junto con las de México, fueron las principales fuentes de plata para el imperio español. En términos contemporáneos, el Perú ha mantenido una posición significativa en la producción y reservas de plata a nivel mundial.\n\nHistoria: El Perú ha sido un productor histórico de plata. Durante la época colonial, la región de Potosí (ahora en Bolivia) fue el centro de extracción más grande del mundo. Aunque Potosí ya no está en el territorio peruano, el legado de la minería de plata en la región sigue vigente.\n\nReservas: El Perú cuenta con algunas de las mayores reservas de plata no explotadas del mundo. Estas reservas representan una oportunidad para que el país se consolide aún más como un líder en la producción mundial de este metal precioso.\n\nEconomía: La plata, al igual que otros minerales, representa una fuente importante de ingresos y empleo para el Perú. Las inversiones en el sector minero, incluida la extracción de plata, tienen un impacto significativo en la economía peruana.\n\nPosición mundial: Dadas las reservas y la capacidad de producción, si se dan las condiciones políticas y económicas adecuadas, el Perú tiene el potencial de convertirse en el principal productor mundial de plata."
             },
             {
                 "pregunta": "En el Perú, la contribución de los recursos energéticos renovables no convencionales (RER) para reducir las emisiones de CO2 (dióxido de carbono) y mitigar el cambio climático apenas bordea el 5% del total de las fuentes de generación de energía eléctrica. Entre ellas, la principal fuente es:",
@@ -134,7 +1107,7 @@
                     "e) Plantas de biomasa"
                 ],
                 "respuesta": "d",
-                "explicacion": "La principal fuente de recursos energéticos renovables no convencionales en el Perú son las pequeñas centrales hidroeléctricas."
+                "explicacion": "Las pequeñas centrales hidroeléctricas (PCH) son instalaciones que utilizan el flujo de agua, generalmente de ríos y corrientes menores, para generar electricidad. A diferencia de las grandes represas hidroeléctricas, las PCH suelen tener un menor impacto ambiental, desplazamiento limitado o nulo de comunidades y no requieren la construcción de grandes embalses.\n\nBeneficios de las PCH en Perú:\n- Energía limpia: Al ser una fuente de energía renovable, no produce emisiones contaminantes ni contribuye directamente al cambio climático.\n- Flexibilidad: Pueden ser implementadas en diferentes escalas y en diversas ubicaciones, aprovechando los numerosos ríos y corrientes de agua que atraviesan el territorio peruano.\n- Desarrollo local: Las PCH pueden fomentar el desarrollo económico en áreas remotas al proporcionar energía y potencialmente generar empleo.\n\nRelevancia en Perú:\n- Topografía: Dada la geografía del Perú, con la presencia de la cordillera de los Andes y sus numerosos ríos, las PCH son especialmente viables.\n- Mitigación del cambio climático: Aunque las PCH representan un porcentaje relativamente pequeño de la matriz energética del Perú, su potencial para reducir emisiones de CO2 es significativo, especialmente al compararlas con fuentes no renovables."
             },
             {
                 "pregunta": "En el Perú, mientras que la agricultura............ cada vez es más......... y se orienta la agricultura............ sigue basada en el.......... y destina su producción:",
@@ -146,7 +1119,7 @@
                     "e) costera-tecnificada-crecientemente a la exportación / andina-minifundio - tanto al autoconsumo como al mercado interno"
                 ],
                 "respuesta": "e",
-                "explicacion": "La agricultura costera en el Perú es tecnificada y se orienta crecientemente a la exportación, mientras que la agricultura andina sigue basada en el minifundio y destina su producción tanto al autoconsumo como al mercado interno."
+                "explicacion": "Agricultura Costera:\n- Tecnificada: En la costa peruana, la agricultura ha experimentado un alto grado de tecnificación. Esto se debe a la inversión en sistemas de riego, mejoras en la genética de cultivos, implementación de tecnologías avanzadas y la adaptación a las condiciones desérticas de la región.\n- Orientada a la exportación: En las últimas décadas, la costa peruana ha experimentado un auge en la producción agrícola para exportación. Cultivos como los espárragos, uvas, paltas, entre otros, han posicionado al Perú como un importante proveedor en los mercados internacionales.\nAgricultura Andina:\n- Minifundio: En la región andina del Perú, gran parte de la agricultura se basa en el minifundio, es decir, pequeñas extensiones de tierra trabajadas por familias, a menudo con técnicas tradicionales.\n- Destino de la producción: Esta producción se orienta tanto al autoconsumo (para satisfacer las necesidades alimentarias de la familia agricultora) como al mercado interno, vendiéndose en ferias locales y mercados urbanos."
             },
             {
                 "pregunta": "Las irrigaciones en la costa peruana, tienen, salvo uno de los enunciados, los siguientes propósitos. Marcar el que no corresponde:",
@@ -158,7 +1131,7 @@
                     "e) Mejorar los estándares técnicos con los que se desarrolla la actividad agrícola, lo que contribuye a incrementar su productividad"
                 ],
                 "respuesta": "c",
-                "explicacion": "Las irrigaciones en la costa peruana no tienen como propósito evitar la pérdida de las especies de flora nativa propias de la región costera."
+                "explicacion": "Las irrigaciones en la costa peruana están principalmente orientadas a mejorar y expandir la producción agrícola en una región caracterizada por su aridez y falta de lluvias regulares. Los propósitos de estas irrigaciones están relacionados con el mejor aprovechamiento del recurso hídrico para la agricultura y la expansión de áreas agrícolas. La alternativa \"c\", que menciona la preservación de especies de flora nativa de la región costera, no es el propósito principal de estas irrigaciones. Si bien es cierto que un adecuado manejo del agua podría tener beneficios colaterales para el ecosistema local, el objetivo principal de las irrigaciones en la costa no es conservar la flora nativa, sino optimizar la producción agrícola en una región con limitadas precipitaciones."
             },
             {
                 "pregunta": "Estimulada por el aumento constante de su precio, debido a la creciente demanda mundial y especialmente de la China, la soya es un commodity que se está convirtiendo en el principal producto agrícola de exportación de los siguientes países sudamericanos:",
@@ -170,7 +1143,7 @@
                     "e) Brasil, Argentina, Bolivia y Paraguay"
                 ],
                 "respuesta": "e",
-                "explicacion": "La soya es el principal producto agrícola de exportación de Brasil, Argentina, Bolivia y Paraguay debido a la creciente demanda mundial."
+                "explicacion": "El cultivo de soya ha experimentado un rápido crecimiento en América del Sur, particularmente debido al aumento de la demanda mundial y, como mencionaste, el crecimiento constante de su precio. Brasil: Es el segundo mayor productor de soya en el mundo después de Estados Unidos. Las extensas áreas de tierras aptas, junto con las tecnologías de adaptación, han permitido que Brasil tenga una participación muy significativa en el mercado mundial de soya. Argentina: Es otro de los principales productores y exportadores de soya en el mundo. La Pampa húmeda argentina es la región agrícola más productiva para este cultivo. Bolivia: Aunque no a la escala de Brasil y Argentina, Bolivia ha aumentado significativamente su producción de soya, principalmente en la región de Santa Cruz, y ha comenzado a tener una presencia más notable en el mercado de exportación de soya. Paraguay: A pesar de ser un país más pequeño en comparación con los mencionados anteriormente, Paraguay ha centrado gran parte de su producción agrícola en la soya, convirtiéndose en uno de los principales exportadores de soya en el mundo en términos per cápita. La demanda china, con su creciente población y economía, ha sido un motor clave para el crecimiento del cultivo de soya en estos países."
             },
             {
                 "pregunta": "Colombia es un país caracterizado por su vigoroso sistema de ciudades multifuncionales, muchas de ellas millonarias en población. Después de Bogotá, la capital del pais, las tres ciudades más importantes desde el punto de vista demográfico son:",
@@ -182,7 +1155,7 @@
                     "e) Pereira Cúcuta - Ibagué"
                 ],
                 "respuesta": "b",
-                "explicacion": "Después de Bogotá, las tres ciudades más importantes de Colombia desde el punto de vista demográfico son Medellín, Cali y Barranquilla."
+                "explicacion": "Colombia tiene una rica red de ciudades que se han desarrollado a lo largo de los años y han crecido tanto en población como en importancia económica y cultural. Tras Bogotá, que es la capital y la ciudad más grande de Colombia en términos de población y economía:\n\nMedellín: Es la capital del departamento de Antioquia y es conocida como la 'Ciudad de la Eterna Primavera' debido a su clima templado. Medellín ha pasado por una transformación significativa en las últimas décadas, pasando de ser una ciudad plagada de violencia a una de las ciudades más innovadoras del mundo, con inversiones en infraestructura, transporte y educación. Es la segunda ciudad más grande de Colombia en términos de población.\n\nCali: Esta ciudad es la capital del departamento del Valle del Cauca y es reconocida por ser la capital de la salsa. Cali tiene una economía dinámica basada en la industria, la agricultura y los servicios. Es la tercera ciudad más grande de Colombia.\n\nBarranquilla: Ubicada en la región caribeña de Colombia, Barranquilla es una ciudad portuaria conocida por su famoso Carnaval. Es un centro económico y cultural vital para la región norte de Colombia y es la cuarta ciudad más grande del país."
             },
             {
                 "pregunta": "Los países de América del Sur que hacen parte de la Cuenca del Plata son:",
@@ -194,7 +1167,7 @@
                     "e) Argentina y Uruguay"
                 ],
                 "respuesta": "b",
-                "explicacion": "Los países de América del Sur que hacen parte de la Cuenca del Plata son Brasil, Paraguay, Bolivia, Argentina y Uruguay."
+                "explicacion": "La Cuenca del Plata es una de las cuencas hidrográficas más extensas del mundo y abarca territorios de varios países sudamericanos. Esta cuenca se forma principalmente por la confluencia de dos grandes ríos: el Paraná y el Uruguay, que desembocan en el Río de la Plata.\n\nBrasil: La parte superior del río Paraná se origina en Brasil, por lo que este país es fundamental en la formación de la cuenca.\n\nParaguay: El río Paraguay, que desemboca en el río Paraná, cruza gran parte de este país, y de ahí su relevancia en la cuenca.\n\nBolivia: Aunque la contribución de Bolivia es menor en comparación con los otros países, algunos ríos bolivianos, como el Pilcomayo y el Bermejo, desembocan en el río Paraguay y, por lo tanto, son parte de la cuenca.\n\nArgentina: Es uno de los países que más territorio aporta a la cuenca. Los ríos Paraná y Uruguay atraviesan extensas regiones de Argentina antes de desembocar en el Río de la Plata.\n\nUruguay: El río Uruguay, que le da el nombre al país, forma parte esencial de la Cuenca del Plata y desemboca, al igual que el Paraná, en el Río de la Plata."
             },
             {
                 "pregunta": "Entre los países centroamericanos, dos de ellos destacan por su crecimiento y diversificación económica, que los convierte, incluso, en proveedores de bienes manufacturados, algunos de ellos con alto contenido tecnológico, así como en ofertantes de servicios de educación superior de posgrado, financieros, y otros, para la región de América Latina. Esos países son:",
@@ -206,7 +1179,7 @@
                     "e) Nicaragua y Guatemala"
                 ],
                 "respuesta": "d",
-                "explicacion": "Costa Rica y Panamá destacan por su crecimiento y diversificación económica, convirtiéndose en proveedores de bienes manufacturados y servicios de educación superior de posgrado, financieros y otros."
+                "explicacion": "Costa Rica:\n\n- Economía diversificada: Costa Rica ha diversificado su economía alejándose de una dependencia excesiva de productos tradicionales como café, banano y cacao. Hoy en día, el país es conocido por su industria de dispositivos médicos, tecnología de la información y servicios ecológicos.\n\n- Turismo: Es uno de los destinos turísticos líderes en la región, promoviendo el ecoturismo, lo que ha atraído inversiones y ha generado empleo.\n\n- Educación: Costa Rica también es reconocido por su educación superior y ha atraído a estudiantes internacionales.\n\n- Política de neutralidad: A lo largo de los años, Costa Rica ha mantenido una política de neutralidad y desarme, lo que ha contribuido a la estabilidad política y ha atraído inversiones extranjeras.\n\nPanamá:\n\n- Canal de Panamá: Esta vía interoceánica es una fuente primordial de ingresos para el país y ha establecido a Panamá como un punto estratégico global para el comercio.\n\n- Sector financiero: Panamá es uno de los centros financieros más importantes de América Latina, con un sistema bancario robusto.\n\n- Zona libre de Colón: Es la segunda zona franca más grande del mundo y es un centro neurálgico para la distribución de mercancías en las Américas.\n\n- Infraestructura y logística: Las inversiones en infraestructura y la posición geográfica de Panamá han hecho que sea un hub logístico para la región.\n\nAmbos países han logrado destacarse en la región centroamericana debido a políticas económicas sólidas, estabilidad política y geografía estratégica, lo que ha permitido que tengan economías más diversificadas y avanzadas en comparación con sus vecinos."
             },
             {
                 "pregunta": "Los grandes lagos de Norteamérica que en número de cinco comparten Canadá y los Estados Unidos (salvo el Lago Michigan que se encuentra íntegramente en Estados Unidos) son el mayor grupo de lagos de agua dulce del mundo formados al final de la última glaciación, y están conectados con el Atlántico Norte a través de:",
@@ -218,7 +1191,7 @@
                     "e) No están conectados con el Océano Atlántico. Configuran una gran cuenca endorreica"
                 ],
                 "respuesta": "d",
-                "explicacion": "Los grandes lagos de Norteamérica están conectados con el Atlántico Norte a través del sistema fluvial del San Lorenzo."
+                "explicacion": "Los Grandes Lagos de Norteamérica, conformados por el lago Superior, Míchigan, Hurón, Erie y Ontario, son una serie de lagos interconectados que juntos representan la mayor superficie de agua dulce por área en el mundo. Estos lagos, formados como resultado del retroceso de los glaciares al final de la última glaciación, tienen una salida natural hacia el océano Atlántico a través del río San Lorenzo. El río San Lorenzo es una de las vías fluviales más grandes y significativas de América del Norte. Nace en el lago Ontario y fluye hacia el noreste, desembocando en el Golfo de San Lorenzo y, finalmente, en el océano Atlántico. A lo largo de su recorrido, el río San Lorenzo sirve como frontera natural entre Canadá y los Estados Unidos en algunos tramos. Este sistema fluvial es esencial no solo desde el punto de vista ecológico, sino también económico, ya que permite la navegación y el transporte de mercancías entre el interior de Norteamérica y el Atlántico, facilitando el comercio y la conectividad entre estas regiones."
             },
             {
                 "pregunta": "La profunda crisis política y económica que afecta al Reino Unido, en el contexto de su retiro de la Unión Europea (Brexit), la pandemia del Covid 19 y la Guerra entre Rusia y Ucrania, ha vuelto a traer a la actualidad las corrientes independentistas en uno de los países que lo conforman. Dicho país es:",
@@ -230,7 +1203,7 @@
                     "e) Por el contrario, las Islas Feroe, ubicadas al norte de la isla de Gran Bretaña, están considerando solicitar su incorporación al Reino Unido"
                 ],
                 "respuesta": "a",
-                "explicacion": "La profunda crisis política y económica en el Reino Unido ha vuelto a traer a la actualidad las corrientes independentistas en Escocia."
+                "explicacion": "Escocia ha tenido una larga historia de movimientos y corrientes independentistas. Sin embargo, en el contexto de los recientes acontecimientos como el Brexit, la pandemia de Covid-19 y las tensiones geopolíticas, la cuestión de la independencia escocesa ha ganado un renovado impulso.\n\nBrexit: En el referéndum de 2016 sobre la membresía del Reino Unido en la Unión Europea, Escocia votó abrumadoramente a favor de permanecer (62% a favor de 'permanecer' frente a 38% de 'salir'). A pesar de este voto claro por parte de Escocia, el Reino Unido en su conjunto votó a favor de abandonar la UE. Esta discrepancia ha avivado las llamas del independentismo escocés, ya que muchos ven el Brexit como una decisión tomada contra la voluntad del pueblo escocés.\n\nPandemia de Covid-19: La gestión de la pandemia ha diferenciado en cierta medida las políticas entre Escocia y el resto del Reino Unido, especialmente en términos de medidas de salud y restricciones. Esto ha resaltado las diferencias y las capacidades de autogobierno de Escocia.\n\nTensiones Geopolíticas: Aunque la guerra entre Rusia y Ucrania no está directamente relacionada con la cuestión escocesa, el ambiente de inestabilidad y cambio geopolítico ha hecho que muchos en Escocia reevalúen su posición y relación dentro del Reino Unido.\n\nTras el Brexit, el Partido Nacional Escocés (SNP), el principal partido pro independencia en Escocia, ha intensificado su llamado a un segundo referéndum sobre la independencia, argumentando que el panorama ha cambiado significativamente desde el primer referéndum en 2014."
             },
             {
                 "pregunta": "El río más importante de Europa, desde el punto de vista de la integración social, cultural y económica que promueve entre diez países europeos por los que pasa o hace parte de sus límites con otro Estado, es el:",
@@ -242,7 +1215,7 @@
                     "e) Rin"
                 ],
                 "respuesta": "b",
-                "explicacion": "El río Danubio es el más importante de Europa desde el punto de vista de la integración social, cultural y económica que promueve entre diez países europeos."
+                "explicacion": "El río Danubio es uno de los ríos más largos y significativos de Europa. Tiene una importancia especial debido a su función como una arteria fluvial que promueve la integración entre numerosos países europeos.\n\nTravesía por varios países: El Danubio fluye a través o sirve como frontera para diez países: Alemania, Austria, Eslovaquia, Hungría, Croacia, Serbia, Bulgaria, Rumania, Moldavia y Ucrania. Esto lo convierte en un punto de unión geográfico para una gran parte de Europa Central y del Este.\n\nHistoria compartida: Durante siglos, el río Danubio ha sido un corredor crucial para la migración, el comercio y la guerra en Europa. Las civilizaciones que se han desarrollado a lo largo de sus riberas han compartido muchos episodios históricos, desde el Imperio Romano hasta los conflictos contemporáneos.\n\nIntegración económica: El Danubio ha desempeñado un papel esencial en la integración económica de la región. Sirve como una importante vía fluvial para el transporte de mercancías, lo que facilita el comercio entre los países ribereños.\n\nCultura y turismo: El río también ha inspirado a artistas, músicos y escritores durante siglos. El turismo a lo largo del Danubio es una industria significativa, con muchas ciudades históricas y paisajes naturales a lo largo de su curso que atraen a visitantes de todo el mundo.\n\nCooperación regional: Dada su importancia, el Danubio ha sido central para esfuerzos de cooperación regional en áreas como el medio ambiente, el desarrollo sostenible y la gestión del agua."
             },
             {
                 "pregunta": "El Mar Báltico, que baña las costas de nueve países europeos, conecta con el Mar del Norte y luego con el Océano Atlántico y no se congela durante el invierno del hemisferio norte en más del 55% de su extensión, lo que se debe a:",
@@ -254,7 +1227,7 @@
                     "e) El importante aporte de agua dulce que realizan los ríos de los países ribereños que entregan sus aguas a dicho mar"
                 ],
                 "respuesta": "b",
-                "explicacion": "El Mar Báltico no se congela durante el invierno en más del 55% de su extensión debido al efecto de la corriente cálida del Golfo (Gulf Stream)."
+                "explicacion": "La corriente del Golfo, parte de la circulación termohalina del océano, es una de las corrientes marinas más fuertes y cálidas del mundo. Originada en el Golfo de México y saliendo al Atlántico por el Estrecho de Florida, se dirige hacia el noreste. Una vez que cruza el Atlántico, se transforma en la Corriente del Atlántico Norte. Esta corriente cálida tiene un impacto significativo en el clima del Mar Báltico y de muchas otras regiones circundantes en Europa del Norte.\n\nImplicaciones de la Corriente del Golfo para el Mar Báltico:\nTemperaturas moderadas: La Corriente del Atlántico Norte, que es esencialmente la extensión de la corriente del Golfo, transporta agua cálida hacia el norte de Europa. Esto modera las temperaturas, especialmente durante el invierno, evitando que gran parte del Mar Báltico se congele.\n\nConexión oceánica: La Corriente del Atlántico Norte actúa como un puente entre el Mar Báltico y el Océano Atlántico, facilitando no solo el intercambio de agua sino también la transferencia de calor.\n\nEfecto en el clima regional: Además de influir en la temperatura del Mar Báltico, la Corriente del Atlántico Norte también afecta el clima de la región circundante, proporcionando inviernos más suaves y veranos más frescos en las áreas costeras de Europa del Norte."
             },
             {
                 "pregunta": "En el juego de la geopolítica mundial que representa la guerra entre Rusia y Ucrania, solamente uno de los enunciados que se listan a continuación no es cierto. Señálelo:",
@@ -266,7 +1239,7 @@
                     "e) Polonia se ha convertido en el principal puente de apoyo de la OTAN y  Occidente a Ucrania, con la provisión, a través de la frontera común, de armas,  alimentos y otras  provisiones, además de convertirse en la principal ruta de salida  de refugiados ucranianos"
                 ],
                 "respuesta": "c",
-                "explicacion": "Suiza no está considerando solicitar su ingreso a la Unión Europea para fortalecer la respuesta del bloque a la agresión rusa."
+                "explicacion": "Suiza es conocida por su larga tradición de neutralidad, la cual ha mantenido durante dos Guerras Mundiales y muchos otros conflictos europeos. Esta neutralidad no solo es una política exterior, sino que también es una parte central de la identidad suiza y está codificada en la constitución del país. Suiza no ha mostrado interés en unirse a la Unión Europea. De hecho, en 1992, el país rechazó unirse al Espacio Económico Europeo (EEE), que habría sido un paso intermedio hacia la membresía de la UE. Desde entonces, Suiza ha establecido relaciones con la UE a través de una serie de acuerdos bilaterales que cubren áreas específicas de cooperación. Por lo tanto, la idea de que Suiza está considerando unirse a la UE específicamente para responder a la agresión rusa no coincide con su política histórica de neutralidad y su enfoque anterior hacia la integración europea."
             },
             {
                 "pregunta": "Algunos hitos de las tensas relaciones entre la República Popular China y Taiwán, varios de ellos con el involucramiento de los Estados Unidos, son los siguientes excepto uno. Marcar el que no es correcto:",
@@ -278,7 +1251,7 @@
                     "e) Desde 1982, las relaciones entre Estados Unidos y Taiwán se basan en \"seis garantias\" una de las cuales es que el primer país no ha acordado fijar una fecha para poner fin a la venta de armas a Taiwán"
                 ],
                 "respuesta": "c",
-                "explicacion": "Taiwán no es reconocida oficialmente por las Naciones Unidas como un Estado miembro."
+                "explicacion": "Este enunciado es incorrecto. Taiwán, o la República de China (ROC), fue uno de los miembros fundadores de las Naciones Unidas y ocupó un escaño en el Consejo de Seguridad como miembro permanente desde 1945 hasta 1971. Sin embargo, en 1971, la Asamblea General de las Naciones Unidas aprobó la Resolución 2758, que reconoció a la República Popular China (PRC) como \"la única representante legítima de China ante las Naciones Unidas\". Como resultado, Taiwán perdió su escaño en la ONU y no ha sido readmitido desde entonces. Desde ese momento, la PRC ha ocupado el escaño de China en la ONU y sus organismos relacionados, mientras que Taiwán no es reconocido como un Estado miembro independiente."
             }
         ]
     },
