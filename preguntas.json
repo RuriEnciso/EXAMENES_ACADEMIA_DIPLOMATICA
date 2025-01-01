@@ -2,12 +2,6 @@
     "GEOGRAFIA": {
         "2019": [
             {
-                "pregunta": "Pregunta 1 de Geografía 2019",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
-                "respuesta": "a",
-                "explicacion": "Explicación para Geografía 2019, pregunta 1."
-            },
-            {
                 "pregunta": "La Geografía es la disciplina que estudia:",
                 "opciones": [
                     "a) Los procesos sociales que ocurren en los diversos territorios y que explican la distribución espacial de las poblaciones",
@@ -1264,5 +1258,48 @@
                 "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
             }
         ]
+    },
+        "HISTORIA_UNIVERSAL": {
+        "2019": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2020": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Universal 2020",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2021": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Universal 2021",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2022": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Universal 2022",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2023": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Universal 2023",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ]
+        
     }
 }
