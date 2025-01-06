@@ -1262,10 +1262,244 @@
         "HISTORIA_UNIVERSAL": {
         "2019": [
             {
-                "pregunta": "Pregunta 1 de Historia del Perú 2019",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "Señale cuál de los siguientes puntos no es un legado de la revolución industrial inglesa.",
+                "opciones": [
+                    "a) La relación de dependencia con Inglaterra",
+                    "b) El respeto a los derechos humanos de los ciudadanos",
+                    "c) Cambio del régimen laboral, del sistema agrario al industrial",
+                    "d) Avances técnicos en máquinas e infraestructura industrial",
+                    "e) Crecimiento acelerado de la clase media"
+                ],
+                "respuesta": "b",
+                "explicacion": " RESPUESTA: B. La Revolución Industrial en Inglaterra, que tuvo lugar aproximadamente entre finales del siglo XVIII y principios del siglo XIX, marcó un período de transformación económica, social y tecnológica significativa. Sin embargo, no se caracterizó por un enfoque particularmente fuerte en el respeto a los derechos humanos de los ciudadanos. En realidad, muchas de las consecuencias de la Revolución Industrial, como las duras condiciones de trabajo en las fábricas y las minas, la explotación laboral y la falta de regulación gubernamental, llevaron a violaciones de los derechos humanos básicos de los trabajadores, incluidos hombres, mujeres y niños. Durante este período, las fábricas y las industrias emergentes a menudo operaban en condiciones insalubres y peligrosas, y los trabajadores a menudo enfrentaban largas jornadas laborales agotadoras por salarios bajos. Los derechos laborales y las condiciones de trabajo seguras estaban lejos de ser una prioridad en muchos lugares. Además, el trabajo infantil era común y muchos niños eran sometidos a condiciones de trabajo extremadamente precarias."
+            },
+            {
+                "pregunta": "Francia mantuvo enfrentamientos bélicos con una o varias potencias europeas desde 1800 hasta 1815. ¿Qué motivo fue central a este prolongado estado de guerra?",
+                "opciones": [
+                    "a) Inglaterra buscaba destruir a Francia y su modelo republicano",
+                    "b) La gran ambición de expansión geopolítica de Napoleón Bonaparte",
+                    "c) La amenaza de rebelión popular campesina en Francia",
+                    "d) Las colonias americanas estaban en disputa entre Francia, Inglaterra y España",
+                    "e) La oposición política interna en Francia"
+                ],
+                "respuesta": "b",
+                "explicacion": "RESPUESTA B. Durante el período de 1800 a 1815, Francia estuvo involucrada en una serie de conflictos bélicos conocidos como las Guerras Napoleónicas, que fueron en gran parte impulsadas por la ambición expansionista y las conquistas territoriales de Napoleón Bonaparte. Napoleón, un general que surgió durante la Revolución Francesa y eventualmente se convirtió en el líder de Francia, buscaba consolidar su poder y establecer un imperio europeo bajo su dominio. Napoleón Bonaparte emprendió una serie de campañas militares en Europa con el objetivo de expandir el territorio controlado por Francia y establecer alianzas y gobiernos afines en otras naciones. Sus conquistas territoriales y su intento de establecer una hegemonía francesa en Europa llevaron a conflictos continuos con otras potencias europeas que se resistían a su expansión. Entre los eventos notables de este período se incluyen la Batalla de Trafalgar (1805) contra la Marina Británica, la Guerra de la Tercera Coalición (1805) contra una coalición de naciones europeas y la invasión de Rusia (1812), entre otros. Las Guerras Napoleónicas finalmente culminaron en la derrota de Napoleón en la Batalla de Waterloo en 1815, lo que llevó a su exilio a la isla de Santa Elena, donde pasó el resto de su vida"
+            },
+            {
+                "pregunta": "En la Guerra de Crimea (1853-1856) combatieron como aliados el Imperio Otomano, Francia e Inglaterra. ¿Cuál era el propósito de esta alianza?",
+                "opciones": [
+                    "a) Impedir el avance del Imperio Austro-húngaro sobre el Mar Negro",
+                    "b) Desbloquear el comercio con oriente",
+                    "c) Controlar el avance del Imperio Ruso sobre el Imperio Otomano",
+                    "d) Frenar los intereses del nuevo Imperio Alemán sobre los Balcanes",
+                    "e) Combatir la amenaza rusa sobre el imperio Austro-húngaro"
+                ],
+                "respuesta": "c",
+                "explicacion": " LA RESPUESTA ES LA C. La Guerra de Crimea (1853-1856) fue un conflicto importante que involucró a varias potencias europeas, incluido el Imperio Otomano, Francia e Inglaterra, contra el Imperio Ruso. El conflicto tuvo como objetivo principal contener el avance del Imperio Ruso sobre los territorios del Imperio Otomano, especialmente en la región de los Balcanes y el Mar Negro. Esta guerra tuvo sus raíces en tensiones geopolíticas y religiosas en la región, así como en disputas sobre los derechos y la protección de los cristianos en el Imperio Otomano, que Rusia afirmaba defender. El control ruso sobre los territorios otomanos y la expansión de su influencia en la región del Mar Negro eran vistos con preocupación por otras potencias europeas, ya que alteraban el equilibrio de poder en la región y amenazaban el control otomano sobre estas áreas. Francia, Inglaterra y el Imperio Otomano formaron una alianza con el objetivo de contrarrestar la expansión rusa y proteger los intereses del Imperio Otomano. La guerra fue notoria por sus batallas costosas y las difíciles condiciones en el frente, así como por la introducción de innovaciones médicas y logísticas. Uno de los eventos más conocidos fue el sitio de Sebastopol, un importante puerto naval ruso en Crimea, que fue asediado durante la mayor parte del conflicto. A pesar de la alianza, las potencias occidentales enfrentaron desafíos y dificultades en el conflicto, y eventualmente la guerra llegó a su fin con el Tratado de París de 1856, que restableció el statu quo ante bellum, es decir, restauró la situación previa a la guerra. El conflicto tuvo un impacto duradero en las relaciones internacionales y la configuración del poder en Europa."
+            },
+            {
+                "pregunta": "¿Qué potencias había en el proceso de desintegración al inicio de la Primera Guerra Mundial?",
+                "opciones": [
+                    "a) Alemania, Francia y Austria",
+                    "b) Rusia, Turquía e Italia",
+                    "c) Portugal, Italia y Grecia",
+                    "d) España, Portugal e Italia",
+                    "e) Turquía, Rusia y Austria"
+                ],
+                "respuesta": "e",
+                "explicacion": "Al inicio de la Primera Guerra Mundial, tres grandes imperios estaban en proceso de desintegración: 1. Imperio Otomano (Turquía): Estaba en declive debido a problemas internos, pérdida de territorios y tensiones étnicas y religiosas. El colapso se agravó durante la guerra, resultando en la fundación de la moderna Turquía. 2. Imperio Ruso: Enfrentaba agitación política y malestar social. La guerra contribuyó al colapso del régimen zarista y la Revolución Rusa de 1917. 3. Imperio Austro-Húngaro: Su diversidad étnica y cultural generaba tensiones internas. Tras el asesinato del archiduque Francisco Fernando y la guerra, el imperio se desintegró en varios Estados independientes."
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes hechos no fue inducido por la Primera Guerra Mundial?",
+                "opciones": [
+                    "a) La hiperinflación alemana de la década del 1920",
+                    "b) La emergencia del partido laborista en Inglaterra",
+                    "c) La unificación italiana",
+                    "d) La modernización de Turquía",
+                    "e) El ascenso al poder de los bolcheviques en Rusia"
+                ],
+                "respuesta": "c",
+                "explicacion": "La unificación italiana no fue consecuencia de la Primera Guerra Mundial, ya que ocurrió décadas antes, en la segunda mitad del siglo XIX. Este proceso culminó en 1861 bajo el liderazgo de figuras como Giuseppe Garibaldi y Camillo Cavour, quienes consolidaron varios estados italianos en una única nación."
+            },
+            {
+                "pregunta": "La 'Solución Final' según la Alemania Nazi consistió en:",
+                "opciones": [
+                    "a) El exterminio de la población judía, decisión tomada en enero de 1942",
+                    "b) La integración de todos los territorios con la población nativa alemana: Austria (1938), el enclave de población alemana de Checoslovaquia (1939) y los territorios de Polonia (1939)",
+                    "c) La invasión de Rusia en junio de 1941",
+                    "d) El uso de aviones a reacción para aniquilar la RAF, diciembre de 1943",
+                    "e) El control de Europa occidental bajo su égida"
+                ],
+                "respuesta": "a",
+                "explicacion": "Durante los primeros años de la Segunda Guerra Mundial, los nazis llevaron a cabo una política de persecución y discriminación hacia la población judía, que incluyó la segregación, la confiscación de propiedades y la deportación a guetos. Sin embargo, a medida que avanzaba la guerra y se ocupaban más territorios en Europa oriental, los nazis comenzaron a implementar un plan mucho más siniestro: el exterminio masivo. En la Conferencia de Wannsee, celebrada en enero de 1942, los líderes nazis, encabezados por Reinhard Heydrich, discutieron y coordinaron los detalles logísticos y operativos para llevar a cabo la 'Solución FinaL'. Se acordó el uso de campos de exterminio especialmente construidos en Polonia y otros lugares para llevar a cabo el asesinato masivo de judíos utilizando cámaras de gas y otros métodos. Los campos de exterminio, como Auschwitz, Treblinka y Sobibor, se convirtieron en lugares de horror donde las víctimas judías eran deportadas, despojadas de sus pertenencias y luego asesinadas en cámaras de gas. Sus cuerpos eran incinerados en crematorios para borrar cualquier evidencia del genocidio. La implementación de la 'Solución Final' resultó en la muerte de aproximadamente seis millones de judíos, así como de otros grupos perseguidos, como gitanos, discapacitados y opositores políticos."
+            },
+            {
+                "pregunta": "El juicio de Nuremberg sirvió para juzgar y condenar a los criminales de guerra nazis. Hubo casos conocidos. ¿Qué porcentaje del número total de criminales de guerra identificados fue enjuiciado?",
+                "opciones": [
+                    "a) Más del 70%",
+                    "b) Más del 50%",
+                    "c) Más del 20%",
+                    "d) Más del 5%",
+                    "e) Menos del 1%"
+                ],
+                "respuesta": "e",
+                "explicacion": "RESPUESTA: E. El juicio de Nuremberg fue el primer juicio internacional de su tipo y desarrollaron las bases para el enjuiciamiento de individuos por crímenes de guerra, crímenes contra la humanidad y crímenes de lesa humanidad. Se llevaron a cabo una serie de procesos en los que se juzgaron a 24 líderes nazis principales, incluidos Hermann Göring, Rudolf Hess, Joachim von Ribbentrop y otros. Los líderes nazis fueron acusados de planificar, iniciar y llevar a cabo la guerra, así como de cometer crímenes de guerra y genocidio. De los líderes juzgados en Núremberg, varios fueron condenados a muerte, algunos recibieron sentencias de prisión y otros fueron absueltos. El juicio estableció principios legales fundamentales que sirvieron de base para el desarrollo del derecho penal internacional y la creación de tribunales posteriores, como el Tribunal Penal Internacional. Sin embargo, es importante destacar que el juicio de Nuremberg solo pudo enjuiciar y condenar a una fracción muy pequeña de los criminales de guerra nazis y responsables de crímenes de lesa humanidad. Muchos individuos involucrados en los horrores del régimen nazi no fueron capturados o enjuiciados debido a la magnitud de los crímenes y la complejidad de llevar a cabo juicios para todos los implicados."
+            },
+            {
+                "pregunta": "En 1968 muchos analistas del gobierno norteamericano, incluidos los presidentes Johnson y Nixon, sabían que no ganarían la guerra en Vietnam. ¿Por qué no cesaron hostilidades?",
+                "opciones": [
+                    "a) Para que los presidentes Johnson y Nixon no pusieran en riesgo sus carreras políticas",
+                    "b) Para defender el futuro político del gobierno de Vietnam del Sur",
+                    "c) Porque los generales norteamericanos habían venido ganando sostenidamente las batallas",
+                    "d) Por la influencia política sobre el congreso norteamericano",
+                    "e) Para no desmoralizar a la población de Estados Unidos"
+                ],
+                "respuesta": "a",
+                "explicacion": "•La Guerra de Vietnam fue un conflicto prolongado y controvertido que enfrentó a Estados Unidos y sus aliados con las fuerzas comunistas de Vietnam del Norte y el Frente Nacional de Liberación (Viet Cong) en Vietnam del Sur. A medida que la guerra se prolongaba, los líderes estadounidenses comenzaron a reconocer la dificultad de lograr una victoria militar clara y la creciente impopularidad de la guerra entre la opinión pública en Estados Unidos. Lyndon B. Johnson, quien fue presidente durante gran parte de la década de 1960, se enfrentó a la difícil tarea de equilibrar la persecución de la guerra con las preocupaciones crecientes sobre el costo humano y financiero de la misma. La guerra en Vietnam resultó en una profunda  división en la sociedad estadounidense y en protestas masivas en contra de la participación militar en el conflicto. Cuando Richard Nixon asumió la presidencia en 1969, heredó la difícil situación en Vietnam. Si bien Nixon buscaba una 'paz con honor' y reducir gradualmente la participación militar estadounidense, también enfrentó la presión de mantener una imagen de firmeza y compromiso en la política exterior. La retirada estadounidense de Vietnam se llevó a cabo en fases, pero Nixon intentó mantener la apariencia de estar logrando progresos en la guerra mientras se preparaba para una retirada. La política interna y las carreras políticas desempeñaron un papel crucial en las decisiones de Johnson y Nixon con respecto a Vietnam. Ambos presidentes temían las consecuencias políticas de ser percibidos como 'perdedores' en la guerra y el impacto negativo que esto podría tener en sus legados y carreras políticas."
+            },
+            {
+                "pregunta": "La guerra de las Malvinas entre el Reino Unido y Argentina se produjo cuando en dichos países eran jefes de gobierno:",
+                "opciones": [
+                    "a) Jim Callahan y Leopoldo Fortunato Galtieri",
+                    "b) Margaret Thatcher y Jorge Rafael Videla",
+                    "c) Jim Callahan y Raúl Alfonsín",
+                    "d) Margaret Thatcher y Leopoldo Fortunato Galtieri",
+                    "e) John Major y Raúl Alfonsín"
+                ],
                 "respuesta": "d",
-                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+                "explicacion": "La Guerra de las Malvinas en 1982 tuvo lugar durante los gobiernos de Margaret Thatcher en el Reino Unido y Leopoldo Fortunato Galtieri en Argentina. El conflicto comenzó con la invasión argentina de las islas el 2 de abril y concluyó con la victoria británica el 14 de junio de 1982."
+            },
+            {
+                "pregunta": "La península del Sinaí fue tomada por Israel como consecuencia de:",
+                "opciones": [
+                    "a) La guerra del Sinaí",
+                    "b) La guerra del Yom Kipur",
+                    "c) La invasión del Líbano",
+                    "d) El bombardeo de la Franja de Gaza",
+                    "e) La guerra de los Seis Días"
+                ],
+                "respuesta": "e",
+                "explicacion": "• La Guerra de los Seis Días comenzó el 5 de junio de 1967 cuando Israel lanzó un ataque sorpresa contra las fuerzas egipcias en el Sinaí, así como contra las fuerzas aéreas de Egipto, Jordania y Siria. El conflicto se desencadenó debido a una serie de tensiones y provocaciones en la región, incluyendo el bloqueo del Estrecho de Tirán por parte de Egipto y movimientos militares de las fuerzas árabes en las fronteras de Israel. Israel, a pesar de estar en una posición geográficamente desventajosa, logró una serie de victorias militares espectaculares. Durante la guerra, Israel ocupó la Península del Sinaí, la Franja de Gaza, Cisjordania (incluida Jerusalén Oriental) y los Altos del Golán. La guerra concluyó el 10 de junio de 1967 con un alto el fuego. La ocupación israelí de la Península del Sinaí se mantuvo hasta después de la Guerra de Yom Kipur en 1973, cuando Egipto lanzó un ataque para recuperar la península. Posteriormente, en 1979, Israel y Egipto firmaron el Tratado de Paz de Camp David, en virtud del cual Israel se retiró de la Península del Sinaí y devolvió el territorio a Egipto."
+            },
+            {
+                "pregunta": "¿Cuál fue el último presidente bajo el sistema de Apartheid en Sudáfrica?",
+                "opciones": [
+                    "a) Idi Amin Dada",
+                    "b) Christian Barnard",
+                    "c) Pietr Willem Botha",
+                    "d) Nelson Mandela",
+                    "e) Frederik Willem de Klerk"
+                ],
+                "respuesta": "e",
+                "explicacion": " Frederik Willem de Klerk asumió la presidencia de Sudáfrica el 15 de agosto de 1989, sucediendo a PW Botha. A pesar de que inicialmente De Klerk era considerado un defensor del sistema de apartheid, durante su presidencia sorprendió al mundo al tomar medidas audaces para reformar y finalmente abolir el sistema de segregación racial. Una de las decisiones más significativas de De Klerk fue la liberación del líder anti-apartheid Nelson Mandela de la prisión en 1990, después de 27 años de encarcelamiento. Esta acción marcó el inicio de un proceso de negociación y diálogo entre el gobierno y los líderes de la oposición, incluido el Congreso Nacional Africano (ANC) de Mandela. De Klerk también apoyó un papel clave en la organización de las primeras elecciones multirraciales en 1994, en las que Nelson Mandela fue elegido como el primer presidente negro de Sudáfrica. La transición pacífica a un gobierno democrático marcó el final oficial del apartheid y el comienzo de una nueva era en el país. Por su papel en la abolición del apartheid y en la promoción de la reconciliación nacional, De Klerk compartió el Premio Nobel de la Paz con Nelson Mandela en 1993."
+            },
+            {
+                "pregunta": "¿A qué se conoce como la ruta de la seda?",
+                "opciones": [
+                    "a) A la ruta que manejaba la compañía de Filipinas",
+                    "b) A la exportación de gusanos de la seda desde Japón",
+                    "c) Al proceso de acopio de seda en Beijing",
+                    "d) A la ruta de comercio terrestre transasiática entre China, medio oriente y Europa",
+                    "e) Al intercambio comercial entre la India y el sudeste asiático"
+                ],
+                "respuesta": "d",
+                "explicacion": " La Ruta de la Seda era una red de rutas comerciales que se originaban en varias ciudades de China, como Xi'an y Dunhuang, y se extendían a través de Asia Central, Persia, el Medio Oriente y llegaban hasta Europa, pasando por lugares como Samarcanda, Bagdad, Alejandría y Constantinopla. El comercio a lo largo de la Ruta de la Seda involucraba una amplia variedad de productos, incluyendo seda (de ahí su nombre), especias, joyas, cerámica, papel, productos agrícolas, metales preciosos y más. Sin embargo, más allá del comercio de bienes materiales, la Ruta de la Seda también facilitó el intercambio de conocimientos, religiones, idiomas y culturas entre las civilizaciones a lo largo de su recorrido. Las rutas terrestres de la Ruta de la Seda a menudo implicaban travesías difíciles y peligrosas a través de desiertos, montañas y terrenos inhóspitos. A lo largo de estas rutas, surgieron oasis, caravasares y ciudades comerciales que ofrecían refugio, alojamiento y servicios a los comerciantes y viajeros. El término "Ruta de la Seda" no se refiere a una única ruta, sino a un conjunto de rutas comerciales que se entrecruzaban y se ramificaban a lo largo de Asia. A lo largo de la historia, las rutas y las ciudades a lo largo de la Ruta de la Seda cambiaron debido a factores como las dinastías gobernantes, los avances tecnológicos y los cambios en las relaciones comerciales."
+            },
+            {
+                "pregunta": "Se conoce como Revolución de Octubre:",
+                "opciones": [
+                    "a) A la revolución francesa",
+                    "b) A la revolución cubana",
+                    "c) A la revolución bolchevique",
+                    "d) A la revolución china",
+                    "e) A la revolución mexicana"
+                ],
+                "respuesta": "c",
+                "explicacion": "La Revolución de Octubre, también conocida como la Revolución Bolchevique, ocurrió en octubre de 1917 (según el calendario juliano) y llevó al derrocamiento del gobierno provisional ruso y al establecimiento de un gobierno socialista liderado por los bolcheviques bajo Vladimir Lenin. Este evento marcó el inicio de la Unión Soviética y tuvo un impacto duradero en la historia mundial."
+            },
+            {
+                "pregunta": "Durante la guerra civil dentro de la antigua Yugoslavia, se produjeron numerosos crímenes de guerra y genocidios contra la humanidad. ¿Quién se encargó de perseguir, enjuiciar y condenar a los implicados?",
+                "opciones": [
+                    "a) La Corte Penal Internacional con jueces Americanos, el USTPY",
+                    "b) El Tribunal Penal de Estrasburgo, el TPIE",
+                    "c) El Tribunal Penal Europeo para ex Yugoslavia, el EUTPY",
+                    "d) El Tribunal Penal Internacional para la antigua Yugoslavia, el TPIY",
+                    "e) El Tribunal Yugoslavo de Infracciones Penales, el YTP"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Tribunal Penal Internacional para la antigua Yugoslavia (TPIY) fue establecido en 1993 por el Consejo de Seguridad de la ONU para investigar y enjuiciar a responsables de crímenes de guerra, crímenes contra la humanidad y genocidio durante los conflictos en la antigua Yugoslavia en los años 90. El tribunal operó hasta 2017 y llevó a cabo numerosos juicios importantes, incluyendo el de Slobodan Milošević."
+            },
+            {
+                "pregunta": "El fundamentalismo religioso da un soporte muy fuerte al sentimiento ___ de los países donde son prevalentes.",
+                "opciones": [
+                    "a) defensivo",
+                    "b) paternalista",
+                    "c) espiritual",
+                    "d) nacionalista",
+                    "e) atávico"
+                ],
+                "respuesta": "d",
+                "explicacion": " RESPUESTA: D. El fundamentalismo religioso es un enfoque estricto y ortodoxo de una religión que tiende a interpretar las enseñanzas religiosas de manera literal y rígida. A menudo, el fundamentalismo religioso se asocia con un sentimiento nacionalista en los países donde prevalece. Esto se debe a que el fundamentalismo religioso puede fusionarse con el nacionalismo y utilizarse para fortalecer el sentido de identidad y cohesión en una nación. El nacionalismo se refiere al fuerte apego y lealtad hacia la propia nación ya menudo implica la creencia de que la propia nación es superior a los demás. Cuando se combina con el fundamentalismo religioso, puede llevar a la creencia de que la identidad religiosa es esencial para la identidad nacional y que las tradiciones religiosas deben ser protegidas y preservadas como parte integral de la nación. En contextos donde convergen el fundamentalismo religioso y el nacionalismo, las creencias religiosas pueden utilizarse para justificar políticas y acciones que refuerzan la unidad nacional y excluyen a aquellos que no comparten la misma fe. Esto puede llevar a tensiones con grupos religiosos o étnicos minoritarios, así como a conflictos internos y externos."
+            },
+            {
+                "pregunta": "Se conoce como 'el grito de Dolores', al inicio de la guerra de independencia en:",
+                "opciones": [
+                    "a) Venezuela",
+                    "b) Cuba",
+                    "c) Guatemala",
+                    "d) Nueva Granada",
+                    "e) México"
+                ],
+                "respuesta": "e",
+                "explicacion": "'El Grito de Dolores' es un evento histórico que marcó el inicio de la lucha por la independencia de México del dominio español. También se conoce como el 'Grito de Dolores' debido a que tuvo lugar en la ciudad de Dolores (hoy Dolores Hidalgo) en el estado de Guanajuato, México. El 16 de septiembre de 1810, el sacerdote Miguel Hidalgo y Costilla, junto con otros líderes insurgentes, pronunció un discurso conocido como 'El Grito de Dolores' desde el balcón de su iglesia parroquial. En su discurso, Hidalgo llamó al pueblo a rebelarse contra el dominio español y luchar por la independencia de México. El llamado de Hidalgo resonó entre las clases populares, los indígenas y mestizos, así como entre los criollos (descendientes de españoles nacidos en América) descontentos con el dominio colonial. Esto marcó el inicio de una larga lucha por la independencia que duraría más de una década. Aunque la lucha inicialmente estuvo liderada por Hidalgo, otros líderes insurgentes como José María Morelos y Vicente Guerrero también desempeñaron un papel importante en la guerra de independencia. Finalmente, después de años de conflicto, México logró su independencia de España en 1821."
+            },
+            {
+                "pregunta": "La independencia de Filipinas del control se produjo en:",
+                "opciones": [
+                    "a) Español - 1930",
+                    "b) Norteamericano - 1935",
+                    "c) Soviético 1932",
+                    "d) Chino 1935",
+                    "e) Japonés 1940"
+                ],
+                "respuesta": "b",
+                "explicacion": "La independencia de Filipinas del control norteamericano se produjo en 1935. Filipinas fue una colonia de Estados Unidos desde 1898, cuando fue cedida por España a Estados Unidos después de la Guerra Hispano- Estadounidense. A lo largo de las siguientes décadas, Filipinas experimentó un proceso gradual hacia la independencia. En 1935, el gobierno de Estados Unidos aprobó la Ley Tydings- McDuffie, también conocida como la Ley de Independencia de Filipinas. Esta ley establecía un camino hacia la independencia total de Filipinas en un plazo de diez años. Según la ley, se establecería un gobierno autónomo en Filipinas y se convocaría una convención constitucional para redactar una nueva constitución para el país. En 1935, la Convención Constitucional de Filipinas redactó una nueva constitución y se inició el Gobierno Autónomo de Filipinas. Manuel L. Quezón se convirtió en el primer presidente del Gobierno Autónomo y el país comenzó a prepararse para la independencia completa. Finalmente, el 4 de julio de 1946, Filipinas logró su completa independencia de Estados Unidos. Esto marcó el final de casi cinco décadas de dominio colonial estadounidense sobre Filipinas. Sin embargo, es importante mencionar que la independencia no fue completamente sin restricciones, ya que hubo acuerdos económicos y militares que continuaron vinculando a Filipinas con Estados Unidos"
+            },
+            {
+                "pregunta": "A la guerra del Paraguay de la década de 1860 se le conoce también como:",
+                "opciones": [
+                    "a) La guerra del Chaco",
+                    "b) La guerra del desierto",
+                    "c) La guerra de Iguazú",
+                    "d) La guerra del Paraná",
+                    "e) La guerra de la Triple Alianza"
+                ],
+                "respuesta": "e",
+                "explicacion": "La Guerra de la Triple Alianza, también conocida como la Guerra del Paraguay o la Guerra Grande, fue un conflicto militar que tuvo lugar entre 1864 y 1870. En esta guerra se enfrentaron Paraguay contra una alianza formada por Brasil, Argentina y Uruguay. Las causas de la guerra fueron complejas y abarcaron factores políticos, económicos y territoriales. Uno de los detonantes principales fue la ambición de las potencias aliadas de debilitar y controlar a Paraguay, que bajo el liderazgo de Francisco Solano López había adoptado una política exterior independiente y había acumulado un poder considerable en la región. La guerra se caracterizó por su brutalidad y devastación. Las fuerzas aliadas superaban en número y recursos a las fuerzas paraguayas, y la desproporción de la lucha llevó a la destrucción casi total de Paraguay. Se estima que la población del país disminuyó en más de un 60% debido a la violencia, la hambruna y las enfermedades. El conflicto tuvo un alto costo humano y dejó profundas cicatrices en la región. Paraguay quedó devastado económica y territorialmente, y la guerra tuvo un impacto duradero en su historia y desarrollo."
+            },
+            {
+                "pregunta": "El 'darwinismo social' propugnaba:",
+                "opciones": [
+                    "a) El estudio de las especies",
+                    "b) La investigación biológica",
+                    "c) La sociedad de castas",
+                    "d) La preminencia de la raza blanca emulando su capacidad para gobernar",
+                    "e) La lucha de clases"
+                ],
+                "respuesta": "d",
+                "explicacion": "El 'darwinismo social' fue una interpretación errónea de la teoría de la evolución de Darwin aplicada a la sociedad humana, que promovía la idea de la superioridad racial, especialmente de la raza blanca. Esta ideología se usó para justificar el imperialismo, el colonialismo y la opresión racial, aunque ha sido completamente desacreditada por carecer de base científica."
+            },
+            {
+                "pregunta": "El Plan Marshall propuesto por los Estados Unidos en 1947 buscaba:",
+                "opciones": [
+                    "a) Establecer convenios con Asia",
+                    "b) Poner fin a la Guerra Fría",
+                    "c) Garantizar el control armamentista de Europa",
+                    "d) Cooperar en la reconstrucción de Europa luego de la Segunda Guerra Mundial",
+                    "e) Formar equipos científicos mixtos con investigadores latinoamericanos"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Plan Marshall, propuesto en 1947, fue una iniciativa estadounidense para proporcionar ayuda financiera y económica a los países europeos devastados por la Segunda Guerra Mundial. El plan buscaba reconstruir las economías europeas, promover la estabilidad política y la cooperación entre naciones, además de prevenir la expansión del comunismo en la región."
             }
         ],
         "2020": [
