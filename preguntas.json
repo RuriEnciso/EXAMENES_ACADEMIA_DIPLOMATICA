@@ -1257,6 +1257,38 @@
                 "respuesta": "d",
                 "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
             }
+        ],
+        "2020": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2021": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2022": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
+        ],
+        "2023": [
+            {
+                "pregunta": "Pregunta 1 de Historia del Perú 2019",
+                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "respuesta": "d",
+                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            }
         ]
     },
         "HISTORIA_UNIVERSAL": {
@@ -1403,7 +1435,7 @@
                     "e) Al intercambio comercial entre la India y el sudeste asiático"
                 ],
                 "respuesta": "d",
-                "explicacion": " La Ruta de la Seda era una red de rutas comerciales que se originaban en varias ciudades de China, como Xi'an y Dunhuang, y se extendían a través de Asia Central, Persia, el Medio Oriente y llegaban hasta Europa, pasando por lugares como Samarcanda, Bagdad, Alejandría y Constantinopla. El comercio a lo largo de la Ruta de la Seda involucraba una amplia variedad de productos, incluyendo seda (de ahí su nombre), especias, joyas, cerámica, papel, productos agrícolas, metales preciosos y más. Sin embargo, más allá del comercio de bienes materiales, la Ruta de la Seda también facilitó el intercambio de conocimientos, religiones, idiomas y culturas entre las civilizaciones a lo largo de su recorrido. Las rutas terrestres de la Ruta de la Seda a menudo implicaban travesías difíciles y peligrosas a través de desiertos, montañas y terrenos inhóspitos. A lo largo de estas rutas, surgieron oasis, caravasares y ciudades comerciales que ofrecían refugio, alojamiento y servicios a los comerciantes y viajeros. El término "Ruta de la Seda" no se refiere a una única ruta, sino a un conjunto de rutas comerciales que se entrecruzaban y se ramificaban a lo largo de Asia. A lo largo de la historia, las rutas y las ciudades a lo largo de la Ruta de la Seda cambiaron debido a factores como las dinastías gobernantes, los avances tecnológicos y los cambios en las relaciones comerciales."
+                "explicacion": "La Ruta de la Seda era una red de rutas comerciales que se originaban en varias ciudades de China, como Xi'an y Dunhuang, y se extendían a través de Asia Central, Persia, el Medio Oriente y llegaban hasta Europa, pasando por lugares como Samarcanda, Bagdad, Alejandría y Constantinopla. El comercio a lo largo de la Ruta de la Seda involucraba una amplia variedad de productos, incluyendo seda (de ahí su nombre), especias, joyas, cerámica, papel, productos agrícolas, metales preciosos y más. Sin embargo, más allá del comercio de bienes materiales, la Ruta de la Seda también facilitó el intercambio de conocimientos, religiones, idiomas y culturas entre las civilizaciones a lo largo de su recorrido. Las rutas terrestres de la Ruta de la Seda a menudo implicaban travesías difíciles y peligrosas a través de desiertos, montañas y terrenos inhóspitos. A lo largo de estas rutas, surgieron oasis, caravasares y ciudades comerciales que ofrecían refugio, alojamiento y servicios a los comerciantes y viajeros. El término Ruta de la Seda no se refiere a una única ruta, sino a un conjunto de rutas comerciales que se entrecruzaban y se ramificaban a lo largo de Asia. A lo largo de la historia, las rutas y las ciudades a lo largo de la Ruta de la Seda cambiaron debido a factores como las dinastías gobernantes, los avances tecnológicos y los cambios en las relaciones comerciales."
             },
             {
                 "pregunta": "Se conoce como Revolución de Octubre:",
@@ -1504,26 +1536,765 @@
         ],
         "2020": [
             {
-                "pregunta": "Pregunta 1 de Historia del Universal 2020",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "La Paz de Westfalia de 1648, es un hito en la historia moderna, pues fue el primer congreso diplomático en el cual se estableció tres principios que dieron marco al surgimiento del Estado Nación. Estos fueron:",
+                "opciones": [
+                    "a) Soberanía, integridad territorial y equilibrio de poder entre los Estados",
+                    "b) Supremacía de la religión católica, interdependencia e internacionalización de los Estados",
+                    "c) Soberanía, libertad de credo y mercantilismo",
+                    "d) Integridad territorial, prevalencia del sistema feudal y autoritarismo",
+                    "e) Soberanía, no intervención e interdependencia"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Paz de Westfalia de 1648 estableció principios claves para el sistema de Estados soberanos: la soberanía estatal (autoridad suprema e independiente), la integridad territorial (fronteras inviolables), y el equilibrio de poder (para prevenir el dominio excesivo de un Estado sobre otros)."
+            },
+            {
+                "pregunta": "Señale la afirmación correcta respecto a la Ilustración:",
+                "opciones": [
+                    "a) Fue un movimiento mundial de reactivación económica, ideológica y científica",
+                    "b) Alcanzó su mayor desarrollo en el siglo XVII, denominado Siglo de las Luces",
+                    "c) Promovió los dogmas religiosos y políticos del siglo XVIII",
+                    "d) Desarrollado en el llamado el Siglo de las Luces, impulsó la caída del Antiguo Régimen",
+                    "e) Ninguna de las anteriores"
+                ],
                 "respuesta": "d",
-                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+                "explicacion": "La Ilustración fue un movimiento intelectual del siglo XVIII que promovió la razón, la ciencia y la crítica a las estructuras tradicionales de poder, contribuyendo significativamente a la caída del Antiguo Régimen."
+            },
+            {
+                "pregunta": "Es característica de la Revolución Industrial:",
+                "opciones": [
+                    "a) La utilización de la máquina de vapor para accionar ferrocarriles y barcos",
+                    "b) El empleo frecuente de trabajo infantil en las primeras fábricas y minas",
+                    "c) El reemplazo gradual de los latifundistas por los capitalistas como principales agentes de la economía",
+                    "d) El cambio tecnológico favoreció el desarrollo del capitalismo",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "La Revolución Industrial se caracterizó por todos estos elementos: el uso de la máquina de vapor, el trabajo infantil en fábricas, el surgimiento de los capitalistas sobre los latifundistas, y el desarrollo del capitalismo impulsado por los cambios tecnológicos."
+            },
+            {
+                "pregunta": "La Doctrina Monroe, por la cual Estados Unidos no permite la intervención de potencias europeas en asuntos internos de los países americanos, fue elaborada por:",
+                "opciones": [
+                    "a) Theodore Roosevelt",
+                    "b) John Quincy Adams",
+                    "c) James Madison",
+                    "d) Andrew Jackson",
+                    "e) Thomas Jefferson"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Doctrina Monroe fue elaborada por John Quincy Adams, quien era Secretario de Estado cuando el presidente James Monroe la anunció en 1823. Esta doctrina estableció principios contra la intervención europea en América."
+            },
+            {
+                "pregunta": "Los Secesionistas de los Estados Confederados en la Guerra Civil Norteamericana defendían:",
+                "opciones": [
+                    "a) Los derechos de los estados a mantener la esclavitud",
+                    "b) Un control absoluto sobre los estados fronterizos donde la esclavitud era legal",
+                    "c) Una negociación diplomática internacional de reconocimiento",
+                    "d) La abolición de la esclavitud en Estados Unidos",
+                    "e) Ninguno de los anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "Los secesionistas defendían principalmente el derecho de los estados a mantener la esclavitud, argumentando que esta era vital para su economía y estilo de vida, y que los estados tenían la soberanía para decidir sobre cuestiones internas sin interferencia federal."
+            },
+            {
+                "pregunta": "La guerra de los Diez Años, que precedió a la Independencia de Cuba, ocurrió entre ___ y en ella destacó el ideólogo ___",
+                "opciones": [
+                    "a) 1865-1875; Armando Hart",
+                    "b) 1867-1877; Máximo Gómez",
+                    "c) 1869-1879; Calixto García",
+                    "d) 1868-1878; José Martí",
+                    "e) 1867-1877; Antonio Maceo"
+                ],
+                "respuesta": "d",
+                "explicacion": "La Guerra de los Diez Años ocurrió entre 1868 y 1878, con José Martí como figura clave e ideólogo. Aunque era joven durante el conflicto, su influencia en la lucha por la independencia cubana fue fundamental."
+            },
+            {
+                "pregunta": "El movimiento Unión Social y Política de las Mujeres fundado por Emmeline Pankhurst en 1903, inició sus acciones directas consideradas de desobediencia cívica en:",
+                "opciones": [
+                    "a) Nueva Zelanda",
+                    "b) Australia",
+                    "c) Estados Unidos",
+                    "d) Gran Bretaña",
+                    "e) Rusia"
+                ],
+                "respuesta": "d",
+                "explicacion": "El movimiento fue fundado y desarrolló sus acciones de desobediencia civil en Gran Bretaña, donde Emmeline Pankhurst y las sufragistas lucharon por el derecho al voto de las mujeres a través de protestas y manifestaciones."
+            },
+            {
+                "pregunta": "La Revolución de Octubre en Rusia estuvo dirigida por:",
+                "opciones": [
+                    "a) Los mencheviques",
+                    "b) Los troskistas",
+                    "c) Los soviéticos",
+                    "d) Los bolcheviques",
+                    "e) Los estalinistas"
+                ],
+                "respuesta": "d",
+                "explicacion": "La Revolución de Octubre fue dirigida por los bolcheviques, bajo el liderazgo de Vladimir Lenin, quienes tomaron el poder en octubre de 1917 y establecieron el primer estado socialista."
+            },
+            {
+                "pregunta": "El evento detonante de la primera guerra mundial fue:",
+                "opciones": [
+                    "a) El asesinato del archiduque Francisco Fernando de Austria por un nacionalista serbio",
+                    "b) La violación de la soberanía belga",
+                    "c) La guerra de desgaste entre Francia y Alemania",
+                    "d) La crisis del gobierno ruso",
+                    "e) La formación de la Triple Alianza"
+                ],
+                "respuesta": "a",
+                "explicacion": "El asesinato del archiduque Francisco Fernando de Austria y su esposa Sofía el 28 de junio de 1914 en Sarajevo por Gavrilo Princip fue el evento que desencadenó la Primera Guerra Mundial."
+            },
+            {
+                "pregunta": "La Guerra del Chaco se libró de 1932 a 1935 entre ___ por disputas ___",
+                "opciones": [
+                    "a) Argentina y Chile - limítrofes",
+                    "b) Paraguay y Brasil - comerciales",
+                    "c) Paraguay y Bolivia - territoriales",
+                    "d) Argentina y Paraguay - políticas",
+                    "e) Bolivia y Paraguay - comerciales"
+                ],
+                "respuesta": "c",
+                "explicacion": "La Guerra del Chaco fue un conflicto territorial entre Paraguay y Bolivia (1932-1935) por el control de la región del Gran Chaco, rica en recursos naturales. Paraguay ganó el control de la mayoría del territorio disputado."
+            },
+            {
+                "pregunta": "La Guerra del Chaco se libró de 1932 a 1935 entre por disputas....",
+                "opciones": [
+                    "a) Argentina y Chile - limítrofes",
+                    "b) Paraguay y Brasil - comerciales",
+                    "c) Paraguay y Bolivia - territoriales",
+                    "d) Argentina y Paraguay - políticas",
+                    "e) Bolivia y Paraguay - comerciales"
+                ],
+                "respuesta": "c",
+                "explicacion": "La Guerra del Chaco fue un conflicto armado que tuvo lugar entre 1932 y 1935 entre Paraguay y Bolivia, en la región del Gran Chaco, una vasta área de tierras bajas y semiáridas ubicadas entre ambos países. La guerra se originó principalmente por disputas territoriales y económicas en esa región."
+            },
+            {
+                "pregunta": "Respecto de la Gran Depresión señale la opción incorrecta:",
+                "opciones": [
+                    "a) La década de 1920 fue caracterizada por la depresión económica de Estados Unidos denominada 'los años negros'",
+                    "b) Impulsó a las potencias a su expansión territorial en la búsqueda de recursos minerales y bélicos",
+                    "c) Favoreció el ascenso de Hitler al poder en Alemania en 1933",
+                    "d) Se debió a la especulación de los agentes financieros de Wall Street tanto como a la sobreproducción industrial",
+                    "e) Debilitó gobiernos latinoamericanos debido a que no pudieron soportar la recesión económica posterior"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Gran Depresión tuvo lugar durante la década de 1930, no en la década de 1920. Los 'años negros' se refieren a la Gran Depresión y no a la década de 1920."
+            },
+            {
+                "pregunta": "Indique lo correcto sobre la crisis de la Manchuria:",
+                "opciones": [
+                    "a) Puso a prueba la eficiencia de la Sociedad de Naciones, lo que se agravó con el retiro de Japón",
+                    "b) Se inicia con la anexión de la Manchuria China por Rusia",
+                    "c) Tuvo su origen en un incidente marítimo por el que Japón acusó a China",
+                    "d) b y c",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "La crisis de la Manchuria fue un conflicto que involucró la anexión de la región china de Manchuria por parte de Japón en 1931, lo que puso a prueba la eficacia de la Sociedad de Naciones, una organización internacional establecida después de la Primera Guerra Mundial para mantener la paz y la seguridad."
+            },
+            {
+                "pregunta": "Se considera que la Segunda Guerra Mundial se inicia en... con....",
+                "opciones": [
+                    "a) 1935, la invasión italiana a Etiopía",
+                    "b) 1939, la invasión alemana a Polonia",
+                    "c) 1941, la invasión alemana a la Unión Soviética",
+                    "d) 1941, el apoyo de Alemania al Japón que se encontró en guerra con China",
+                    "e) 1940, la presión que ejercieron Francia e Inglaterra contra Alemania"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Segunda Guerra Mundial se inició el 1 de septiembre de 1939, cuando Alemania, dirigida por Adolf Hitler, invadió Polonia. Este evento marcó el comienzo de una serie de conflictos que involucraron a numerosas naciones y se convirtieron en el conflicto militar más grande y destructivo en la historia."
+            },
+            {
+                "pregunta": "La revolución china de 1949 fue el resultado de la guerra civil china iniciada en 1927, cuya victoria fue lograda por responsable(s) de la instauración de",
+                "opciones": [
+                    "a) los nacionalistas del Kuomintang - la República China",
+                    "b) el Partido Comunista Chino - la República China Popular",
+                    "c) los nacionalistas del Kuomintang - la República Popular China",
+                    "d) el Partido Comunista Chino - la Nación Socialista China",
+                    "e) los nacionalistas del Kuomintang - la República Popular China"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Revolución China de 1949 fue el resultado de la guerra civil china que se desarrolló a lo largo de varias décadas y culminó con la victoria del Partido Comunista Chino sobre los nacionalistas del Kuomintang. Esta victoria condujo a la instauración de la República Popular China bajo el liderazgo de Mao Zedong."
+            },
+            {
+                "pregunta": "Se trató de uno de los primeros episodios de la Guerra Fría en el cual las dos superpotencias acordaron dividir el territorio en el paralelo 38. ¿A qué país se está haciendo referencia?",
+                "opciones": [
+                    "a) Vietnam",
+                    "b) Corea",
+                    "c) Japón",
+                    "d) Alemania",
+                    "e) Ninguno de los anteriores"
+                ],
+                "respuesta": "b",
+                "explicacion": "El episodio al que se hace referencia es la división de Corea en el paralelo 38 durante la Guerra Fría. Después de la Segunda Guerra Mundial, Corea fue ocupada por la Unión Soviética en el norte y Estados Unidos en el sur, lo que eventualmente condujo a la división del país en dos estados separados."
+            },
+            {
+                "pregunta": "Con relación al desastre del Chernóbil señale la opción correcta:",
+                "opciones": [
+                    "a) Fue un accidente nuclear ocurrido en la Federación de Rusia",
+                    "b) Junto con el de Fukushima es considerado como el más grave accidente nuclear de la historia",
+                    "c) Tuvo un impacto significativo en los cambios estratégicos de la Unión Soviética",
+                    "d) a, b y c son correctas",
+                    "e) b y c son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "El desastre de Chernóbil fue un grave accidente nuclear que ocurrió en la Unión Soviética, específicamente en la planta nuclear de Chernóbil en Ucrania. Junto con el desastre nuclear de Fukushima en Japón, es considerado uno de los peores accidentes nucleares en la historia y tuvo un impacto significativo en los cambios estratégicos y políticos de la Unión Soviética."
+            },
+            {
+                "pregunta": "Respecto a la Glasnost es correcto afirmar que:",
+                "opciones": [
+                    "a) Fue un conjunto de reformas políticas que implicaron la apertura a la información y a las comunicaciones",
+                    "b) Fue un conjunto de reformas orientadas a la restructuración del sistema económico de la Unión Soviética",
+                    "c) Fue posterior a la Perestroika",
+                    "d) Fue impulsada por Konstantin Chernenko",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Glasnost fue una política de apertura y transparencia promovida por el líder soviético Mijaíl Gorbachov en la década de 1980 como parte de su programa de reformas destinado a modernizar y revitalizar la Unión Soviética."
+            },
+            {
+                "pregunta": "Indique la relación correcta respecto de los siguientes dictadores latinoamericanos del siglo XX: A. Augusto Pinochet, B. Jorge Videla, C. Alfredo Stroessner, D. Hugo Banzer, E. Anastasio Somoza con I. Nicaragua, II. Paraguay, III. Bolivia, IV. Chile, V. Argentina",
+                "opciones": [
+                    "a) A-IV/B-V/C-II/D-III/E-I",
+                    "b) A-V/B-II/C-III/D-IV/E-I",
+                    "c) A-I/B-II/C-III/D-IV/E-V",
+                    "d) A-IV/B-V/C-I/D-III/E-II",
+                    "e) A-IV/B-III/C-II/D-V/E-I"
+                ],
+                "respuesta": "a",
+                "explicacion": "La relación correcta es: Augusto Pinochet - Chile (IV), Jorge Videla - Argentina (V), Alfredo Stroessner - Paraguay (II), Hugo Banzer - Bolivia (III), Anastasio Somoza - Nicaragua (I)."
+            },
+            {
+                "pregunta": "Indique cuál de las siguientes afirmaciones es incorrecta acerca de los hechos acontecidos durante la gestión del Embajador Javier Pérez de Cuéllar como secretario general de la Organización de las Naciones Unidas",
+                "opciones": [
+                    "a) Fin del conflicto bélico entre Irán e Irak",
+                    "b) Retiro de las fuerzas soviéticas de Afganistán",
+                    "c) Acuerdo de paz en El Salvador",
+                    "d) Fin de la guerra entre la República de Bosnia y Herzegovina y la Comunidad Croata de Herz-Bosnia",
+                    "e) La independencia de Namibia"
+                ],
+                "respuesta": "d",
+                "explicacion": "La afirmación incorrecta es la 'd' porque la guerra en Bosnia y Herzegovina y la Comunidad Croata de Herz-Bosnia ocurrió después de su mandato, a principios de la década de 1990, y fue uno de los conflictos más notorios que surgieron después de su tiempo como secretario general de la ONU."
+            },
+            {
+                "pregunta": "¿Cuál es el argumento principal de Samuel Huntington en Choque de Civilizaciones?",
+                "opciones": [
+                    "a) Que a partir del fin de la guerra fría los conflictos entre las civilizaciones estarán caracterizados por la ausencia de la democracia liberal",
+                    "b) Que los conflictos globales serán el resultado de las diferencias culturales entre las civilizaciones",
+                    "c) Que la dependencia económica entre las civilizaciones a través del comercio internacional evitará conflictos",
+                    "d) Que a partir del fin de la Guerra Fría las ideologías se volvieron irrelevantes para las civilizaciones",
+                    "e) Que los conflictos perdurarán entre las civilizaciones si no se instala un equilibrio de poder entre los Estados"
+                ],
+                "respuesta": "b",
+                "explicacion": "En su libro 'El choque de civilizaciones y la reconfiguración del orden mundial', Samuel P. Huntington argumenta que, después del final de la Guerra Fría, los conflictos globales serán en gran medida impulsados por las diferencias culturales y religiosas entre las distintas civilizaciones."
             }
+
         ],
         "2021": [
             {
-                "pregunta": "Pregunta 1 de Historia del Universal 2021",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "La Revolución industrial fue un período histórico en el que se experimentaron cambios radicales en los métodos de producción, generando nuevas dinámicas económicas y sociales. Señale cuál de estos postulados no corresponde a la revolución industrial:",
+                "opciones": [
+                    "a) Migraciones del campo a la ciudad y crecimiento de la población urbana",
+                    "b) Impulso al libre comercio por parte de Gran Bretaña y los Estados Unidos",
+                    "c) Ascenso de la burguesía industrial",
+                    "d) Innovaciones tecnológicas, modernización del transporte",
+                    "e) Desarrollo y expansión del capitalismo"
+                ],
+                "respuesta": "b",
+                "explicacion": "Durante la Revolución Industrial, Gran Bretaña fue un impulsor clave de la industrialización y el libre comercio, pero Estados Unidos no estaba tan involucrado en ese momento. Estados Unidos experimentó su propia revolución industrial en un período posterior."
+            },
+            {
+                "pregunta": "La Guerra de Secesión fue un conflicto civil desarrollado en territorio norteamericano entre 1861 y 1865 que enfrentó a los Estados del Norte con los Estados Segregados del Sur. ¿Cuál fue o fueron los orígenes que condujeron a esta conflagración?",
+                "opciones": [
+                    "a) Colisión de modelos político-económicos: industrial proteccionista y agrario esclavista",
+                    "b) El anuncio del presidente electo Lincoln de liberar a los esclavos al asumir el poder",
+                    "c) Percepción en sur de que el gobierno procuraba violar su autonomía y derechos soberanos",
+                    "d) a y c son correctas",
+                    "e) a y b son correctas"
+                ],
                 "respuesta": "d",
-                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+                "explicacion": "La Guerra de Secesión fue causada por la colisión entre los modelos económicos y políticos del Norte industrial y proteccionista, y el Sur agrario y esclavista, así como por la percepción de los estados del Sur de que el gobierno federal amenazaba sus derechos soberanos."
+            },
+            {
+                "pregunta": "Mencione los hitos que marcaron el inicio y el fin de la era napoleónica:",
+                "opciones": [
+                    "a) Napoleón es proclamado emperador y batalla de Waterloo",
+                    "b) Guerra de la Primera Coalición y fracaso invasión napoleónica a Rusia",
+                    "c) Golpe de Estado del 18 de brumario y exilio de Napoleón a Santa Elena",
+                    "d) Invasión de Egipto y batalla de Leipzig o Batalla de las Naciones",
+                    "e) Napoleón asume como primer Cónsul de Francia y Tratado de París de 1815"
+                ],
+                "respuesta": "c",
+                "explicacion": "El inicio de la era napoleónica está marcado por el Golpe de Estado del 18 de brumario (9 de noviembre de 1799) que lo llevó al poder como Primer Cónsul de Francia, y el final está marcado por su exilio a la isla de Santa Elena después de su derrota en Waterloo, donde permaneció hasta su muerte en 1821."
+            },
+            {
+                "pregunta": "El imperio británico y el imperio chino sostuvieron en el siglo XIX diversos conflictos. Uno de ellos fue la primera guerra del opio, desarrollada entre 1840 y 1842. Indique la causa o las causas de la primera de estas guerras:",
+                "opciones": [
+                    "a) Oposición británica a la exportación de opio chino a los países de la región",
+                    "b) Interés británico en derrumbar el proteccionismo chino que limitaba el comercio al puerto de Cantón",
+                    "c) Prohibición del gobierno chino al ingreso de opio traído desde la India y Java en naves británicas",
+                    "d) a) y b) son correctas",
+                    "e) b) y c) son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "Las causas principales fueron el interés británico en expandir su comercio más allá del puerto de Cantón, eliminando las restricciones comerciales chinas, y el conflicto sobre la prohibición china de la importación de opio que los británicos traían desde sus colonias en India y Java."
+            },
+            {
+                "pregunta": "La Guerra de Crimea, conocida también como la 'Guerra de Oriente' fue uno de los conflictos más importantes del siglo XIX. Señale cual enunciado no corresponde a este episodio desarrollado entre 1853 y 1856:",
+                "opciones": [
+                    "a) Fue una guerra focalizada entre el imperio zarista y el imperio otomano",
+                    "b) Rusia declaró la guerra a Turquía con el fin de capturar el estrecho del Bósforo y liberar a Grecia y los Balcanes del dominio otomano",
+                    "c) Intervinieron en la guerra militar de otros países europeos",
+                    "d) Su desenlace puso fin al concierto europeo surgido del Congreso de Viena de 1815",
+                    "e) Fue una guerra con importantes innovaciones como hospitales de campaña, enfermeras, anestésicos y registros fotográficos"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Guerra de Crimea no fue una guerra focalizada solo entre el imperio zarista y el imperio otomano. Fue un conflicto más complejo que involucró a varias potencias europeas, incluyendo Francia, el Reino Unido y el Reino de Cerdeña."
+            },
+            {
+                "pregunta": "La guerra entre Rusia y Japón de 1904-1905 enfrentó a una potencia imperialista consolidada y un Estado emergente, con afanes imperialistas, que buscaba reconocimiento en el concierto de las grandes potencias. ¿Cuál fue la causa principal o las causas de este conflicto?",
+                "opciones": [
+                    "a) Ambos países pugnaban por ampliar su área de influencia en Manchuria y Corea",
+                    "b) Japón buscaba desquitar la humillación sufrida a manos de Rusia, que, con apoyo de Europa, la hizo ceder parte de las conquistas obtenidas en la guerra con China de 1895",
+                    "c) El régimen zarista buscaba consolidar su prestigio y neutralizar posibles revoluciones",
+                    "d) Moscú rechazó la propuesta japonesa para que Manchuria quedara bajo dominio ruso y Corea bajo el japonés",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "La Guerra Ruso-Japonesa fue resultado de múltiples factores, incluyendo la lucha por influencia en Manchuria y Corea, el deseo de Japón de recuperar su prestigio, las aspiraciones imperialistas de ambos países, y el rechazo de propuestas de delimitación de influencias."
+            },
+            {
+                "pregunta": "Las causas políticas, económicas y sociales de la revolución rusa de 1917 fueron diversas. Señale cuál de las mencionadas no es correcta:",
+                "opciones": [
+                    "a) El régimen zarista restringía libertades y derechos civiles a los trabajadores",
+                    "b) El anuncio del Zar Alejandro de abdicar dejando un vacío de poder en el país",
+                    "c) La participación de Rusia en la Primera Guerra Mundial",
+                    "d) El aumento de la pobreza extrema entre la población",
+                    "e) La creciente agitación política entre los sindicatos y otros sectores de la sociedad"
+                ],
+                "respuesta": "b",
+                "explicacion": "Esta afirmación es incorrecta porque fue el Zar Nicolás II quien abdicó en 1917, no el Zar Alejandro. Las demás opciones son causas válidas de la Revolución Rusa."
+            },
+            {
+                "pregunta": "La I Guerra Mundial comenzó como un conflicto europeo de leve intensidad, pero en el tiempo involucró directamente a más de treinta naciones. En América Latina, algunos países declararon la guerra a las potencias centrales, mientras que otros evitaron involucrarse. ¿Cuál fue la posición del Perú durante la contienda?",
+                "opciones": [
+                    "a) Mantuvo una política de absoluta neutralidad",
+                    "b) Su neutralidad fue nominal pues en los hechos colaboró con la Entente",
+                    "c) Rompió relaciones con todos los imperios centrales",
+                    "d) Sólo rompió relaciones con Alemania, confiscando sus embarcaciones y otros bienes",
+                    "e) b y d son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "El Perú mantuvo una neutralidad nominal pero en la práctica colaboró con los Aliados. Además, rompió relaciones específicamente con Alemania en 1917 y procedió a confiscar embarcaciones y otros bienes alemanes en el país."
+            },
+            {
+                "pregunta": "¿Cuál fue la consecuencia o consecuencias del desenlace de la I Guerra Mundial?",
+                "opciones": [
+                    "a) Se inició el declive del imperio británico",
+                    "b) Se desintegró el imperio austro-húngaro",
+                    "c) Estados Unidos surge como gran potencia mundial",
+                    "d) Se crean las condiciones para la II Guerra Mundial a través del Tratado de Versalles",
+                    "e) Todas las anteriores son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "La Primera Guerra Mundial tuvo múltiples consecuencias significativas: el declive del imperio británico, la desintegración del imperio austro-húngaro, el surgimiento de Estados Unidos como potencia mundial, y la creación de condiciones que contribuyeron al estallido de la Segunda Guerra Mundial a través del Tratado de Versalles."
+            },
+            {
+                "pregunta": "La sociedad de las Naciones fue establecida en 1919 con el objetivo de garantizar la integridad de los Estados, el arbitraje de conflictos internacionales y el desarme. ¿Qué estadista fue el que propuso esta importante iniciativa de post conflicto?",
+                "opciones": [
+                    "a) El Primer Ministro británico David Lloyd George",
+                    "b) El diplomático escocés Eric Drummond, quien sería su primer Secretario General",
+                    "c) El presidente de los Estados Unidos Thomas Woodrow Wilson",
+                    "d) El presidente de Francia Raymond Poincaré",
+                    "e) Ninguno de los anteriores"
+                ],
+                "respuesta": "c",
+                "explicacion": "El presidente Wilson propuso la creación de la Sociedad de Naciones como parte de sus Catorce Puntos, un conjunto de propuestas para la paz después de la Primera Guerra Mundial. La idea fue incorporada en el Tratado de Versalles."
+            },
+            {
+                "pregunta": "En el período de entreguerras, varios países fueron copados por regímenes totalitarios, como el fascista en Italia, el nacionalsocialista en Alemania, el estalinista en la URSS y el militarista en el Japón. Señale cual fue la característica particular de estos regímenes que ocasionó al estallido y desarrollo de la Segunda Guerra Mundial:",
+                "opciones": [
+                    "a) Políticas de conquista territorial y violación del derecho internacional humanitario",
+                    "b) Existencia de partido único, que monopoliza el poder y sostiene al caudillo",
+                    "c) Represión y militarización de la sociedad",
+                    "d) Caudillismo: la visión y decisiones del líder son aceptadas por la población",
+                    "e) El rechazo a la democracia y al parlamentarismo"
+                ],
+                "respuesta": "a",
+                "explicacion": "Las políticas de conquista territorial y la violación del derecho internacional humanitario fueron las características principales que llevaron al estallido de la Segunda Guerra Mundial, ejemplificadas en acciones como la ocupación de Austria y Checoslovaquia por Alemania, y la invasión de China por Japón."
+            },
+            {
+                "pregunta": "A raíz del ataque japonés a la base naval estadounidense en Pearl Harbor y como resultado de los acuerdos adoptados en la III Reunión de Consulta de los ministros de Relaciones Exteriores de la Unión Panamericana celebrada en Río de Janeiro entre el 15 y el 28 de enero de 1942, el Perú:",
+                "opciones": [
+                    "a) Rompió relaciones diplomáticas con el Imperio del Japón y los demás países del Eje",
+                    "b) Declaró la guerra al Imperio del Japón y a los demás países del Eje",
+                    "c) De manera simultánea rompieron relaciones diplomáticas y declararon la guerra",
+                    "d) Mantuvo su neutralidad entre los beligerantes",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "a",
+                "explicacion": "El Perú, como respuesta a los acuerdos de la III Reunión de Consulta de la Unión Panamericana y en solidaridad con los Estados Unidos, rompió relaciones diplomáticas con las potencias del Eje (Alemania, Italia y Japón), pero no declaró formalmente la guerra."
+            },
+            {
+                "pregunta": "La II Guerra Mundial tuvo características muy singulares respecto a las guerras que la precedieron. De todas estas, ¿cuál fue el principal distintivo que marcó este conflicto respecto a otros?",
+                "opciones": [
+                    "a) Gran número de combatientes y cuantiosas bajas",
+                    "b) Matanza de civiles, campos de exterminio, trabajos forzados, genocidio, uso de armas de destrucción masiva sobre objetivos no militares",
+                    "c) Devastación de varios países",
+                    "d) Objetivos no sólo geopolíticos sino ideológicos (fascismo, comunismo, democracia)",
+                    "e) Desarrolló de acciones simultáneas en diversos continentes"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Segunda Guerra Mundial se distinguió principalmente por la brutalidad sin precedentes dirigida contra civiles, incluyendo el Holocausto, campos de exterminio, trabajos forzados y el uso de armas de destrucción masiva como las bombas atómicas sobre objetivos civiles."
+            },
+            {
+                "pregunta": "Tras concluir la II Guerra Mundial, se creó el Tribunal Internacional de Nuremberg para determinar la responsabilidad de las principales autoridades nazis en la guerra. Indique cuales fueron los cargos por los cuales se juzgó a los perpetradores en Nuremberg",
+                "opciones": [
+                    "a) Cargos por crímenes contra la paz y crímenes de guerra",
+                    "b) Cargos por crímenes contra la humanidad",
+                    "c) Cargos por genocidio",
+                    "d) Cargos por complot de guerra o conspiración contra la paz",
+                    "e) Todos los anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "Los perpetradores en el Tribunal de Nuremberg fueron juzgados por todos los cargos mencionados: crímenes contra la paz, crímenes de guerra, crímenes contra la humanidad, genocidio y conspiración para cometer estos actos."
+            },
+            {
+                "pregunta": "La Guerra Fría fue un enfrentamiento político, económico, social y militar entre el bloque Occidental liderado por Estados Unidos, y el bloque del Este, liderado por la Unión Soviética. Ordene cronológicamente los eventos vinculados a la Guerra Fría",
+                "opciones": [
+                    "a) D, E, B, C, A",
+                    "b) A, C, E, B, D",
+                    "c) D, C, E, B, A",
+                    "d) E, D, B, C, A",
+                    "e) B, E, A, D, C"
+                ],
+                "respuesta": "c",
+                "explicacion": "El orden correcto es: Bloqueo de Berlín (1948-1949), creación de la OTAN (1949), Guerra de Corea (1950-1953), inicio de la carrera espacial (1957), y crisis de los misiles en Cuba (1962)."
+            },
+            {
+                "pregunta": "La Guerra de Corea de 1950-1953 fue uno de los conflictos que se desarrollaron en el marco de la guerra fría. Se inició con la invasión de tropas norcoreanas a Corea del Sur y luego se internacionalizó. Señale cuáles fueron los países que participaron militarmente en la contienda",
+                "opciones": [
+                    "a) Estados Unidos y Corea del Sur contra Corea del Norte",
+                    "b) Estados Unidos y Corea del Sur contra Corea del Norte y la República Popular China",
+                    "c) Estados Unidos y Corea del Sur contra Corea del Norte, la Unión Soviética y la República Popular China",
+                    "d) Estados Unidos, Corea del Sur y una fuerza multinacional de Naciones Unidas contra Corea del Norte y China",
+                    "e) Estados Unidos y Corea del Sur contra Corea del Norte, China, Unión Soviética, Bulgaria, Checoslovaquia, Hungría, Polonia, Rumania y Mongolia"
+                ],
+                "respuesta": "d",
+                "explicacion": "La Guerra de Corea involucró a Estados Unidos, Corea del Sur y una fuerza multinacional de las Naciones Unidas que lucharon contra Corea del Norte y China. Fue un conflicto internacionalizado bajo el mandato de la ONU."
+            },
+            {
+                "pregunta": "La guerra del Golfo entre una coalición liderada por los Estados Unidos contra Irak, se inició el 16 de enero de 1991 y concluyó el 28 de febrero de ese año. Señale cuál de los enunciados no corresponde a la antesala, causas o finalización de ese conflicto",
+                "opciones": [
+                    "a) Bajo el gobierno de Saddam Hussein Irak invade y se anexa el Emirato de Kuwait",
+                    "b) Irak se convierte en una amenaza para la seguridad e integridad de la región",
+                    "c) La ONU condena la agresión, impone sanciones y autoriza el uso de la fuerza",
+                    "d) EE.UU. y la coalición invade Irak, para ubicar y destruir armas de destrucción masiva",
+                    "e) Asegurar la estabilidad en la producción, distribución y precios internacionales del petróleo"
+                ],
+                "respuesta": "d",
+                "explicacion": "La búsqueda y destrucción de armas de destrucción masiva no fue parte de la Guerra del Golfo de 1991. Esta fue una justificación utilizada en la invasión de Irak de 2003, no en la Guerra del Golfo de 1991, que se centró en la liberación de Kuwait."
+            },
+            {
+                "pregunta": "En 1985, Mikhail Gorbachov asumió el poder en la Unión Soviética como Secretario General del Partido Comunista. A dos años de su gestión se iniciaron reformas que tendrían gran repercusión internacional. Señale cuál de estos enunciados no es correcto",
+                "opciones": [
+                    "a) Gorbachov contó con el respaldo incondicional del ala conservadora del Partido Comunista para dar continuidad a las reformas",
+                    "b) Las reformas fueron conocidas como Glasnost (apertura) y Perestroika (reestructuración)",
+                    "c) Pretenderían impulsar el desarrollo económico, la democratización y la transparencia",
+                    "d) Ocasionaron la desintegración de la URSS, el fin del Pacto de Varsovia y de la Guerra Fría",
+                    "e) No tomar en cuenta alianzas con otros países socialistas, pero si la entrada de inversiones extranjeras, allanando el camino al capitalismo"
+                ],
+                "respuesta": "a",
+                "explicacion": "Gorbachov NO contó con el respaldo incondicional del ala conservadora del Partido Comunista. Por el contrario, enfrentó fuerte resistencia y oposición de los conservadores que se oponían a sus reformas."
+            },
+            {
+                "pregunta": "La invasión de la Unión Soviética a Afganistán generó un nuevo escenario de conflicto que se convertiría en el último campo de batalla de la guerra fría. Indique el orden en que aconteció este conflicto",
+                "opciones": [
+                    "a) A, E, C, D, B",
+                    "b) A, B, C, D, E",
+                    "c) E, C, A, B, D",
+                    "d) C, E, A, D, B",
+                    "e) A, E, C, A, B"
+                ],
+                "respuesta": "c",
+                "explicacion": "El orden correcto fue: Revolución de Saur (E), derrocamiento de Taraki por Amin (C), invasión soviética (A), inicio de la guerrilla muyahidín (B), y finalmente el apoyo de EE.UU. a los muyahidines (D)."
+            },
+            {
+                "pregunta": "Cuál de los siguientes sucesos no corresponden al siglo XXI",
+                "opciones": [
+                    "a) El atentado terrorista a la Torres Gemelas de Nueva York",
+                    "b) El lanzamiento del navegador World Wide Web (www)",
+                    "c) El récord histórico del precio del petróleo que llegó a US$ 147 por barril",
+                    "d) La llamada Primavera Árabe",
+                    "e) La crisis hipotecaria en los Estados Unidos"
+                ],
+                "respuesta": "b",
+                "explicacion": "El lanzamiento de la World Wide Web (WWW) ocurrió en 1989, en el siglo XX, mientras que todos los demás eventos mencionados ocurrieron en el siglo XXI."
+            },
+            {
+                "pregunta": "La Doctrina Monroe, fue promulgada por el presidente de los Estados Unidos en 1823, como un importante eje rector en la política exterior de ese país. Señale cuál de las siguientes afirmaciones no es correcta",
+                "opciones": [
+                    "a) Fue concebida por el diplomático y político estadounidense John Quincy Adams",
+                    "b) Establecía que toda intervención europea en América sería vista como un acto de agresión",
+                    "c) Reafirmó la posición estadounidense contra el colonialismo europeo",
+                    "d) Fue concebida por el presidente James Monroe, quinto presidente de los EE.UU.",
+                    "e) inicialmente fue acogida de manera positiva en América Latina"
+                ],
+                "respuesta": "a",
+                "explicacion": "La Doctrina Monroe fue concebida por el presidente James Monroe, no por John Quincy Adams, aunque Adams tuvo un papel importante en su desarrollo como Secretario de Estado."
+            },
+            {
+                "pregunta": "¿Qué países latinoamericanos enviaron tropas y se involucraron en operaciones militares durante la II Guerra Mundial?",
+                "opciones": [
+                    "a) Ningún país de América Latina",
+                    "b) Brasil",
+                    "c) Brasil y México",
+                    "d) Panamá",
+                    "e) Argentina, Cuba y Panamá"
+                ],
+                "respuesta": "c",
+                "explicacion": "Brasil y México fueron los únicos países latinoamericanos que enviaron tropas y se involucraron en operaciones militares durante la Segunda Guerra Mundial. Brasil envió la Fuerza Expedicionaria Brasileña a Italia, mientras que México participó en operaciones militares limitadas."
             }
         ],
         "2022": [
             {
-                "pregunta": "Pregunta 1 de Historia del Universal 2022",
-                "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
+                "pregunta": "Considerada como una de las grandes revoluciones de la modernidad occidental, la revolución industrial define sus primeras manifestaciones en Gran Bretaña desde mediados del siglo XVIII. ¿Cuál de los siguientes postulados no corresponde al proceso mencionado?",
+                "opciones": [
+                    "a) Hubo una intensificación en la construcción de vías de comunicación",
+                    "b) La fabricación de textiles fue el sector manufacturero en el que se realizaron los mayores avances tecnológicos",
+                    "c) Las nuevas formas de producción quedaron circunscritas al territorio británico y no se expandieron al continente europeo",
+                    "d) La exportación de textiles se dirigió a distintas áreas del mundo, entre ellas América Latina",
+                    "e) El registro de patentes amparado por el Estado brindó la confianza debida para estimular a los inventores"
+                ],
+                "respuesta": "c",
+                "explicacion": "La afirmación incorrecta es que las nuevas formas de producción quedaron circunscritas al territorio británico, ya que en realidad la Revolución Industrial se expandió al continente europeo y más allá."
+            },
+            {
+                "pregunta": "Sobre el Congreso de Viena, identifique la afirmación correcta:",
+                "opciones": [
+                    "a) En dicha reunión queda evidenciada la gravitación militar de España en Europa",
+                    "b) Creó condiciones para la recomposición de las fronteras de los Estados europeos, alteradas por la expansión napoleónica",
+                    "c) Se crearon condiciones propicias para el inicio de la expansión capitalista hacia África",
+                    "d) Las potencias vencedoras impidieron la presencia de diplomáticos franceses en las negociaciones",
+                    "e) Propició el surgimiento inmediato del Imperio Alemán"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Congreso de Viena efectivamente creó condiciones para la recomposición de las fronteras de los Estados europeos, que habían sido alteradas por la expansión napoleónica."
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes países corresponden a territorios que no formaron parte del Imperio Británico?",
+                "opciones": [
+                    "a) Canadá – Australia",
+                    "b) Jamaica - Nueva Zelanda",
+                    "c) Sudáfrica – Bahamas",
+                    "d) Liberia – Angola",
+                    "e) Kenia – India"
+                ],
                 "respuesta": "d",
-                "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+                "explicacion": "Liberia y Angola no formaron parte del Imperio Británico. Ambos son territorios en África, pero no estuvieron bajo el dominio colonial británico."
+            },
+            {
+                "pregunta": "La expansión del nacionalismo se hace progresivamente visible en Europa desde inicios del siglo XIX. Identifique cuál de las siguientes afirmaciones es verdadera:",
+                "opciones": [
+                    "a) El proceso independentista de Grecia del Imperio Otomano, iniciado en 1821, gozó de una amplia solidaridad en Europa",
+                    "b) Un argumento esencial del nacionalismo fue considerar la relevancia del concepto de solidaridad entre naciones",
+                    "c) Los procesos de independencia de otros países europeos resultaron exitosos desde un primer momento; tal fue el caso de Italia, independiente del dominio inglés desde los eventos de 1848",
+                    "d) Las ideas nacionalistas mostraron una coincidencia inédita con las ideas marxistas, por ejemplo, en relación a la negativa de participar en la Gran Guerra",
+                    "e) Todas son verdaderas"
+                ],
+                "respuesta": "a",
+                "explicacion": "El proceso independentista de Grecia del Imperio Otomano en 1821 efectivamente gozó de amplia solidaridad en Europa, incluyendo el apoyo de intelectuales y políticos como Lord Byron."
+            },
+            {
+                "pregunta": "Sobre las expresiones 'Segundo Imperio' y 'Tercera República', relativas a la historia política francesa, identifique la respuesta correcta:",
+                "opciones": [
+                    "a) El Segundo Imperio está asociado a la figura de Napoleón III y representa una importante fase de desarrollo de la economía francesa",
+                    "b) Durante el Segundo Imperio, Francia renunció a cualquier forma de injerencia en asuntos internos de otros países",
+                    "c) La disolución del Segundo Imperio se debió a la derrota frente a Rusia en 1870",
+                    "d) La Tercera República se mantuvo en el funcionamiento de una democracia representativa",
+                    "e) a y d son verdaderas"
+                ],
+                "respuesta": "e",
+                "explicacion": "Son correctas las afirmaciones sobre el Segundo Imperio asociado a Napoleón III y su desarrollo económico, así como el funcionamiento de la Tercera República como una democracia representativa."
+            },
+            {
+                "pregunta": "Sobre el Imperio español y sus posesiones coloniales a fines del siglo XIX se puede afirmar:",
+                "opciones": [
+                    "a) Estados Unidos no solo apoyó la independencia de Cuba, sino que se enfrascó abiertamente en un conflicto directo contra España",
+                    "b) El 'Desastre del 98' influyó en la percepción peninsular sobre el sentido de su presencia secular en América",
+                    "c) Las posesiones coloniales en África se extendían sobre el Sahara oriental",
+                    "d) La independencia de Cuba fue anterior a la de Filipinas",
+                    "e) a y b son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "Son correctas las afirmaciones sobre el apoyo de Estados Unidos a la independencia de Cuba y su conflicto directo con España, así como la influencia del 'Desastre del 98' en la percepción española sobre su presencia en América."
+            },
+            {
+                "pregunta": "El mundo experimentó un incremento de desigualdades económicas, especialmente desde el siglo XIX. ¿Cuál de las siguientes zonas se considera una zona periférica a inicios del siglo XX?",
+                "opciones": [
+                    "a) América del Norte",
+                    "b) Europa Oriental",
+                    "c) América Latina",
+                    "d) a y b son verdaderos",
+                    "e) b y c son verdaderos"
+                ],
+                "respuesta": "e",
+                "explicacion": "Europa Oriental y América Latina eran consideradas zonas periféricas a inicios del siglo XX, caracterizadas por su menor desarrollo industrial y económico en comparación con los centros industriales."
+            },
+            {
+                "pregunta": "En el siglo XIX, el capitalismo en tanto sistema adquirió un perfil más complejo. ¿Cuál fue la familia o entidad bancaria privada más importante de ese siglo?",
+                "opciones": [
+                    "a) Medici",
+                    "b) Fugger",
+                    "c) Rothschild",
+                    "d) Banco de Inglaterra",
+                    "e) Thyssen-Krupp"
+                ],
+                "respuesta": "c",
+                "explicacion": "La familia Rothschild fue la entidad bancaria privada más importante del siglo XIX, con una red de bancos en diversas ciudades europeas y un papel crucial en el desarrollo del sistema bancario moderno."
+            },
+            {
+                "pregunta": "Sobre la presencia otomana en el Cáucaso a inicios del siglo XX, identifique el enunciado verdadero:",
+                "opciones": [
+                    "a) Provocó severos enfrentamientos con la población armenia",
+                    "b) Corresponde a una etapa de renacimiento militar",
+                    "c) Alentó alianzas militares con Rusia, coincide en sus objetivos estratégicas",
+                    "d) Las políticas implementadas por los Jóvenes Turcos mostraron una clara inspiración nacionalista",
+                    "e) a y d son verdaderos"
+                ],
+                "respuesta": "e",
+                "explicacion": "Son verdaderas las afirmaciones sobre los severos enfrentamientos con la población armenia y las políticas nacionalistas implementadas por los Jóvenes Turcos."
+            },
+            {
+                "pregunta": "De los siguientes enunciados asociados a la Primera Guerra Mundial, identifique el enunciado verdadero:",
+                "opciones": [
+                    "a) Como espacio de inicio del conflicto, en los Balcanes confluían los intereses de tres imperios: austro-húngaro, ruso y otomano",
+                    "b) Los volúmenes alcanzados por las movilizaciones de los ejércitos se incrementaron gracias a la modernización del transporte",
+                    "c) La fabricación de armas químicas era resultado de la expansión industrial implementada en Europa desde fines del siglo XIX",
+                    "d) Estados Unidos financió su ingreso a la guerra con la emisión de bonos del gobierno",
+                    "e) Todas son verdaderas"
+                ],
+                "respuesta": "e",
+                "explicacion": "Todas las afirmaciones son verdaderas, incluyendo la confluencia de intereses en los Balcanes, la modernización del transporte militar, el desarrollo de armas químicas y el financiamiento mediante bonos por parte de Estados Unidos."
+            },
+            {
+                "pregunta": "La creación de la Organización Internacional del Trabajo se inspiró en la convicción de que la justicia social resultaba esencial para alcanzar una paz universal y permanente; fue además resultado de negociaciones al interior de la Conferencia de Paz de 1919 ¿Dónde se instaló la primera sede, y única, de este organismo multilateral?",
+                "opciones": [
+                    "a) París",
+                    "b) Nueva York",
+                    "c) Londres",
+                    "d) Ginebra",
+                    "e) Roma"
+                ],
+                "respuesta": "d",
+                "explicacion": "La sede de la OIT se encuentra en Ginebra, Suiza. Desde su creación, Ginebra ha sido el lugar donde la OIT lleva a cabo sus actividades y donde se reúnen los representantes de los Estados miembros para discutir cuestiones laborales y establecer normas internacionales en relación con el trabajo."
+            },
+            {
+                "pregunta": "Con el término de la Segunda Guerra Mundial concluía lo que se denominó 'Era de las catástrofes'. Sobre los sucesos ocurridos a partir de 1939 se puede afirmar:",
+                "opciones": [
+                    "a) La invasión de Austria en 1938 por parte de la Alemania nazi fue denominada Anschluss",
+                    "b) El régimen de Vichy alude al gobierno de la resistencia, surgido en Francia desde 1942, momento de la invasión nazi",
+                    "c) Los bombardeos perpetrados por las diferentes fuerzas aéreas solo afectarán a los blancos militares",
+                    "d) La solución final fue concebida desde el inicio mismo de la guerra, planeada por las élites de las SS",
+                    "e) La victoria de la Royal Air Force sobre la Luftwaffe en la batalla de Gran Bretaña en 1940, disuadió a Hitler de llevar adelante sus aviones de invasión a la isla"
+                ],
+                "respuesta": "e",
+                "explicacion": "La victoria de la Royal Air Force sobre la Luftwaffe en la batalla de Gran Bretaña en 1940 efectivamente disuadió a Hitler de llevar adelante sus planes de invasión a la isla británica."
+            },
+            {
+                "pregunta": "Los Balcanes han representado desde hace más de un siglo, un espacio generador de tensiones de diversa índole. En una mirada amplia sobre tópicos diversos, asociados a dicha región se puede afirmar:",
+                "opciones": [
+                    "a) El término balcanización alude a la fragmentación económica existente en esa península europea",
+                    "b) Croatas y bosnios profesan predominantemente la fe ortodoxa",
+                    "c) La creación de Yugoslavia tras la Primera Guerra Mundial fue un esfuerzo por neutralizar las seculares tensiones étnicas de la región",
+                    "d) Como parte de la región, Austria ejerció influencia tradicional incluso hasta el inicio de la Segunda Guerra",
+                    "e) Ninguna es verdadera"
+                ],
+                "respuesta": "c",
+                "explicacion": "La creación de Yugoslavia tras la Primera Guerra Mundial en 1918 fue un intento de unificar a varias naciones eslavas del sur de Europa, incluyendo serbios, croatas, eslovenos y otros grupos étnicos, con el objetivo de superar las tensiones étnicas y lograr la coexistencia en una federación."
+            },
+            {
+                "pregunta": "Uno de los fenómenos gravitantes del mundo de posguerra fue el acelerado crecimiento demográfico. Sobre dicho proceso, identifique la afirmación verdadera:",
+                "opciones": [
+                    "a) Un fenómeno típico fue el acelerado incremento de nacimientos en algunos países como Estados Unidos, bautizado como Baby Boom",
+                    "b) La expansión demográfica se explica como resultado de la propagación de las vacunas, en especial por el descubrimiento de la vacuna contra la viruela",
+                    "c) El tema demográfico se convierte en parte de la agenda mundial de desarrollo y se debate su problemática en grandes foros internacionales",
+                    "d) a y b son verdaderas",
+                    "e) a y c son verdaderas"
+                ],
+                "respuesta": "e",
+                "explicacion": "Son correctas las afirmaciones sobre el Baby Boom en Estados Unidos y otros países, así como la inclusión del tema demográfico en la agenda mundial de desarrollo, donde se debatió en foros internacionales para abordar sus implicaciones y encontrar soluciones."
+            },
+            {
+                "pregunta": "Tras la Segunda Guerra Mundial, el proceso de descolonización se hizo más intenso en la década del sesenta. Identifique las afirmaciones verdaderas:",
+                "opciones": [
+                    "A) a y b",
+                    "B) b y c",
+                    "C) a, b y c",
+                    "D) a, b y e",
+                    "E) Todas son verdaderas"
+                ],
+                "respuesta": "C",
+                "explicacion": "Son verdaderas las afirmaciones sobre: el Mariscal Tito como líder tercermundista de los Balcanes, la independencia de Indonesia de las posesiones holandesas, y las graves tensiones entre India y Pakistán tras la partida de la administración británica."
+            },
+            {
+                "pregunta": "Sobre el crecimiento económico de Asia en la posguerra, identifique la afirmación verdadera:",
+                "opciones": [
+                    "a) Los chaebol representaron la expresión más acabada de desarrollo empresarial en Corea del Sur",
+                    "b) La ocupación militar norteamericana en Japón neutralizó las posibilidades de desarrollo industrial desde la década de 1950",
+                    "c) Malasia fue una de las potencias industriales emergentes y fue considerada uno de los Tigres del Asia",
+                    "d) Los zaibatsus se establecieron en Japón antes de la Segunda Guerra forjando conglomerados de varias actividades y siguiendo el modelo de los chaebol",
+                    "e) a y d son verdaderas"
+                ],
+                "respuesta": "a",
+                "explicacion": "Los chaebol son grandes conglomerados empresariales de Corea del Sur que jugaron un papel crucial en el desarrollo económico del país. Empresas como Samsung, Hyundai y LG son ejemplos de chaebol que contribuyeron significativamente al crecimiento industrial y tecnológico de Corea del Sur."
+            },
+            {
+                "pregunta": "La disolución de la URSS se produjo en 1991 y abre una nueva etapa en las relaciones internacionales. Indique cuál de las siguientes afirmaciones podría entenderse como factor asociado a dicho evento:",
+                "opciones": [
+                    "a) La llegada de Gorbachov al poder en 1985 alentó una renovada perspectiva política al interior del Politburó",
+                    "b) La implementación de reformas, contenidas en los términos novedosos de la perestroika y la glasnost, debilitaron al comunismo",
+                    "c) Fisuras al interior del bloque comunista pudieron apreciarse en Polonia con la mano de obra desarrollada por el Sindicato Solidaridad",
+                    "d) El gasto creciente de la URSS en armamento nuclear",
+                    "e) Todas las anteriores"
+                ],
+                "respuesta": "e",
+                "explicacion": "Todos los factores mencionados contribuyeron a la disolución de la URSS: las reformas de Gorbachov, la perestroika y glasnost, las fisuras en el bloque comunista ejemplificadas por el Sindicato Solidaridad en Polonia, y el gasto excesivo en armamento nuclear."
+            },
+            {
+                "pregunta": "De los desafíos globales contemporáneos, el Cambio Climático es uno a los que se suele reconocer mayor gravitación. Elija la afirmación verdadera:",
+                "opciones": [
+                    "a) Cada vez con mayores pruebas, se demuestra que el cambio climático equivale a efecto invernadero",
+                    "b) El estudio de mayor profundidad científica sobre su funcionamiento lo proporciona el Panel Intergubernamental de Cambio Climático (IPCC)",
+                    "c) El Informe Brundtland propuso la idea del Desarrollo Sostenible y con ello defiende la necesidad de privilegiar la economía por encima de la ecología",
+                    "d) La incidencia del Cambio Climático es visible en diferentes fenómenos, atmosféricos y oceanográficos e inclusive tectónicos",
+                    "e) b y c son verdaderas"
+                ],
+                "respuesta": "b",
+                "explicacion": "El IPCC es una organización científica intergubernamental establecida por las Naciones Unidas que proporciona el análisis más exhaustivo y actualizado de la ciencia del cambio climático, sus impactos y posibles medidas de mitigación y adaptación."
+            },
+            {
+                "pregunta": "De esta manera se conoce al conjunto de manifestaciones y protestas producidas en varios países árabes, en favor de la democracia y los derechos sociales, a partir del año 2010:",
+                "opciones": [
+                    "a) Revolución Verde",
+                    "b) Primavera Árabe",
+                    "c) Movimiento por los derechos Civiles Árabes",
+                    "d) Revolución Iraní",
+                    "e) Ninguna de las anteriores"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Primavera Árabe fue una serie de protestas y movimientos sociales que comenzaron en Túnez en 2010 y se extendieron por varios países árabes, buscando cambios democráticos, libertades políticas y económicas, y luchando contra la corrupción y desigualdad."
+            },
+            {
+                "pregunta": "Con relación al atentado terrorista ocurrido el 11 de septiembre de 2001 contra el World Trade Center en Nueva York, indique la alternativa correcta:",
+                "opciones": [
+                    "a) El ataque fue atribuido rápidamente a grupo Al Qaeda",
+                    "b) Fue efectuado utilizando misiles balísticos de largo alcance",
+                    "c) Estados Unidos lanzó la llamada Guerra contra el terrorismo",
+                    "d) Estados Unidos invadió Pakistán para deponer a los Talibanes",
+                    "e) a y c son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "El ataque fue atribuido al grupo terrorista Al Qaeda, liderado por Osama bin Laden, y como respuesta, Estados Unidos declaró la 'Guerra contra el terrorismo', que incluyó intervenciones militares y medidas para desmantelar redes terroristas y prevenir futuros ataques."
             }
         ],
         "2023": [
@@ -1532,6 +2303,246 @@
                 "opciones": ["a) Opción 1", "b) Opción 2", "c) Opción 3", "d) Opción 4"],
                 "respuesta": "d",
                 "explicacion": "Explicación para Historia del Perú 2019, pregunta 1."
+            },         
+            {
+                "pregunta": "La Revolución de Octubre en Rusia estuvo dirigida por",
+                "opciones": [
+                    "a) Los fascistas",
+                    "b) Los estalinistas",
+                    "c) Los bolcheviques",
+                    "d) Los mencheviques",
+                    "e) Los trotskistas"
+                ],
+                "respuesta": "c",
+                "explicacion": "Los bolcheviques eran un grupo político revolucionario liderado por Vladimir Lenin. El 25 de octubre de 1917 (calendario juliano, que corresponde al 7 de noviembre en el calendario gregoriano), los bolcheviques llevaron a cabo un levantamiento armado en Petrogrado (hoy San Petersburgo), derrocando al Gobierno Provisional y tomando el poder."
+            },
+            {
+                "pregunta": "El 'Plan Marshall' era la expresión económica de ___ y fue impulsado por ___ para ofrecer ayuda económica y financiera a los países europeos tras la Segunda Guerra Mundial.",
+                "opciones": [
+                    "a) La Perestroika - la Unión Soviética",
+                    "b) La Doctrina Truman - Estados Unidos",
+                    "c) El Pacto de Varsovia - Estados Unidos",
+                    "d) La Doctrina Truman - Inglaterra",
+                    "e) La Doctrina Truman - la Unión Soviética"
+                ],
+                "respuesta": "b",
+                "explicacion": "El Plan Marshall fue la expresión económica de la Doctrina Truman y fue impulsado por Estados Unidos para ofrecer ayuda económica y financiera a los países europeos tras la Segunda Guerra Mundial. Esta política fue anunciada por el presidente estadounidense Harry S. Truman en 1947 como parte de los esfuerzos para reconstruir Europa después de la devastación causada por la guerra y para contener la expansión del comunismo en la región."
+            },
+            {
+                "pregunta": "En los últimos años de las guerras napoleónicas, en Europa se formó una alianza político-militar denominada la 'Séptima Coalición'. Entre los miembros de dicha alianza se encontraron:",
+                "opciones": [
+                    "a) Inglaterra, Rusia, Italia, Francia",
+                    "b) Rusia, Prusia, Inglaterra, Austria",
+                    "c) España, Inglaterra, Rusia, Italia",
+                    "d) Rusia, Inglaterra, Austria, Italia",
+                    "e) Inglaterra, Austria, Francia, Italia"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Séptima Coalición fue una alianza político-militar formada durante los últimos años de las guerras napoleónicas para hacer frente a las expansiones y amenazas de Napoleón Bonaparte y su Primer Imperio Francés. Los miembros clave de esta coalición fueron Rusia, Prusia, Inglaterra y Austria."
+            },
+            {
+                "pregunta": "Entre 1961 y 1975, los Estados Unidos se involucraron en la guerra civil de Vietnam bajo el argumento de frenar un posible plan expansionista comunista en el sur asiático. Sin embargo, tras la administración ___ (1961-1963) y ___ (1963-1969), finalmente el presidente ___ tuvo que aceptar que no había un plan comunista y ordenó el retiro de las tropas estadounidenses.",
+                "opciones": [
+                    "a) Truman - Eisenhower - Kennedy",
+                    "b) Kennedy - Nixon - Bush",
+                    "c) Eisenhower - Truman - Nixon",
+                    "d) Kennedy Johnson - Bush",
+                    "e) Kennedy Johnson - Nixon"
+                ],
+                "respuesta": "e",
+                "explicacion": "Los presidentes involucrados fueron Kennedy (1961-1963), seguido por Johnson (1963-1969), y finalmente Nixon, quien implementó la 'Vietnamización' y retiró las tropas estadounidenses. En 1973, se firmaron los Acuerdos de Paz de París, que pusieron fin oficialmente a la participación militar estadounidense en Vietnam."
+            },
+            {
+                "pregunta": "En el último tercio del siglo XVIII, la corona inglesa adoptó diversas medidas económicas que terminaron generando el descontento de la población colonial en América. Dentro de éstas, que terminó desencadenando las mayores protestas fue:",
+                "opciones": [
+                    "a) Economic Act de 1770",
+                    "b) Navigation Act de 1778",
+                    "c) Stamp Act de 1765",
+                    "d) Tea Act de 1773",
+                    "e) Plantation Act de 1764"
+                ],
+                "respuesta": "d",
+                "explicacion": "El Tea Act de 1773 otorgaba a la Compañía Británica de las Indias Orientales el derecho exclusivo de exportar té a las colonias americanas. Esta ley provocó grandes protestas, incluyendo el famoso Motín del Té en Boston, donde los colonos arrojaron cargamentos de té al puerto en protesta."
+            },
+            {
+                "pregunta": "La guerra de Suez de 1956 enfrentó a",
+                "opciones": [
+                    "a) Egipto - Israel, España y Francia",
+                    "b) Egipto - España, Inglaterra y Francia",
+                    "c) Egipto - Inglaterra, Portugal y Francia",
+                    "d) Egipto - Israel, Inglaterra y Francia",
+                    "e) Egipto - Israel, Inglaterra y España"
+                ],
+                "respuesta": "d",
+                "explicacion": "El conflicto enfrentó a Egipto contra una coalición formada por Israel, Inglaterra y Francia, después de que Egipto nacionalizara el Canal de Suez. La presión internacional, especialmente de los Estados Unidos, obligó a Inglaterra, Francia e Israel a retirarse."
+            },
+            {
+                "pregunta": "Durante la revolución francesa, se produjo un período conocido como 'el Terror blanco' cuyo principal objetivo fue:",
+                "opciones": [
+                    "a) La ejecución de la nobleza francesa y los altos miembros del clero francés",
+                    "b) La persecución y ejecución de los girondinos",
+                    "c) La persecución y ejecución del rey y la nobleza francesa",
+                    "d) La persecución y ejecución del ejército revolucionario francés",
+                    "e) La persecución y ejecución de los jacobinos"
+                ],
+                "respuesta": "e",
+                "explicacion": "El 'Terror blanco' fue un período que siguió al 'Reinado del Terror' durante la Revolución Francesa. Durante este período, los termidorianos persiguieron y ejecutaron a los jacobinos y otros revolucionarios radicales que habían estado en el poder durante el Reinado del Terror."
+            },
+            {
+                "pregunta": "A mediados de la década de 1960, en China se llevó a cabo la denominada 'Revolución Cultural' la cual consistió en:",
+                "opciones": [
+                    "a) Un cambio en el énfasis de la industria y las fábricas de gran escala a fin de entablar nuevos lazos con la Unión soviética",
+                    "b) Un ejercicio de propaganda impulsada por Mao para renovar el fervor revolucionario",
+                    "c) El exterminio de los revolucionarios comunistas por parte del ejército imperial",
+                    "d) La nacionalización de los negocios y escuelas chinos por parte del gobierno chino a fin de evitar el avance comunista",
+                    "e) Un ejercicio de propaganda impulsado por la monarquía para afianzar el fervor contrarrevolucionario"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Revolución Cultural (1966-1976) fue una campaña de masas lanzada por Mao Zedong para revitalizar el comunismo en China y eliminar elementos 'revisionistas' o 'burgueses' en la sociedad. Se caracterizó por purgas políticas, persecuciones y una intensa campaña de propaganda."
+            },
+            {
+                "pregunta": "Pocas semanas antes de la rendición de Japón durante la Segunda Guerra Mundial, la URSS le declaró la guerra a Corea, la cual se encontraba ocupada por los japoneses desde el fin de la guerra Ruso-Japonesa. Finalmente, los soviéticos retiraron sus tropas y en ___ se proclamó la República Democrática Popular de Corea con ___ como su primer ministro.",
+                "opciones": [
+                    "a) 1955 - Kim II Sung",
+                    "b) 1950 - Kim Jong II",
+                    "c) 1948 - Kim Jong-Un",
+                    "d) 1949 - Kim Jong II",
+                    "e) 1948 - Kim II Sung"
+                ],
+                "respuesta": "e",
+                "explicacion": "En 1948, después de la ocupación soviética, se proclamó la República Democrática Popular de Corea con Kim Il Sung como su primer ministro. Esto ocurrió tras la división de la península de Corea en zonas de ocupación soviética y estadounidense después de la Segunda Guerra Mundial."
+            },
+            {
+                "pregunta": "La Doctrina Monroe, la cual estipuló que las potencias europeas no podían intervenir en asuntos internos de los países americanos, fue elaborada por",
+                "opciones": [
+                    "a) James Madison",
+                    "b) John Quincy Adams",
+                    "c) Thomas Jefferson",
+                    "d) Theodore Roosevelt",
+                    "e) John F. Kennedy"
+                ],
+                "respuesta": "b",
+                "explicacion": "La Doctrina Monroe fue elaborada por John Quincy Adams, entonces Secretario de Estado, aunque fue anunciada por el presidente James Monroe en 1823. Esta doctrina establecía que cualquier intento de las potencias europeas de colonizar o intervenir en los asuntos políticos de los países independientes en América sería considerado como un acto de hostilidad hacia los Estados Unidos."
+            },
+            {
+                "pregunta": "Pregunta 11: Son particularidades del fascismo italiano",
+                "opciones": [
+                    "a) Enfatizó una política antijudía y racista desde 1923, la cual terminó siendo emulada por la Alemania nazi",
+                    "b) Implantó políticas anticomunistas y mala relación con la Iglesia católica",
+                    "c) Afianzó el sistema parlamentario luego de la disolución de la monarquía italiana",
+                    "d) Buscó organizar un Estado totalitario que buscase el control de la industria, economía y estilo de vida de la población",
+                    "e) Buscó organizar un sistema representativo dejando el control de la industria, economía y estilo de vida de la población al parlamento"
+                ],
+                "respuesta": "d",
+                "explicacion": "El fascismo italiano bajo Mussolini buscó establecer un Estado totalitario con control absoluto sobre la vida de los ciudadanos, la industria y la economía, fomentando la colaboración entre el Estado, los sindicatos y las empresas privadas."
+            },
+            {
+                "pregunta": "Pregunta 12: Tras el fin de la Segunda Guerra Mundial, los aliados se dividieron a Alemania en dos Estados bajo la influencia de occidente y la influencia soviética. El nombre que recibió esta última fue:",
+                "opciones": [
+                    "a) República Soviética Alemana",
+                    "b) Federación Alemana",
+                    "c) República Federal Alemana",
+                    "d) República Democrática Alemana",
+                    "e) Nuevo Estado Alemán del Este"
+                ],
+                "respuesta": "d",
+                "explicacion": "La zona oriental bajo ocupación soviética se convirtió en la República Democrática Alemana (RDA) el 7 de octubre de 1949, desarrollándose como un estado socialista bajo la influencia de la Unión Soviética."
+            },
+            {
+                "pregunta": "Pregunta 13: Los primeros años de la Unión Soviética estuvieron marcados por conflictos internos entre las fuerzas políticas. Uno de estos fueron las denominadas purgas",
+                "opciones": [
+                    "a) Fueron llevados a cabo por Stalin entre 1920 y 1930",
+                    "b) Fueron llevados a cabo por Gorbachov entre 1923 y 1938",
+                    "c) Fueron llevados a cabo por Stalin entre 1934 y 1938",
+                    "d) Fueron llevados a cabo por Lenin entre 1917 y 1929",
+                    "e) Fueron llevados a cabo por Gorbachov entre 1934 y 1938"
+                ],
+                "respuesta": "c",
+                "explicacion": "Las purgas de Stalin ocurrieron entre 1934 y 1938, siendo una campaña de represión política que incluyó arrestos masivos, juicios sumarios y ejecuciones de políticos, intelectuales y militares considerados amenazas para el régimen."
+            },
+            {
+                "pregunta": "Pregunta 14: La guerra del Golfo (1990-1991) es una consecuencia directa de una guerra previa entre Irak y...",
+                "opciones": [
+                    "a) Egipto 1980 - 1985",
+                    "b) Irán 1985-1989",
+                    "c) Estados Unidos - 1988 - 1989",
+                    "d) Estados Unidos 1980-1988",
+                    "e) Irán 1980-1988"
+                ],
+                "respuesta": "e",
+                "explicacion": "La Guerra Irán-Irak (1980-1988) dejó a Irak con una grave crisis económica y deudas masivas, lo que llevó a Saddam Hussein a buscar el control de las reservas petroleras de Kuwait, desencadenando la Guerra del Golfo."
+            },
+            {
+                "pregunta": "Pregunta 15: Como canciller alemán, Adolf Hitler aplicó una política conocida como Gleichschaltung, o 'coordinación por la fuerza', dentro de la cual el gobierno intentó controlar diversos aspectos a través de la fuerza policial y la Policía Secreta del Estado, conocida como:",
+                "opciones": [
+                    "a) SA (Sturmabteilung)",
+                    "b) Falange",
+                    "c) Camisas negras",
+                    "d) Gestapo (Geheime Staatspolizei)",
+                    "e) SS (Schutzstaffeln)"
+                ],
+                "respuesta": "d",
+                "explicacion": "La Gestapo fue la Policía Secreta del Estado nazi encargada de la seguridad interna y la represión política, siendo fundamental en la implementación de la política de Gleichschaltung para eliminar la oposición."
+            },
+            {
+                "pregunta": "Pregunta 16: Durante el gobierno de ___ en la URSS, se decidió instalar lanzamisiles nucleares en ___ apuntando a los Estados Unidos",
+                "opciones": [
+                    "a) Gorbachov - Cuba",
+                    "b) Kruschev - Turquía",
+                    "c) Kruschev - Cuba",
+                    "d) Mao – Vietnam",
+                    "e) Stalin Cuba"
+                ],
+                "respuesta": "c",
+                "explicacion": "Durante el gobierno de Kruschev, la URSS instaló misiles nucleares en Cuba en 1962, lo que desató la Crisis de los Misiles de Cuba, una tensa confrontación con Estados Unidos que casi lleva a una guerra nuclear."
+            },
+            {
+                "pregunta": "Pregunta 17: ¿Qué factores llevaron a que el gobierno provisional ruso de 1917 durase tan poco en el poder?",
+                "opciones": [
+                    "a) El gobierno perdió el apoyo por retrasar la elección de la asamblea constituyente",
+                    "b) Tomó la decisión de seguir la guerra contra Japón y Alemania",
+                    "c) La economía rusa empeoró debido a la inflación",
+                    "d) El retorno de Stalin de su exilio",
+                    "e) A y D son correctas"
+                ],
+                "respuesta": "e",
+                "explicacion": "El gobierno provisional perdió apoyo por retrasar las elecciones de la Asamblea Constituyente y el regreso de líderes revolucionarios del exilio contribuyó al debilitamiento del gobierno."
+            },
+            {
+                "pregunta": "Pregunta 18: Producto del proceso independentista en la India, el gobierno británico obtuvo finalmente, en 1947, su independencia y su retiro del territorio. ¿Qué problemas llevaron a la división en India y Pakistán?",
+                "opciones": [
+                    "a) Hostilidades religiosas entre hindúes y musulmanes",
+                    "b) Hostilidades religiosas entre hindúes y budistas",
+                    "c) Hostilidades religiosas entre católicos y musulmanes",
+                    "d) Hostilidades religiosas entre hindúes y católicos",
+                    "e) Hostilidades religiosas entre budistas y musulmanes"
+                ],
+                "respuesta": "a",
+                "explicacion": "Las tensiones entre hindúes y musulmanes, junto con la demanda de Muhammad Ali Jinnah de un estado separado para los musulmanes, llevaron a la partición de la India en dos estados: India (mayoritariamente hindú) y Pakistán (musulmán)."
+            },
+            {
+                "pregunta": "Pregunta 19: Fueron políticas implementadas durante el gobierno de Gorbachov en la Unión Soviética entre 1985 y 1991",
+                "opciones": [
+                    "a) Purgas y Pacto de Varsovia",
+                    "b) Pacto de Varsovia y Perestroika",
+                    "c) Purgas y Perestroika",
+                    "d) Glasnot y Perestroika",
+                    "e) Glasnot y Pacto de Varsovia"
+                ],
+                "respuesta": "d",
+                "explicacion": "Gorbachov implementó la Glasnost (apertura y transparencia) y la Perestroika (reestructuración económica y política) como políticas para modernizar y revitalizar la Unión Soviética."
+            },
+            {
+                "pregunta": "Pregunta 20: ¿Por qué tuvo una corta vida la República de Weimar (1919-1933)?",
+                "opciones": [
+                    "a) Pese a la popularidad del Tratado de Versalles, los partidos políticos tenían poca experiencia",
+                    "b) Se le consideró responsable del impopular Tratado de Versalles y los partidos políticos tenían poca experiencia",
+                    "c) Pese la poca experiencia de los partidos políticos, existió un gran respeto por el gobierno",
+                    "d) Se le consideró responsable del impopular Tratado de Viena",
+                    "e) Pese a la popularidad del Tratado de Viena, los partidos políticos tenían poca experiencia"
+                ],
+                "respuesta": "b",
+                "explicacion": "La República de Weimar enfrentó el resentimiento por el Tratado de Versalles y la inexperiencia de los partidos políticos en el sistema democrático, lo que contribuyó a su inestabilidad y eventual caída."
             }
         ]
         
